@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/site.css?v=2">
+  <link rel="stylesheet" href="css/site.css?v=3">
 </head>
 <body>
   <header class="nav">
@@ -24,18 +24,37 @@
     </div>
   </header>
 
-  <!-- HERO: the claim, backed by the number, dated -->
+  <!-- HERO: the living entity + the claim -->
   <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <p class="kicker">AUTONOMOUS STOCK SCORING · EVERY OUTCOME PUBLISHED</p>
+        <h1>Most stock tips hide their misses.<br><em>We publish ours every night.</em></h1>
+        <p class="sub">Kronos is a machine that scores thousands of stocks around the clock, then
+          measures every single call against the S&amp;P 500, showing you the losers next to the winners.
+          No cherry-picking. No memory-holed bad calls. Just the ledger.</p>
+        <div class="hero-cta-row">
+          <a href="#join" class="btn-primary">Get the picks</a>
+          <a href="#record" class="btn-ghost">See the track record</a>
+        </div>
+      </div>
+      <div class="hero-entity">
+        <div class="entity-chamber">
+          <canvas id="entity"></canvas>
+          <div class="entity-scanline"></div>
+          <div class="entity-badge"><span class="pulse-dot"></span>LIVE · the engine, watching</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- the numbers, as a live readout strip under the hero -->
     <div class="wrap">
-      <p class="kicker">AUTONOMOUS STOCK SCORING · EVERY OUTCOME PUBLISHED</p>
-      <h1>Most stock tips hide their misses.<br><em>We publish ours every night.</em></h1>
-      <p class="sub">Kronos scores thousands of stocks around the clock, then measures every
-        single call against the S&amp;P 500, showing you the losers next to the winners.
-        No cherry-picking. No memory-holed bad calls. Just the ledger.</p>
-      <div class="hero-stats" id="hero-stats">
-        <div class="stat"><b id="st-beat">...</b><span>of top-rated picks beat the market<br>(risk-adjusted, 7 days)</span></div>
-        <div class="stat"><b id="st-alpha">...</b><span>average edge over the S&amp;P<br>per top-rated pick</span></div>
-        <div class="stat"><b id="st-n">...</b><span>picks measured and published<br>including every miss</span></div>
+      <div class="readout" id="hero-stats">
+        <div class="readout-cell"><b id="st-beat">...</b><span>of top-rated picks beat the market, risk-adjusted, over 7 days</span></div>
+        <div class="readout-div"></div>
+        <div class="readout-cell"><b id="st-alpha">...</b><span>average edge over the S&amp;P per top-rated pick</span></div>
+        <div class="readout-div"></div>
+        <div class="readout-cell"><b id="st-n">...</b><span>picks measured and published, including every miss</span></div>
       </div>
       <p class="asof mono" id="as-of">...</p>
     </div>
@@ -89,25 +108,29 @@
         four independent reads, fused into a single number. A stock has to earn its place on all four.</p>
       <div class="lenses">
         <div class="lens">
-          <div class="lens-ic">📈</div>
+          <div class="lens-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-5 3 3 7-8"/><path d="M15 7h4v4"/></svg></div>
+          <span class="lens-n">01</span>
           <h4>How the price is really moving</h4>
           <p>Not the headline number. The pattern underneath it: is money quietly flowing in,
             is the move strong or running out of breath, is it behaving like a stock that's about to run?</p>
         </div>
         <div class="lens">
-          <div class="lens-ic">🏛️</div>
+          <div class="lens-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M5 21V9l7-5 7 5v12"/><path d="M9 21v-6h6v6"/></svg></div>
+          <span class="lens-n">02</span>
           <h4>Whether the business is actually healthy</h4>
           <p>Is there a real, growing company under the ticker, or just a story? The engine reads the
             fundamentals so a pretty chart on a rotten business gets caught out.</p>
         </div>
         <div class="lens">
-          <div class="lens-ic">⚡</div>
+          <div class="lens-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h7l-1 8 9-12h-7l1-8z"/></svg></div>
+          <span class="lens-n">03</span>
           <h4>What's about to happen to it</h4>
           <p>Earnings, events, and catalysts, the things that actually move a price in the next few
             weeks. A stock with a spark coming is worth more than one that's just drifting.</p>
         </div>
         <div class="lens">
-          <div class="lens-ic">🛡️</div>
+          <div class="lens-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6l7-3z"/></svg></div>
+          <span class="lens-n">04</span>
           <h4>How much risk you'd be taking</h4>
           <p>How violently the stock swings, how far it could fall. Two stocks can promise the same
             upside while one is a calm climb and the other a rollercoaster. The engine knows the difference.</p>
@@ -197,5 +220,6 @@
   </footer>
 
   <script src="js/site.js?v=1"></script>
+  <script src="js/entity.js?v=1"></script>
 </body>
 </html>
