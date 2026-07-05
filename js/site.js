@@ -157,6 +157,8 @@ function joinWaitlist(ev) {
 
 loadFeed().then(feed => {
   if (!feed) return;
+  window.KRONOS_FEED = feed;   // engine-room reads real tickers from here
+  document.dispatchEvent(new CustomEvent("kronos-feed", { detail: feed }));
   renderHero(feed);
   renderRace(feed);
   renderWall(feed);

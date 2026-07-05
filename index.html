@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/site.css?v=3">
+  <link rel="stylesheet" href="css/site.css?v=4">
 </head>
 <body>
   <header class="nav">
@@ -39,11 +39,12 @@
         </div>
       </div>
       <div class="hero-entity">
-        <div class="entity-chamber">
+        <button class="entity-chamber" id="entity-open" type="button" aria-label="Step inside the engine room">
           <canvas id="entity"></canvas>
           <div class="entity-scanline"></div>
-          <div class="entity-badge"><span class="pulse-dot"></span>LIVE · the engine, watching</div>
-        </div>
+          <div class="entity-badge"><span class="pulse-dot"></span>LIVE · STEP INSIDE&nbsp;→</div>
+        </button>
+        <p class="entity-hint">Click the engine to look inside the room</p>
       </div>
     </div>
 
@@ -212,6 +213,25 @@
     </div>
   </section>
 
+  <!-- THE ENGINE ROOM (opens from the entity) -->
+  <div class="engine-room" id="engine-room" aria-hidden="true">
+    <div class="er-top">
+      <div class="er-title">THE ENGINE ROOM <span class="er-live"><span class="pulse-dot"></span>LIVE</span></div>
+      <div class="er-stats" id="er-stats"></div>
+      <button class="er-close" id="er-close" type="button">Close ✕</button>
+    </div>
+    <div class="er-stage">
+      <canvas id="er-canvas"></canvas>
+    </div>
+    <div class="er-foot">
+      <span class="er-legend-item"><i style="background:#9fb0c2"></i>a ticker moving through the line</span>
+      <span class="er-legend-item"><i style="background:#2fcf96"></i>graded top band</span>
+      <span class="er-legend-item"><i style="background:#e0a33e"></i>middle band</span>
+      <span class="er-legend-item"><i style="background:#e05252"></i>low band</span>
+      <span class="er-foot-note">Roles shown, driven by tickers the engine is actually publishing. A live look at the line, not the secret sauce.</span>
+    </div>
+  </div>
+
   <footer>
     <div class="wrap">
       <p class="mono tiny" id="disclaimer">Information and education only. Not personal investment advice.
@@ -219,7 +239,8 @@
     </div>
   </footer>
 
-  <script src="js/site.js?v=1"></script>
+  <script src="js/site.js?v=2"></script>
   <script src="js/entity.js?v=1"></script>
+  <script src="js/engine-room.js?v=1"></script>
 </body>
 </html>
