@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>KRONOS — the stock scorer that publishes its misses</title>
+  <meta name="description" content="An autonomous engine that scores thousands of stocks nightly and publishes every outcome — winners and losers — benchmarked against the S&P 500.">
+  <meta name="theme-color" content="#07090c">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css?v=1">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-in">
+      <div class="wordmark">KRONOS</div>
+      <nav class="nav-links">
+        <a href="#record">Track record</a>
+        <a href="#how">How it works</a>
+        <a href="#picks">Today's picks</a>
+        <a class="cta-mini" href="#join">Get the picks</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ── HERO: the claim, backed by the number, dated ─────────────────── -->
+  <section class="hero">
+    <div class="wrap">
+      <p class="kicker">AUTONOMOUS STOCK SCORING · EVERY OUTCOME PUBLISHED</p>
+      <h1>Most stock tips hide their misses.<br><em>We publish ours every night.</em></h1>
+      <p class="sub">Kronos scores thousands of stocks around the clock, then measures every
+        single call against the S&amp;P 500 — and shows you the losers next to the winners.
+        No cherry-picking. No memory-holed bad calls. Just the ledger.</p>
+      <div class="hero-stats" id="hero-stats">
+        <div class="stat"><b id="st-beat">—</b><span>of top-rated picks beat the market<br>(risk-adjusted, 7 days)</span></div>
+        <div class="stat"><b id="st-alpha">—</b><span>average edge over the S&amp;P<br>per top-rated pick</span></div>
+        <div class="stat"><b id="st-n">—</b><span>picks measured and published<br>— including every miss</span></div>
+      </div>
+      <p class="asof mono" id="as-of">—</p>
+    </div>
+  </section>
+
+  <!-- ── THE RACE ─────────────────────────────────────────────────────── -->
+  <section class="band" id="race">
+    <div class="wrap">
+      <h2>The race, in one picture</h2>
+      <p class="lede">Kronos' proof account against the S&amp;P 500 — same start, same window,
+        marked to market daily. When the green line is above the amber one, the machine is winning.</p>
+      <div class="race-head mono" id="race-verdict">—</div>
+      <div class="chart-card">
+        <canvas id="race-chart" height="340"></canvas>
+      </div>
+      <p class="note">Both lines rebased to 0% at the window start. Proof account trades a fixed
+        stake per pick with realistic costs. This is research performance, not a managed fund.</p>
+    </div>
+  </section>
+
+  <!-- ── HONESTY WALL ─────────────────────────────────────────────────── -->
+  <section class="band alt" id="record">
+    <div class="wrap">
+      <h2>The honesty wall</h2>
+      <p class="lede">Every top-rated pick, aged seven days, scored against the S&amp;P over the
+        identical window — reds left in. This table is regenerated from the raw ledger every night;
+        yesterday's version can't be quietly edited.</p>
+      <div class="bands-row" id="bands-row"></div>
+      <div class="table-scroll">
+        <table class="wall" id="wall">
+          <thead><tr><th>Pick</th><th>Scored on</th><th>7-day return</th><th>vs S&amp;P</th><th>Risk-adjusted edge</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <button class="ghost" id="wall-more" type="button">Show more of the ledger</button>
+    </div>
+  </section>
+
+  <!-- ── HOW IT WORKS ─────────────────────────────────────────────────── -->
+  <section class="band" id="how">
+    <div class="wrap">
+      <h2>How it works</h2>
+      <div class="how-grid">
+        <div class="how"><i>01</i><h3>Score</h3><p>An autonomous engine reads price action, fundamentals,
+          catalysts and risk for thousands of stocks, around the clock, and grades each into a conviction band.</p></div>
+        <div class="how"><i>02</i><h3>Measure</h3><p>Every score is frozen the moment it's made. Seven and
+          thirty days later, the machine checks what the price actually did — against the S&amp;P 500, adjusted
+          for how risky the stock was.</p></div>
+        <div class="how"><i>03</i><h3>Publish</h3><p>The full ledger — hits, misses, and the current verdict —
+          is regenerated nightly and published here. If the edge ever fades, this page will say so before we do.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── TODAY'S PICKS (the product) ──────────────────────────────────── -->
+  <section class="band alt" id="picks">
+    <div class="wrap">
+      <h2>Today's top-rated picks</h2>
+      <p class="lede">Members see the live list — every stock currently holding the engine's highest
+        conviction grade, with reference levels. Below is a delayed preview.</p>
+      <div class="picks-grid" id="picks-grid"></div>
+      <div class="paywall" id="join">
+        <h3>Get the live picks each morning</h3>
+        <p>The current top-rated list, reference levels, and the nightly verdict — before the market opens.
+          Priced like a coffee, published like an audit.</p>
+        <form class="waitlist" onsubmit="return joinWaitlist(event)">
+          <input type="email" id="wl-email" placeholder="you@email.com" required>
+          <button type="submit">Join the waitlist</button>
+        </form>
+        <p class="mono tiny" id="wl-done"></p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <p class="mono tiny" id="disclaimer">Information and education only — not personal investment advice.
+        Capital at risk. Past performance does not guarantee future results.</p>
+    </div>
+  </footer>
+
+  <script src="js/site.js?v=1"></script>
+</body>
+</html>

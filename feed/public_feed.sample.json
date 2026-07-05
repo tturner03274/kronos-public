@@ -1,0 +1,510 @@
+{
+ "feed_version": 1,
+ "generated_at": "2026-07-05T02:10:00Z",
+ "verdict": {
+  "label": "Real edge \u2014 beats the market risk-adjusted",
+  "headline": "Top-band picks beat their risk-matched market benchmark 65.5% of the time.",
+  "high_band": {
+   "beat_market_rate_pct": 65.5,
+   "avg_alpha_7d_pct": 2.86,
+   "sample_size": 852
+  }
+ },
+ "track_record": {
+  "bands": {
+   "high": {
+    "n": 852,
+    "beat_spy_rate_pct": 65.5,
+    "avg_excess_7d_pct": 2.86
+   },
+   "medium": {
+    "n": 15396,
+    "beat_spy_rate_pct": 56.8,
+    "avg_excess_7d_pct": 1.46
+   },
+   "low": {
+    "n": 2339,
+    "beat_spy_rate_pct": 49.5,
+    "avg_excess_7d_pct": 0.65
+   }
+  },
+  "recent_picks": [
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-27",
+    "band": "high",
+    "return_7d_pct": 6.2,
+    "vs_spy_7d_pct": 6.43,
+    "risk_adjusted_alpha_7d_pct": 6.46
+   },
+   {
+    "ticker": "KNSA",
+    "scored_on": "2026-06-26",
+    "band": "high",
+    "return_7d_pct": -0.74,
+    "vs_spy_7d_pct": 0.28,
+    "risk_adjusted_alpha_7d_pct": 0.43
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-25",
+    "band": "high",
+    "return_7d_pct": -4.09,
+    "vs_spy_7d_pct": -3.95,
+    "risk_adjusted_alpha_7d_pct": -3.93
+   },
+   {
+    "ticker": "CELC",
+    "scored_on": "2026-06-24",
+    "band": "high",
+    "return_7d_pct": 10.58,
+    "vs_spy_7d_pct": 12.52,
+    "risk_adjusted_alpha_7d_pct": 12.81
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-23",
+    "band": "high",
+    "return_7d_pct": -7.28,
+    "vs_spy_7d_pct": -8.07,
+    "risk_adjusted_alpha_7d_pct": -8.19
+   },
+   {
+    "ticker": "SOFI",
+    "scored_on": "2026-06-22",
+    "band": "high",
+    "return_7d_pct": 11.58,
+    "vs_spy_7d_pct": 10.39,
+    "risk_adjusted_alpha_7d_pct": 10.21
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-21",
+    "band": "high",
+    "return_7d_pct": -10.15,
+    "vs_spy_7d_pct": -7.63,
+    "risk_adjusted_alpha_7d_pct": -7.25
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-20",
+    "band": "high",
+    "return_7d_pct": 4.52,
+    "vs_spy_7d_pct": 4.9,
+    "risk_adjusted_alpha_7d_pct": 4.96
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-19",
+    "band": "high",
+    "return_7d_pct": -5.08,
+    "vs_spy_7d_pct": -6.75,
+    "risk_adjusted_alpha_7d_pct": -7.0
+   },
+   {
+    "ticker": "KMT",
+    "scored_on": "2026-06-18",
+    "band": "high",
+    "return_7d_pct": 9.36,
+    "vs_spy_7d_pct": 8.67,
+    "risk_adjusted_alpha_7d_pct": 8.57
+   },
+   {
+    "ticker": "ALKS",
+    "scored_on": "2026-06-17",
+    "band": "high",
+    "return_7d_pct": 3.8,
+    "vs_spy_7d_pct": 2.78,
+    "risk_adjusted_alpha_7d_pct": 2.63
+   },
+   {
+    "ticker": "FSS",
+    "scored_on": "2026-06-16",
+    "band": "high",
+    "return_7d_pct": 12.56,
+    "vs_spy_7d_pct": 11.32,
+    "risk_adjusted_alpha_7d_pct": 11.13
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-15",
+    "band": "high",
+    "return_7d_pct": 5.57,
+    "vs_spy_7d_pct": 4.41,
+    "risk_adjusted_alpha_7d_pct": 4.24
+   },
+   {
+    "ticker": "AVGO",
+    "scored_on": "2026-06-14",
+    "band": "high",
+    "return_7d_pct": -7.99,
+    "vs_spy_7d_pct": -10.03,
+    "risk_adjusted_alpha_7d_pct": -10.34
+   },
+   {
+    "ticker": "OKTA",
+    "scored_on": "2026-06-13",
+    "band": "high",
+    "return_7d_pct": 8.41,
+    "vs_spy_7d_pct": 7.27,
+    "risk_adjusted_alpha_7d_pct": 7.1
+   },
+   {
+    "ticker": "GLBE",
+    "scored_on": "2026-06-12",
+    "band": "high",
+    "return_7d_pct": -10.63,
+    "vs_spy_7d_pct": -10.37,
+    "risk_adjusted_alpha_7d_pct": -10.33
+   },
+   {
+    "ticker": "BAP",
+    "scored_on": "2026-06-11",
+    "band": "high",
+    "return_7d_pct": 7.67,
+    "vs_spy_7d_pct": 9.34,
+    "risk_adjusted_alpha_7d_pct": 9.59
+   },
+   {
+    "ticker": "EXTR",
+    "scored_on": "2026-06-10",
+    "band": "high",
+    "return_7d_pct": 1.0,
+    "vs_spy_7d_pct": -0.72,
+    "risk_adjusted_alpha_7d_pct": -0.98
+   },
+   {
+    "ticker": "CECO",
+    "scored_on": "2026-06-09",
+    "band": "high",
+    "return_7d_pct": -6.32,
+    "vs_spy_7d_pct": -8.75,
+    "risk_adjusted_alpha_7d_pct": -9.11
+   },
+   {
+    "ticker": "PS",
+    "scored_on": "2026-06-08",
+    "band": "high",
+    "return_7d_pct": 5.79,
+    "vs_spy_7d_pct": 5.47,
+    "risk_adjusted_alpha_7d_pct": 5.42
+   },
+   {
+    "ticker": "AGYS",
+    "scored_on": "2026-06-07",
+    "band": "high",
+    "return_7d_pct": 4.31,
+    "vs_spy_7d_pct": 3.03,
+    "risk_adjusted_alpha_7d_pct": 2.84
+   },
+   {
+    "ticker": "SQM",
+    "scored_on": "2026-06-06",
+    "band": "high",
+    "return_7d_pct": 2.98,
+    "vs_spy_7d_pct": 1.11,
+    "risk_adjusted_alpha_7d_pct": 0.83
+   },
+   {
+    "ticker": "ALM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -2.1,
+    "vs_spy_7d_pct": -2.1,
+    "risk_adjusted_alpha_7d_pct": -2.1
+   },
+   {
+    "ticker": "GLXY",
+    "scored_on": "2026-06-04",
+    "band": "high",
+    "return_7d_pct": 8.97,
+    "vs_spy_7d_pct": 8.44,
+    "risk_adjusted_alpha_7d_pct": 8.36
+   },
+   {
+    "ticker": "IMVT",
+    "scored_on": "2026-06-03",
+    "band": "high",
+    "return_7d_pct": -3.52,
+    "vs_spy_7d_pct": -5.16,
+    "risk_adjusted_alpha_7d_pct": -5.41
+   },
+   {
+    "ticker": "PUK",
+    "scored_on": "2026-06-02",
+    "band": "high",
+    "return_7d_pct": 11.73,
+    "vs_spy_7d_pct": 11.76,
+    "risk_adjusted_alpha_7d_pct": 11.76
+   },
+   {
+    "ticker": "DKL",
+    "scored_on": "2026-06-01",
+    "band": "high",
+    "return_7d_pct": -6.77,
+    "vs_spy_7d_pct": -7.11,
+    "risk_adjusted_alpha_7d_pct": -7.16
+   },
+   {
+    "ticker": "STM",
+    "scored_on": "2026-05-31",
+    "band": "high",
+    "return_7d_pct": 1.23,
+    "vs_spy_7d_pct": 1.09,
+    "risk_adjusted_alpha_7d_pct": 1.07
+   },
+   {
+    "ticker": "IDYA",
+    "scored_on": "2026-05-30",
+    "band": "high",
+    "return_7d_pct": 11.33,
+    "vs_spy_7d_pct": 12.06,
+    "risk_adjusted_alpha_7d_pct": 12.17
+   },
+   {
+    "ticker": "TLK",
+    "scored_on": "2026-05-29",
+    "band": "high",
+    "return_7d_pct": 10.39,
+    "vs_spy_7d_pct": 11.41,
+    "risk_adjusted_alpha_7d_pct": 11.56
+   }
+  ]
+ },
+ "equity_race": [
+  {
+   "date": "2026-06-06",
+   "kronos_return_pct": 0.22,
+   "sp500_return_pct": 0.31
+  },
+  {
+   "date": "2026-06-07",
+   "kronos_return_pct": 0.47,
+   "sp500_return_pct": 0.25
+  },
+  {
+   "date": "2026-06-08",
+   "kronos_return_pct": 0.08,
+   "sp500_return_pct": 0.23
+  },
+  {
+   "date": "2026-06-09",
+   "kronos_return_pct": 1.53,
+   "sp500_return_pct": 0.5
+  },
+  {
+   "date": "2026-06-10",
+   "kronos_return_pct": 2.91,
+   "sp500_return_pct": 0.7
+  },
+  {
+   "date": "2026-06-11",
+   "kronos_return_pct": 3.72,
+   "sp500_return_pct": 0.86
+  },
+  {
+   "date": "2026-06-12",
+   "kronos_return_pct": 2.67,
+   "sp500_return_pct": 1.32
+  },
+  {
+   "date": "2026-06-13",
+   "kronos_return_pct": 3.57,
+   "sp500_return_pct": 1.63
+  },
+  {
+   "date": "2026-06-14",
+   "kronos_return_pct": 2.5,
+   "sp500_return_pct": 0.92
+  },
+  {
+   "date": "2026-06-15",
+   "kronos_return_pct": 2.15,
+   "sp500_return_pct": 0.79
+  },
+  {
+   "date": "2026-06-16",
+   "kronos_return_pct": 2.88,
+   "sp500_return_pct": 0.85
+  },
+  {
+   "date": "2026-06-17",
+   "kronos_return_pct": 3.8,
+   "sp500_return_pct": 0.64
+  },
+  {
+   "date": "2026-06-18",
+   "kronos_return_pct": 4.52,
+   "sp500_return_pct": 0.9
+  },
+  {
+   "date": "2026-06-19",
+   "kronos_return_pct": 4.38,
+   "sp500_return_pct": 1.75
+  },
+  {
+   "date": "2026-06-20",
+   "kronos_return_pct": 5.33,
+   "sp500_return_pct": 2.37
+  },
+  {
+   "date": "2026-06-21",
+   "kronos_return_pct": 5.22,
+   "sp500_return_pct": 2.12
+  },
+  {
+   "date": "2026-06-22",
+   "kronos_return_pct": 5.36,
+   "sp500_return_pct": 2.15
+  },
+  {
+   "date": "2026-06-23",
+   "kronos_return_pct": 6.38,
+   "sp500_return_pct": 2.34
+  },
+  {
+   "date": "2026-06-24",
+   "kronos_return_pct": 6.43,
+   "sp500_return_pct": 1.99
+  },
+  {
+   "date": "2026-06-25",
+   "kronos_return_pct": 6.41,
+   "sp500_return_pct": 2.62
+  },
+  {
+   "date": "2026-06-26",
+   "kronos_return_pct": 6.13,
+   "sp500_return_pct": 2.81
+  },
+  {
+   "date": "2026-06-27",
+   "kronos_return_pct": 6.97,
+   "sp500_return_pct": 2.22
+  },
+  {
+   "date": "2026-06-28",
+   "kronos_return_pct": 7.46,
+   "sp500_return_pct": 2.89
+  },
+  {
+   "date": "2026-06-29",
+   "kronos_return_pct": 6.1,
+   "sp500_return_pct": 2.82
+  },
+  {
+   "date": "2026-06-30",
+   "kronos_return_pct": 6.45,
+   "sp500_return_pct": 2.54
+  },
+  {
+   "date": "2026-07-01",
+   "kronos_return_pct": 7.35,
+   "sp500_return_pct": 2.59
+  },
+  {
+   "date": "2026-07-02",
+   "kronos_return_pct": 6.48,
+   "sp500_return_pct": 3.04
+  },
+  {
+   "date": "2026-07-03",
+   "kronos_return_pct": 7.53,
+   "sp500_return_pct": 3.55
+  },
+  {
+   "date": "2026-07-04",
+   "kronos_return_pct": 9.28,
+   "sp500_return_pct": 3.79
+  },
+  {
+   "date": "2026-07-05",
+   "kronos_return_pct": 9.84,
+   "sp500_return_pct": 3.29
+  }
+ ],
+ "current_picks": [
+  {
+   "ticker": "ASX",
+   "score": 72.4,
+   "entered_on": "2026-07-02",
+   "reference_entry": 124.29,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "KNSA",
+   "score": 72.9,
+   "entered_on": "2026-07-02",
+   "reference_entry": 28.05,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "MIRM",
+   "score": 70.4,
+   "entered_on": "2026-07-04",
+   "reference_entry": 137.78,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "CELC",
+   "score": 70.7,
+   "entered_on": "2026-07-01",
+   "reference_entry": 25.25,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "EAT",
+   "score": 70.0,
+   "entered_on": "2026-07-04",
+   "reference_entry": 165.62,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "SOFI",
+   "score": 75.7,
+   "entered_on": "2026-07-01",
+   "reference_entry": 17.4,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "GTX",
+   "score": 75.2,
+   "entered_on": "2026-07-01",
+   "reference_entry": 119.11,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "BHE",
+   "score": 73.8,
+   "entered_on": "2026-07-03",
+   "reference_entry": 184.66,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  },
+  {
+   "ticker": "RSI",
+   "score": 72.8,
+   "entered_on": "2026-07-05",
+   "reference_entry": 256.19,
+   "reference_target": null,
+   "reference_stop": null,
+   "review_after_days": 14
+  }
+ ],
+ "disclaimer": "Information and education only \u2014 not personal investment advice. Every figure above is measured against the S&P 500 and published including losers. Past performance does not guarantee future results. Capital at risk."
+}
