@@ -132,11 +132,11 @@ function renderWall(feed) {
 function renderPicks(feed) {
   const grid = document.getElementById("picks-grid");
   if (!grid) return;
-  const picks = feed.current_picks || [];
-  // Preview policy: the two OLDEST current picks visible, the rest locked.
-  // Proves the list is real without giving the product away.
-  const shown = picks.slice(-2);
-  const locked = Math.min(picks.length - shown.length, 10);
+  // The feed only ever ships a count + a 2-name teaser. The actionable list
+  // (and all reference levels) lives behind the members login, never here.
+  const pt = feed.picks_today || {};
+  const shown = pt.preview || [];
+  const locked = Math.max(0, Math.min((pt.count || 0) - shown.length, 10));
   grid.innerHTML =
     shown.map(p => `<div class="pick"><b>${p.ticker}</b>
       <div class="sc">score ${p.score}</div><div class="dt">entered ${p.entered_on}</div></div>`).join("") +

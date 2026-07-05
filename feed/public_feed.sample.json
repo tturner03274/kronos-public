@@ -423,88 +423,21 @@
    "sp500_return_pct": 3.29
   }
  ],
- "current_picks": [
-  {
-   "ticker": "ASX",
-   "score": 72.4,
-   "entered_on": "2026-07-02",
-   "reference_entry": 124.29,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "KNSA",
-   "score": 72.9,
-   "entered_on": "2026-07-02",
-   "reference_entry": 28.05,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "MIRM",
-   "score": 70.4,
-   "entered_on": "2026-07-04",
-   "reference_entry": 137.78,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "CELC",
-   "score": 70.7,
-   "entered_on": "2026-07-01",
-   "reference_entry": 25.25,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "EAT",
-   "score": 70.0,
-   "entered_on": "2026-07-04",
-   "reference_entry": 165.62,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "SOFI",
-   "score": 75.7,
-   "entered_on": "2026-07-01",
-   "reference_entry": 17.4,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "GTX",
-   "score": 75.2,
-   "entered_on": "2026-07-01",
-   "reference_entry": 119.11,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "BHE",
-   "score": 73.8,
-   "entered_on": "2026-07-03",
-   "reference_entry": 184.66,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  },
-  {
-   "ticker": "RSI",
-   "score": 72.8,
-   "entered_on": "2026-07-05",
-   "reference_entry": 256.19,
-   "reference_target": null,
-   "reference_stop": null,
-   "review_after_days": 14
-  }
- ],
- "disclaimer": "Information and education only \u2014 not personal investment advice. Every figure above is measured against the S&P 500 and published including losers. Past performance does not guarantee future results. Capital at risk."
+ "disclaimer": "Information and education only \u2014 not personal investment advice. Every figure above is measured against the S&P 500 and published including losers. Past performance does not guarantee future results. Capital at risk.",
+ "picks_today": {
+  "count": 9,
+  "preview": [
+   {
+    "ticker": "CELC",
+    "score": 70.7,
+    "entered_on": "2026-07-01"
+   },
+   {
+    "ticker": "SOFI",
+    "score": 75.7,
+    "entered_on": "2026-07-01"
+   }
+  ],
+  "note": "The full live list with entry, target and stop is members only."
+ }
 }

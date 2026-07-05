@@ -22,9 +22,12 @@
   document.addEventListener("kronos-feed", (e) => { feed = e.detail; });
 
   function tickerPool() {
+    // ONLY aged, already-published names (the track record) flow through the
+    // room. The fresh actionable picks are the paid product and never appear
+    // here, so watching all day just recycles names already on the honesty
+    // wall, never the current live list.
     const out = [];
     if (feed) {
-      (feed.current_picks || []).forEach((p) => p.ticker && out.push(p.ticker));
       ((feed.track_record || {}).recent_picks || []).forEach((p) => p.ticker && out.push(p.ticker));
     }
     return out.length ? out : FALLBACK;
