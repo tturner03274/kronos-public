@@ -1,6 +1,6 @@
 {
  "feed_version": 1,
- "generated_at": "2026-07-05T13:27:02.709353Z",
+ "generated_at": "2026-07-05T14:27:15.227150Z",
  "verdict": {
   "label": "Real edge \u2014 beats the market risk-adjusted",
   "headline": "Our top-band picks beat the market on a risk-matched basis (beating what their beta predicts) 65.5% of the time \u2014 well above the 50% luck line \u2014 by an average of +2.86% each over 7 days, across 852 picks. That's a real, if early, edge that survives stripping out the market.",
@@ -1631,7 +1631,158 @@
    }
   ]
  },
- "equity_race": [],
+ "equity_race": [
+  {
+   "date": "2026-06-06",
+   "kronos_return_pct": 0.17,
+   "sp500_return_pct": null
+  },
+  {
+   "date": "2026-06-07",
+   "kronos_return_pct": 0.17,
+   "sp500_return_pct": null
+  },
+  {
+   "date": "2026-06-08",
+   "kronos_return_pct": 5.37,
+   "sp500_return_pct": 0.0
+  },
+  {
+   "date": "2026-06-09",
+   "kronos_return_pct": 8.17,
+   "sp500_return_pct": 0.66
+  },
+  {
+   "date": "2026-06-10",
+   "kronos_return_pct": 13.31,
+   "sp500_return_pct": -3.7
+  },
+  {
+   "date": "2026-06-11",
+   "kronos_return_pct": 38.89,
+   "sp500_return_pct": -2.08
+  },
+  {
+   "date": "2026-06-12",
+   "kronos_return_pct": 41.51,
+   "sp500_return_pct": 0.02
+  },
+  {
+   "date": "2026-06-13",
+   "kronos_return_pct": 41.35,
+   "sp500_return_pct": 0.02
+  },
+  {
+   "date": "2026-06-14",
+   "kronos_return_pct": 41.28,
+   "sp500_return_pct": 0.02
+  },
+  {
+   "date": "2026-06-15",
+   "kronos_return_pct": 45.44,
+   "sp500_return_pct": 1.58
+  },
+  {
+   "date": "2026-06-16",
+   "kronos_return_pct": 36.63,
+   "sp500_return_pct": 2.36
+  },
+  {
+   "date": "2026-06-17",
+   "kronos_return_pct": 38.31,
+   "sp500_return_pct": 3.52
+  },
+  {
+   "date": "2026-06-18",
+   "kronos_return_pct": 51.45,
+   "sp500_return_pct": 9.27
+  },
+  {
+   "date": "2026-06-19",
+   "kronos_return_pct": 51.38,
+   "sp500_return_pct": 9.27
+  },
+  {
+   "date": "2026-06-20",
+   "kronos_return_pct": 51.61,
+   "sp500_return_pct": 9.27
+  },
+  {
+   "date": "2026-06-21",
+   "kronos_return_pct": 52.62,
+   "sp500_return_pct": 9.27
+  },
+  {
+   "date": "2026-06-22",
+   "kronos_return_pct": 52.38,
+   "sp500_return_pct": 12.6
+  },
+  {
+   "date": "2026-06-23",
+   "kronos_return_pct": 35.42,
+   "sp500_return_pct": 10.36
+  },
+  {
+   "date": "2026-06-24",
+   "kronos_return_pct": 37.27,
+   "sp500_return_pct": 14.99
+  },
+  {
+   "date": "2026-06-25",
+   "kronos_return_pct": 43.93,
+   "sp500_return_pct": 20.21
+  },
+  {
+   "date": "2026-06-26",
+   "kronos_return_pct": 47.17,
+   "sp500_return_pct": 18.91
+  },
+  {
+   "date": "2026-06-27",
+   "kronos_return_pct": 47.1,
+   "sp500_return_pct": 18.91
+  },
+  {
+   "date": "2026-06-28",
+   "kronos_return_pct": 48.17,
+   "sp500_return_pct": 18.91
+  },
+  {
+   "date": "2026-06-29",
+   "kronos_return_pct": 55.04,
+   "sp500_return_pct": 18.48
+  },
+  {
+   "date": "2026-06-30",
+   "kronos_return_pct": 61.05,
+   "sp500_return_pct": 19.14
+  },
+  {
+   "date": "2026-07-01",
+   "kronos_return_pct": 55.87,
+   "sp500_return_pct": 17.06
+  },
+  {
+   "date": "2026-07-02",
+   "kronos_return_pct": 53.42,
+   "sp500_return_pct": 12.07
+  },
+  {
+   "date": "2026-07-03",
+   "kronos_return_pct": 53.35,
+   "sp500_return_pct": 12.07
+  },
+  {
+   "date": "2026-07-04",
+   "kronos_return_pct": 53.27,
+   "sp500_return_pct": 12.07
+  },
+  {
+   "date": "2026-07-05",
+   "kronos_return_pct": 53.2,
+   "sp500_return_pct": 12.07
+  }
+ ],
  "current_picks": [
   {
    "ticker": "AGX",
