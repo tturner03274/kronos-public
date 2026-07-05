@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/site.css?v=1">
+  <link rel="stylesheet" href="css/site.css?v=2">
 </head>
 <body>
   <header class="nav">
@@ -74,18 +74,97 @@
     </div>
   </section>
 
-  <!-- HOW IT WORKS -->
+  <!-- HOW THE ENGINE THINKS -->
   <section class="band" id="how">
     <div class="wrap">
-      <h2>How it works</h2>
-      <div class="how-grid">
-        <div class="how"><i>01</i><h3>Score</h3><p>An autonomous engine reads price action, fundamentals,
-          catalysts and risk for thousands of stocks, around the clock, and grades each into a conviction band.</p></div>
-        <div class="how"><i>02</i><h3>Measure</h3><p>Every score is frozen the moment it's made. Seven and
-          thirty days later, the machine checks what the price actually did against the S&amp;P 500, adjusted
-          for how risky the stock was.</p></div>
-        <div class="how"><i>03</i><h3>Publish</h3><p>The full ledger, hits, misses, and the current verdict,
-          is regenerated nightly and published here. If the edge ever fades, this page will say so before we do.</p></div>
+      <p class="eyebrow">INSIDE THE ENGINE</p>
+      <h2>This isn't a tip. It's a verdict from a machine that never sleeps.</h2>
+      <p class="lede think-lead">A human analyst follows maybe a dozen stocks and has to sleep,
+        gets bored, and falls in love with their own ideas. Kronos reads thousands of stocks every
+        night, never tires, and feels nothing. Here is how it actually decides.</p>
+
+      <!-- Four lenses -->
+      <h3 class="think-h">It reads every stock through four lenses at once</h3>
+      <p class="think-sub">Most tips are one person's hunch about one thing. Every Kronos score is
+        four independent reads, fused into a single number. A stock has to earn its place on all four.</p>
+      <div class="lenses">
+        <div class="lens">
+          <div class="lens-ic">📈</div>
+          <h4>How the price is really moving</h4>
+          <p>Not the headline number. The pattern underneath it: is money quietly flowing in,
+            is the move strong or running out of breath, is it behaving like a stock that's about to run?</p>
+        </div>
+        <div class="lens">
+          <div class="lens-ic">🏛️</div>
+          <h4>Whether the business is actually healthy</h4>
+          <p>Is there a real, growing company under the ticker, or just a story? The engine reads the
+            fundamentals so a pretty chart on a rotten business gets caught out.</p>
+        </div>
+        <div class="lens">
+          <div class="lens-ic">⚡</div>
+          <h4>What's about to happen to it</h4>
+          <p>Earnings, events, and catalysts, the things that actually move a price in the next few
+            weeks. A stock with a spark coming is worth more than one that's just drifting.</p>
+        </div>
+        <div class="lens">
+          <div class="lens-ic">🛡️</div>
+          <h4>How much risk you'd be taking</h4>
+          <p>How violently the stock swings, how far it could fall. Two stocks can promise the same
+            upside while one is a calm climb and the other a rollercoaster. The engine knows the difference.</p>
+        </div>
+      </div>
+      <p class="fuse-note">Those four reads are weighted and fused into one <b>conviction score</b>.
+        Only the stocks that clear the highest bar become picks. Everything else is passed over,
+        and we still track it, to prove the bar means something.</p>
+
+      <!-- The self-scoring loop -->
+      <div class="insight">
+        <p class="eyebrow">THE PART NOBODY ELSE DOES</p>
+        <h3 class="think-h">It grades its own homework, and can't cheat</h3>
+        <p class="think-sub">This is the difference between Kronos and every stock tipster you've
+          ever seen.</p>
+        <div class="loop">
+          <div class="loop-step"><span class="loop-n">1</span><b>Freeze</b>
+            <p>The instant it makes a call, the score and the price are frozen in time. On the record.</p></div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step"><span class="loop-n">2</span><b>Check</b>
+            <p>Seven days later the machine goes back and looks: what did the price actually do? Was the call right?</p></div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step"><span class="loop-n">3</span><b>Record forever</b>
+            <p>Every hit and every miss lands on a permanent scorecard, rebuilt from raw data each night. It can't be quietly edited.</p></div>
+        </div>
+        <p class="insight-punch">Most people selling stock tips quietly forget their losers.
+          This machine physically cannot. The bad calls are right there on the honesty wall, next to the good ones.</p>
+      </div>
+
+      <!-- The clever bit: risk-adjusted -->
+      <div class="insight insight-gold">
+        <p class="eyebrow">THE NUMBER THAT ACTUALLY MATTERS</p>
+        <h3 class="think-h">Beating the market is easy. We measure something harder.</h3>
+        <p class="think-sub">Here's the trick almost every "we beat the market" claim hides from you.</p>
+        <p class="clever">Anyone can beat the market by gambling on wild, jumpy stocks. If a stock
+          swings twice as hard as the market, then beating the market is just luck with extra risk bolted on.
+          It tells you nothing about skill.</p>
+        <p class="clever">So Kronos strips that out. For every pick it asks a sharper question:
+          <b>did this beat the market for the amount of risk it actually took?</b> Take a calm,
+          low-risk stock and a wild one, and judge each against what its own risk level should have delivered.</p>
+        <p class="clever clever-last">What's left when you remove the luck-of-volatility is the only thing worth
+          paying for: <b>real skill at picking winners.</b> That is the number we publish, and right now it's
+          clearly above the line that separates skill from a coin flip.</p>
+      </div>
+
+      <!-- Gradient proof -->
+      <div class="proof-strip">
+        <div class="proof-strip-in">
+          <div class="proof-strip-txt">
+            <h3 class="think-h">And here's the proof it's real, not noise</h3>
+            <p>If the scoring were random, the top-rated picks, the middling ones, and the low-rated
+              ones would all perform about the same. They don't. The top band beats the market far more
+              often than the middle, which beats the bottom. That clean staircase is the fingerprint of a
+              real signal, and you can see it live on the honesty wall above.</p>
+          </div>
+          <a href="#record" class="proof-strip-cta">See the staircase</a>
+        </div>
       </div>
     </div>
   </section>

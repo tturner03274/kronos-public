@@ -1,4 +1,4 @@
-/* KRONOS public site — dark editorial fintech. Personality: an audit you can
+/* KRONOS public site: dark editorial fintech. Personality: an audit you can
    read like a magazine. Serif display (Fraunces) for the claims, Inter for
    body, JetBrains Mono for anything that is a number from the ledger. */
 
@@ -81,12 +81,53 @@ h2 { font-family: var(--serif); font-weight: 650; font-size: clamp(26px, 4vw, 38
 .ghost { margin-top: 16px; background: none; border: 1px solid var(--line); color: var(--ink-2); border-radius: 999px; padding: 10px 22px; font-size: 13px; cursor: pointer; font-family: var(--sans); }
 .ghost:hover { border-color: var(--ink-3); color: var(--ink); }
 
-/* how */
-.how-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 10px; }
-.how { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 24px; }
-.how i { font-family: var(--mono); font-style: normal; color: var(--green-hi); font-size: 12px; letter-spacing: .2em; }
-.how h3 { font-family: var(--serif); font-size: 21px; margin: 10px 0 8px; }
-.how p { color: var(--ink-2); font-size: 14px; }
+/* how the engine thinks */
+.eyebrow { font-family: var(--mono); font-size: 11px; letter-spacing: .24em; color: var(--green-hi); margin-bottom: 14px; }
+.think-lead { font-size: 17px; color: var(--ink-2); max-width: 720px; }
+.think-h { font-family: var(--serif); font-weight: 650; font-size: clamp(21px, 3vw, 27px); letter-spacing: -0.01em; margin: 44px 0 8px; }
+.think-sub { color: var(--ink-2); max-width: 680px; margin-bottom: 24px; font-size: 15px; }
+
+/* four lenses */
+.lenses { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.lens { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 24px; }
+.lens-ic { font-size: 26px; margin-bottom: 12px; }
+.lens h4 { font-family: var(--sans); font-weight: 700; font-size: 16px; color: var(--ink); margin-bottom: 8px; }
+.lens p { color: var(--ink-2); font-size: 14px; line-height: 1.55; }
+.fuse-note { margin-top: 20px; font-size: 15px; color: var(--ink-2); max-width: 720px; }
+.fuse-note b { color: var(--green-hi); }
+
+/* insight blocks */
+.insight { margin-top: 40px; background: linear-gradient(160deg, rgba(25, 158, 112, .09), rgba(14, 20, 27, .4));
+  border: 1px solid rgba(47, 207, 150, .22); border-radius: 20px; padding: 34px; }
+.insight-gold { background: linear-gradient(160deg, rgba(201, 133, 0, .1), rgba(14, 20, 27, .4));
+  border-color: rgba(224, 163, 62, .28); }
+.insight .think-h { margin-top: 0; }
+.insight-punch { margin-top: 22px; font-family: var(--serif); font-size: clamp(17px, 2.4vw, 21px);
+  line-height: 1.4; color: var(--ink); font-style: italic; }
+.clever { color: var(--ink-2); font-size: 15.5px; line-height: 1.65; margin-bottom: 14px; max-width: 760px; }
+.clever b { color: var(--amber-hi); font-weight: 600; }
+.clever-last b { color: var(--green-hi); }
+
+/* the freeze/check/record loop */
+.loop { display: flex; align-items: stretch; gap: 10px; margin-top: 22px; flex-wrap: wrap; }
+.loop-step { flex: 1; min-width: 200px; background: rgba(7, 9, 12, .5); border: 1px solid var(--line);
+  border-radius: 14px; padding: 20px; position: relative; }
+.loop-n { position: absolute; top: 16px; right: 18px; font-family: var(--mono); font-size: 26px;
+  font-weight: 700; color: rgba(47, 207, 150, .28); }
+.loop-step b { font-family: var(--sans); font-size: 15px; color: var(--green-hi); display: block; margin-bottom: 6px; }
+.loop-step p { color: var(--ink-2); font-size: 13.5px; line-height: 1.5; }
+.loop-arrow { display: flex; align-items: center; color: var(--ink-3); font-size: 20px; }
+
+/* gradient proof strip */
+.proof-strip { margin-top: 40px; }
+.proof-strip-in { display: flex; align-items: center; gap: 24px; background: var(--card);
+  border: 1px solid var(--line); border-radius: 18px; padding: 28px 32px; flex-wrap: wrap; }
+.proof-strip-txt { flex: 1; min-width: 280px; }
+.proof-strip-txt .think-h { margin: 0 0 8px; font-size: 20px; }
+.proof-strip-txt p { color: var(--ink-2); font-size: 14.5px; line-height: 1.6; }
+.proof-strip-cta { flex-shrink: 0; background: var(--green); color: #04120c; text-decoration: none;
+  font-weight: 700; font-size: 14px; padding: 13px 24px; border-radius: 999px; white-space: nowrap; }
+.proof-strip-cta:hover { background: var(--green-hi); }
 
 /* picks + paywall */
 .picks-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; margin-bottom: 34px; }
@@ -111,7 +152,12 @@ footer { padding: 40px 0 60px; border-top: 1px solid var(--line); }
 /* mobile */
 @media (max-width: 760px) {
   .nav-links a:not(.cta-mini) { display: none; }
-  .how-grid { grid-template-columns: 1fr; }
+  .lenses { grid-template-columns: 1fr; }
   .hero-stats { flex-direction: column; }
   .band { padding: 52px 0; }
+  .insight { padding: 24px; }
+  .loop-arrow { display: none; }
+  .loop-step { min-width: 0; }
+  .proof-strip-in { padding: 24px; }
+  .proof-strip-cta { width: 100%; text-align: center; }
 }
