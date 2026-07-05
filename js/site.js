@@ -1,4 +1,4 @@
-/* KRONOS public site — renders entirely from the one-way feed. No calls to
+/* KRONOS public site: renders entirely from the one-way feed. No calls to
    any private system; feed/public_feed.json is pushed here nightly. */
 
 const GREEN = "#2fcf96", AMBER = "#e0a33e", INK = "rgba(159,176,194,.8)",
@@ -14,14 +14,14 @@ async function loadFeed() {
   return null;
 }
 
-const sign = v => v == null ? "—" : (v >= 0 ? "+" : "") + Number(v).toFixed(2) + "%";
+const sign = v => v == null ? "n/a" : (v >= 0 ? "+" : "") + Number(v).toFixed(2) + "%";
 
 function renderHero(feed) {
   const hb = (feed.verdict || {}).high_band || {};
   const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
-  set("st-beat", hb.beat_market_rate_pct != null ? hb.beat_market_rate_pct.toFixed(1) + "%" : "—");
-  set("st-alpha", hb.avg_alpha_7d_pct != null ? sign(hb.avg_alpha_7d_pct) : "—");
-  set("st-n", hb.sample_size != null ? Number(hb.sample_size).toLocaleString() : "—");
+  set("st-beat", hb.beat_market_rate_pct != null ? hb.beat_market_rate_pct.toFixed(1) + "%" : "n/a");
+  set("st-alpha", hb.avg_alpha_7d_pct != null ? sign(hb.avg_alpha_7d_pct) : "n/a");
+  set("st-n", hb.sample_size != null ? Number(hb.sample_size).toLocaleString() : "n/a");
   set("as-of", "Ledger regenerated " + String(feed.generated_at || "").slice(0, 10) +
     " · every number on this page is recomputed nightly from raw outcomes");
   if (feed.disclaimer) set("disclaimer", feed.disclaimer);
@@ -133,8 +133,8 @@ function renderPicks(feed) {
   const grid = document.getElementById("picks-grid");
   if (!grid) return;
   const picks = feed.current_picks || [];
-  // Preview policy: the two OLDEST current picks visible, the rest locked —
-  // proves the list is real without giving the product away.
+  // Preview policy: the two OLDEST current picks visible, the rest locked.
+  // Proves the list is real without giving the product away.
   const shown = picks.slice(-2);
   const locked = Math.min(picks.length - shown.length, 10);
   grid.innerHTML =
@@ -150,7 +150,7 @@ function joinWaitlist(ev) {
   const email = document.getElementById("wl-email").value;
   try { localStorage.setItem("kronos-waitlist", email); } catch (e) {}
   document.getElementById("wl-done").textContent =
-    "You're on the list — we'll email you when the live picks open.";
+    "You're on the list. We'll email you when the live picks open.";
   ev.target.style.display = "none";
   return false;
 }

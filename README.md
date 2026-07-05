@@ -1,6 +1,6 @@
-# KRONOS — public site
+# KRONOS: public site
 
-The retail-facing site. **Static, dumb, and disconnected by design** — it renders
+The retail-facing site. **Static, dumb, and disconnected by design.** It renders
 entirely from `feed/public_feed.json`, a sanitized snapshot pushed outward from
 Kronos nightly. It never connects to Kronos; no path exists.
 
