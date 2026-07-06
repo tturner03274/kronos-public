@@ -24,6 +24,16 @@ function renderHero(feed) {
   set("st-n", hb.sample_size != null ? Number(hb.sample_size).toLocaleString() : "n/a");
   set("as-of", "Ledger regenerated " + String(feed.generated_at || "").slice(0, 10) +
     " · every number on this page is recomputed nightly from raw outcomes");
+  const tr = (feed.verdict || {}).trend;
+  const trEl = document.getElementById("hero-trend");
+  if (trEl && tr && tr.early_pct != null && tr.recent_pct != null) {
+    const word = tr.direction === "improving" ? "improving"
+      : tr.direction === "declining" ? "declining" : "holding steady";
+    trEl.textContent = "Trend: earlier picks beat the market " + tr.early_pct +
+      "% of the time, the most recent half " + tr.recent_pct + "% (" + word +
+      "). We publish this because a real edge must survive time.";
+    trEl.style.display = "";
+  }
   if (feed.disclaimer) set("disclaimer", feed.disclaimer);
 }
 
@@ -102,13 +112,30 @@ function renderWall(feed) {
     const label = { high: "Top rated", medium: "Middle band", low: "Low rated" };
     row.innerHTML = ["high", "medium", "low"].filter(b => tr.bands[b]).map(b => {
       const d = tr.bands[b];
-      const col = d.beat_spy_rate_pct >= 55 ? GREEN : d.beat_spy_rate_pct >= 48 ? AMBER : "#e05252";
+      // Lead with the risk-adjusted rate: it is the number the hero publishes
+      // and the "harder question" the How-it-works section promises. Raw
+      // beat-the-S&P stays visible underneath, clearly labelled.
+      const lead = d.beat_risk_adjusted_pct != null ? d.beat_risk_adjusted_pct : d.beat_spy_rate_pct;
+      const leadAvg = d.beat_risk_adjusted_pct != null ? d.avg_alpha_7d_pct : d.avg_excess_7d_pct;
+      const col = lead >= 55 ? GREEN : lead >= 48 ? AMBER : "#e05252";
+      const leadLabel = d.beat_risk_adjusted_pct != null
+        ? "beat the market, risk-adjusted, over 7 days" : "beat the S&amp;P over 7 days";
+      const rawLine = d.beat_risk_adjusted_pct != null
+        ? `<div class="bs bs-raw">raw, before risk adjustment: ${d.beat_spy_rate_pct}% beat the S&amp;P</div>` : "";
       return `<div class="bandcard"><div class="bn">${label[b] || b}</div>
-        <div class="bv" style="color:${col}">${d.beat_spy_rate_pct}%</div>
-        <div class="bs">beat the S&amp;P over 7 days · avg ${sign(d.avg_excess_7d_pct)} · n=${d.n.toLocaleString()}</div></div>`;
+        <div class="bv" style="color:${col}">${lead}%</div>
+        <div class="bs">${leadLabel} · avg ${sign(leadAvg)} · n=${d.n.toLocaleString()}</div>
+        ${rawLine}</div>`;
     }).join("") + `<div class="bandcard"><div class="bn">Why show all three?</div>
       <div class="bs" style="margin-top:8px">Because a real signal must separate good from bad.
       If every band beat the market equally, the scoring would mean nothing.</div></div>`;
+  }
+  const caveat = document.getElementById("wall-30d-caveat");
+  const high = tr.bands && tr.bands.high;
+  if (caveat && high && high.avg_excess_30d_pct != null && high.avg_excess_30d_pct < 0) {
+    caveat.textContent = " One honest wrinkle: held out to 30 days, the top band's edge currently " +
+      "fades and goes slightly negative (" + sign(high.avg_excess_30d_pct) +
+      " vs the S&P). The edge we have measured so far lives in the first one to two weeks.";
   }
   const tbody = document.querySelector("#wall tbody");
   if (!tbody) return;
