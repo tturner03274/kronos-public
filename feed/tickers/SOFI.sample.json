@@ -16,6 +16,15 @@
    "asymmetry": 73.0
   }
  },
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 14.82,
+  "stop_price": 13.6,
+  "target_price": 17.9,
+  "exit_price": 16.45,
+  "exit_reason": "target_hit",
+  "closed_on": "2026-07-03"
+ },
  "outcome": {
   "scored_on": "2026-06-27",
   "score_then": 74.6,

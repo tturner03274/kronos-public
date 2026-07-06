@@ -41,6 +41,20 @@
 .tk-dim.risk .tk-bar i { background: var(--amber); }
 .tk-explain { margin-top: 24px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px 24px; color: var(--ink-2); font-size: 14.5px; line-height: 1.65; max-width: 800px; }
 
+/* premium trade levels */
+.tk-premium { position: relative; background: var(--card); border: 1px solid rgba(224,163,62,.3); border-radius: 16px; overflow: hidden; padding: 26px; min-height: 92px; }
+.tk-prem-blur { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; filter: blur(9px); user-select: none; pointer-events: none; }
+.tk-prem-cell b { display: block; font-family: var(--mono); font-size: 22px; font-weight: 700; color: var(--ink); }
+.tk-prem-cell span { display: block; margin-top: 6px; font-size: 11.5px; color: var(--ink-3); }
+.tk-prem-lock {
+  position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center;
+  justify-content: center; gap: 12px; text-align: center; padding: 20px;
+  background: linear-gradient(180deg, rgba(14,20,27,.55), rgba(14,20,27,.86));
+}
+.tk-prem-lock svg { color: var(--amber-hi); }
+.tk-prem-lock span { font-family: var(--mono); font-size: 12px; letter-spacing: .04em; color: var(--ink-2); max-width: 360px; }
+.tk-prem-cta { margin-top: 4px; font-size: 13px; padding: 10px 22px; }
+
 /* outcome */
 .tk-outcome { display: flex; gap: 12px; flex-wrap: wrap; }
 .tk-out-cell { flex: 1; min-width: 150px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
@@ -102,4 +116,5 @@
   .tk-dims { grid-template-columns: 1fr; }
   .tk-scorebox { width: 100%; text-align: left; }
   .tk-cat-meta { margin-left: 0; width: 100%; }
+  .tk-prem-blur { grid-template-columns: 1fr 1fr; }
 }

@@ -74,6 +74,36 @@ function render(d) {
   const ex = document.getElementById("tk-explain");
   if (sc.explanation) ex.textContent = sc.explanation; else ex.style.display = "none";
 
+  // premium trade levels (only exist for a CLOSED, already-graded trade;
+  // the live paid picks never carry these, blurred or not)
+  const pl = d.premium_levels;
+  const plSec = document.getElementById("tk-premium-sec");
+  if (pl) {
+    plSec.style.display = "";
+    const rows = [
+      [pl.entry_price, "buy price"],
+      [pl.stop_price, "stop loss"],
+      [pl.target_price, "target"],
+      [pl.exit_price, "actual exit"],
+    ].filter(([v]) => v != null);
+    document.getElementById("tk-premium").innerHTML = `
+      <div class="tk-prem-blur">
+        ${rows.map(([v, label]) => `<div class="tk-prem-cell">
+          <b>${Number(v).toFixed(2)}</b><span>${esc(label)}</span>
+        </div>`).join("")}
+      </div>
+      <div class="tk-prem-lock">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="4" y="11" width="16" height="9" rx="2"></rect>
+          <path d="M8 11V7a4 4 0 0 1 8 0v4"></path>
+        </svg>
+        <span>Premium &middot; join the waitlist to see the exact levels on every call</span>
+        <a class="btn-primary tk-prem-cta" href="index.html#join">Reserve your founding spot</a>
+      </div>`;
+  } else {
+    plSec.style.display = "none";
+  }
+
   // outcome
   const o = d.outcome;
   const osec = document.getElementById("tk-outcome-sec");
