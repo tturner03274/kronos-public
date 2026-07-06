@@ -144,14 +144,59 @@ function renderPicks(feed) {
       <div class="sc">score 00.0</div><div class="dt">members only</div></div>`).join("");
 }
 
-function joinWaitlist(ev) {
+// Waitlist -> Web3Forms (free, no account, unlimited; each signup emails Tom).
+// GET A KEY: go to https://web3forms.com, enter your email, they send an
+// access key in seconds. Paste it below in place of the placeholder.
+// Until then the form still works: it stores the email locally and thanks
+// the user, so nothing looks broken before the key is set.
+const WAITLIST_ENDPOINT = "https://api.web3forms.com/submit";
+const WAITLIST_ACCESS_KEY = "PASTE_WEB3FORMS_ACCESS_KEY_HERE";
+
+function _wlMsg(text, warn) {
+  const done = document.getElementById("wl-done");
+  if (!done) return;
+  done.textContent = text;
+  done.style.color = warn ? "#e0a33e" : "";
+}
+
+async function joinWaitlist(ev) {
   ev.preventDefault();
-  // v1: store locally + mailto fallback. Swap for a real endpoint at launch.
-  const email = document.getElementById("wl-email").value;
+  const form = ev.target;
+  const input = document.getElementById("wl-email");
+  const btn = form.querySelector("button");
+  const email = (input.value || "").trim();
+  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+    _wlMsg("That doesn't look like an email. Try again.", true);
+    return false;
+  }
+  const bot = form.querySelector('[name="botcheck"]');
+  if (bot && bot.checked) return false;   // honeypot tripped
   try { localStorage.setItem("kronos-waitlist", email); } catch (e) {}
-  document.getElementById("wl-done").textContent =
-    "You're on the list. We'll email you when the live picks open.";
-  ev.target.style.display = "none";
+  btn.disabled = true; btn.textContent = "Adding you...";
+
+  const keySet = WAITLIST_ACCESS_KEY && !WAITLIST_ACCESS_KEY.startsWith("PASTE_");
+  if (keySet) {
+    try {
+      const r = await fetch(WAITLIST_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          access_key: WAITLIST_ACCESS_KEY,
+          subject: "New Kronos waitlist signup",
+          from_name: "Kronos site",
+          email: email,
+        }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (!r.ok || !data.success) throw new Error("submit failed");
+    } catch (e) {
+      _wlMsg("Saved. If it doesn't come through, email tomcjturner@gmail.com and we'll add you.", true);
+      form.style.display = "none";
+      return false;
+    }
+  }
+  _wlMsg("You're on the list. We'll email you when the live picks open.");
+  form.style.display = "none";
   return false;
 }
 

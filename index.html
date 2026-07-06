@@ -204,8 +204,9 @@
         <h3>Get the live picks each morning</h3>
         <p>The current top-rated list, reference levels, and the nightly verdict, before the market opens.
           Priced like a coffee, published like an audit.</p>
-        <form class="waitlist" onsubmit="return joinWaitlist(event)">
-          <input type="email" id="wl-email" placeholder="you@email.com" required>
+        <form class="waitlist" id="wl-form" onsubmit="return joinWaitlist(event)">
+          <input type="email" id="wl-email" placeholder="you@email.com" required autocomplete="email">
+          <input type="checkbox" name="botcheck" tabindex="-1" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0">
           <button type="submit">Join the waitlist</button>
         </form>
         <p class="mono tiny" id="wl-done"></p>
@@ -239,7 +240,7 @@
     </div>
   </footer>
 
-  <script src="js/site.js?v=3"></script>
+  <script src="js/site.js?v=4"></script>
   <script src="js/entity.js?v=1"></script>
   <script src="js/engine-room.js?v=2"></script>
 </body>
