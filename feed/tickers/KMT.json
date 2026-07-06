@@ -1,0 +1,113 @@
+{
+ "ticker": "KMT",
+ "company": "KMT",
+ "as_of": "2026-07-06T06:32:32.029165Z",
+ "score": {
+  "composite": 74.79,
+  "band": "high",
+  "scored_at": "2026-06-06T02:59:56.929559",
+  "explanation": "KMT (KMT): HIGH evidence quality (composite 75/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 92.5,
+   "catalyst": 71.78,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 82.8
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Kennametal Q1 2026 Earnings: Revenue Beat, Raised Guidance, and Market Response - News and Statistics",
+   "source": "alpha_vantage",
+   "url": "https://www.indexbox.io/blog/kennametal-q1-results-beat-estimates-stock-surges-on-revenue-and-margin-growth/",
+   "published_on": "2026-05-17",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Kennametal reported strong Q1 2026 financial results, exceeding analyst expectations for revenue and EPS, which led to a positive market response. The company's revenue reached $592.6 million, a 21.8%"
+  },
+  {
+   "title": "KMT Maintains Rating by JP Morgan -- Price Target Raised to $40 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlJRS3ZSRGxhdHdTR0VQLThsd2k4VnprTm0tVmFLNjdUS0JmQzRjZHhQWXZzNlhkeC1hWkNUOHpXajRzMlc4UG5fSjJ1UzZrb3loVm90REZ3WU9iUlBPZmstSUJsbFdLa1lrVTNNSG9JSFNCN1ladFZzc0M5bnEyLU10T3NIZVhPX21ORy1oT0R6VVA4WEtic25VLWpSc3c?oc=5",
+   "published_on": "2026-05-08",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  },
+  {
+   "title": "$KMT stock is up 15% today. Here's what we see in our data. - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXJYM2I3TG9RZU53cHFNY0Y5TGJqVGJZbHhzeWo1dnE4b0I5TmI4YnNXQW1tZWMxQlFjUmxyRTRXQ1lIVko1OElaRTA3TjJsa0NEdHRudS1CbGRtV0pqT3otYU1LeFozVzNUWERLQ1czbXJRXzRVeUx1Sy1JNWcxamIzc3J2SVRFOFBXSFZCNndCNzJxeTFLTEFFZ2VreGc?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  },
+  {
+   "title": "Kennametal (NYSE:KMT) Stock Price Up 15.1% Following Earnings Beat",
+   "source": "MarketBeat",
+   "url": "https://www.marketbeat.com/instant-alerts/kennametal-nysekmt-stock-price-up-151-following-earnings-beat-2026-05-06/",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  },
+  {
+   "title": "Kennametal (NYSE:KMT) Stock Price Up 15.1% Following Earnings Beat - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFJ4NG1pWjdMMkJNY1ctSndsTXhGSWpIcWRyaDhXdlYyQlhsQ3cxWnVQM0I1elZtaDVZelExWDRlcUpfS1JEbjY5bEdhaGhMOFZZWU9oUWdnamRvV0U4REM3V0JqaWhNRXR6ZWh5RTViUnhwTWtzcVZxbGRteEdXMWNGVkZoTXNzZmdwSEY5Q3REVHZNdG1QSGlDdmVRQkllWXQtVFdjenpwSFNvM1R0ZHdPd3hDUQ?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  },
+  {
+   "title": "Kennametal Inc reports results for the quarter ended March 31 - Earnings Summary",
+   "source": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N41J2J0:0-kennametal-inc-reports-results-for-the-quarter-ended-march-31-earnings-summary/",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  },
+  {
+   "title": "Kennametal Q3 2026 Earnings Call: Complete Transcript",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/insights/news/26/05/52326474/kennametal-q3-2026-earnings-call-complete-transcript",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  },
+  {
+   "title": "Kennametal (NYSE:KMT) Reports Strong Q1 CY2026, Stock Jumps 11.1% - StockStory",
+   "source": "StockStory",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1B0OU42RmxoeHhObWNnanhqQ21TM2lEeEF0M3FyV0xzTGJMUzdIZlNMQnFDUUhaX0FlMlNhMzdUc1hlYzI3anpzNDdnU0NkV1dDY2d6d0FpdDRIYzlsUXBxeUNmc3M0REtrVjE4TUFXMlhSdU1RX2JQOVlKeEt6elljT3RYaWFpNUM5by1vQ1NPNDNscTVjdHRYTUY3T25CdXpNc1c4UTQxalFFdDlDMzVLUXVjT0RVQ3hMQTF1dw?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kennametal reported strong Q3 2026 earnings with a 22% sales increase and EPS of $0.77, beating estimates, and raised its full-year guidance. The stock surged 15.1% post-earnings, supported by bullish Alpha Vantage sentiment scores across multiple articles."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-07"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

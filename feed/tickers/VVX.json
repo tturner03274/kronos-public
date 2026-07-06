@@ -1,0 +1,121 @@
+{
+ "ticker": "VVX",
+ "company": "V2X, Inc.",
+ "as_of": "2026-07-06T06:32:32.370610Z",
+ "score": {
+  "composite": 73.5,
+  "band": "high",
+  "scored_at": "2026-06-06T03:30:43.506133",
+  "explanation": "VVX (V2X, Inc.): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.5,
+   "catalyst": 65.88,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 73.22,
+   "asymmetry": 81.88
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 66.37,
+  "ret_7d_pct": 6.91,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "VVX Reiterated by BTIG -- Price Target Maintained at $90 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0I1Rno0cWhKbDNvN0liQkNOYXNHdHkxRV9KSmc2TmNEOC02TzZ2ZTl5dzNlMW5YdmRYSHZhY3Z0TlRDcWdYc1ozeEhtTjExTHQyVTdKeFZJX29qN1piZm83SHd4S2RzOTN3Nm1rM1pEMHJSaVBJZUdQNkZ1NHhmMG40VUg2MVVHOU5MZVZDTlRjVGJOSXRxdTRfdWM2TFVfY2pLQlpn?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "(VVX) Risk Channels and Responsive Allocation - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGNnOEdyOVNTOUxESUhvdTFMWmpSRDlubHNxUWl5R0x1Ny1xY3VjRXNqZTlPdzhLMVFUN052QlJEY01zSGxteWtRTVJ4Vk5SbkZYZTVvRHVLb3Q5RUVubFBmVUtIcFJpSXBLVUViUS1Eckp6d2ZZUHlpRWdrUkJEVmJ1UHZJY2dETVQyUFpfeW9lUVNzTmtxYjR5ZWxHN1h1cFJ0eTI4b0U3UWpJbUl1Sl9CMG5relZzR2duZV9tWEQ?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "V2X, Inc. (VVX) Secures Modernization Contract from Naval Air Systems Command for Aircraft Survivability Systems - Insider Monkey",
+   "source": "Insider Monkey",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPakxzRWJTbVN4STlvQ1RyWFI5N3I3bTQtVmNqVWQxVkhvWlhwS0Z0NTMxOXFjWFEyMmhuV2cxRkxjMi1ZRlZNQnhEWXplR192bWFuM1pfNGJ3azhiWVU3d3U2Um5kNTJwWG1CMWZTOGpYZHduS3lKSFptODFEMUVneEZVRWJPQ2ZXSG9hM1pkeDdGQnRNeHZaZkZza1EwbmtENXc2Z2NaaE1sLWItcmJpMWFrRkRRejFBR3FJUW9YUFd4Mk4xOWU0bFlRdzZ6MVktVW0yZ21MM0UzV0hEanZDZWJkU2dZdkpUX1dySzI1Y9IB7wFBVV95cUxPakxzRWJTbVN4STlvQ1RyWFI5N3I3bTQtVmNqVWQxVkhvWlhwS0Z0NTMxOXFjWFEyMmhuV2cxRkxjMi1ZRlZNQnhEWXplR192bWFuM1pfNGJ3azhiWVU3d3U2Um5kNTJwWG1CMWZTOGpYZHduS3lKSFptODFEMUVneEZVRWJPQ2ZXSG9hM1pkeDdGQnRNeHZaZkZza1EwbmtENXc2Z2NaaE1sLWItcmJpMWFrRkRRejFBR3FJUW9YUFd4Mk4xOWU0bFlRdzZ6MVktVW0yZ21MM0UzV0hEanZDZWJkU2dZdkpUX1dySzI1Yw?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "V2X: Private Equity Overhang Has Ended, Presenting A Buying Opportunity In Defense - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd29hc283VllMZFNUZTVReG1pS0JFSS1VVXNDT2NnOS1MTU5MUUFVMkVLQllwTjF3UVZOcEhQOWlVQlpjNVh6TFZ1Wi1kR2Rjb3JOZmZ6bUVnWXAwM3dVRWo0dm12Q25udFVEam5kYkd4M0RWbDBDYkViVG1KQmpiaFQ2d1JJWEF6LXpBcTVkcFRETV9BWVFLVEM4MFU3endrb0EzOWdSXzdTQU5JSE5NNThaWUdRTUljb2lJ?oc=5",
+   "published_on": "2026-05-25",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "Is V2X Inc (VVX) Overvalued After 3.0% Rally? GF Value Says Over - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9ZaDhUSHJfM3pDSDFsUDBhdTh2czA0RVZYdEdIcnF4ZHNpREx4endJSmI3OFdiTF9SQWx4bENIQXBQOUpvTEd6Q1M1cHBxTEN1X01CWVpqOEVmUHc1MFVoeTl6Y09Ic2ZPSm54YWpPTW1tNS1qNDZCVmJCSzV2a2VPTmV6VDdnZW55ZExrcTVubm8tYTIzc1ZrUEp5WkFHcW1LY0N3dTNOMlB6cC1UQWFaWjhaLUU?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "Is V2X Inc (VVX) Overvalued After 3.0% Rally? GF Value Says Over",
+   "source": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/8878379/is-v2x-inc-vvx-overvalued-after-30-rally-gf-value-says-overvalued",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "RIVER OAK DISCOVERY FUND's V2X Inc(VVX) Holding History",
+   "source": "GuruFocus",
+   "url": "https://www.gurufocus.com/guru-portfolio/RIVER%20OAK%20DISCOVERY%20FUND/VVX",
+   "published_on": "2026-05-21",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  },
+  {
+   "title": "V2X, Inc.: Record Backlog And Earnings Inflection - Q1 2026 Earnings Review (NYSE:VVX) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDlyNWltaG5ScVk4YlBmY2E0YVdGbHlVLXQzTFZkTC1kRzhmakdaWk1iQkUzZGxQTEtvNVpWQ1FzMHVybDZ0UTRmYUw5LW9jdE50ZUE0dl9MTC05NXFCQ2R2OHQzcTFNd3B2Z0YzTXdfRk9MMTB0SnJGVFZnZVZQMlh5RWdzQjVVakF3ekJ3REl5TUxtT083eER0ME1GMXp4VWxTMmJvaW5HYVhsa3k5YlJ0bWVoU3U0?oc=5",
+   "published_on": "2026-05-21",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "V2X secured a U.S. Navy LAIRCM contract, reinforcing its defense modernization backlog and growth outlook. Despite insider equity compensation activity and a secondary offering by a major shareholder, the contract win and strong Q1 results drive positive sentiment."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "market_cap": "$2.37B",
+  "pe_ratio": 27.087502,
+  "forward_pe": 11.4706545,
+  "revenue_growth": 23.4,
+  "eps_growth": 140.0,
+  "beta": 0.128,
+  "analyst_consensus": "Buy",
+  "price_target": 78.79167,
+  "profitability_score": 20.0,
+  "balance_sheet_score": 40.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

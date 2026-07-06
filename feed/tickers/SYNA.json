@@ -1,0 +1,121 @@
+{
+ "ticker": "SYNA",
+ "company": "Synaptics Incorporated",
+ "as_of": "2026-07-06T06:32:31.674394Z",
+ "score": {
+  "composite": 72.63,
+  "band": "high",
+  "scored_at": "2026-06-06T05:03:41.120500",
+  "explanation": "SYNA (Synaptics Incorporated): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 91.5,
+   "catalyst": 65.24,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 79.8
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "How (SYNA) Movements Inform Risk Allocation Models - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTNCTDRYbW84cEo0Y2ROYWRKUVZyLU1ZWEEzbEVMMkJBZ2FiYVVucGNHMTFLYmR5Nm5WR2NvNXI3dWZxU2EwSEdMMUpueXZhQ1h6WkYtX1J1Sm5STjZoTEJqaFZoemJjMHBfTDRidlJacFI3X0Zod1k4ZlpWTF9uaDJBOXJuQkZpOXlXZ01vdE04emZqckY1bWFrbXRqR2xzb0RTdXN0M0VFSEZndXlKOVFpUXhKSTJEbnpGeGw4bDM4cWdHajlB?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "A Look at Synaptics Inc (SYNA) After 3.1% Gain -- GF Value $83.2 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlpXOTBZU19ITGhqVWRFb3RXNUgwOWx4Ymg4Q3lIV3kxYk9IbHlXeWdmTUowZUMxYzdhNndzbm9Ic0RmZmxaYWZzVl82X1BVTUdBTHlMNEZsZ185UWNySkU3STk4N1haUEtOczd4aDVicy1kbklwdlAxQm9KZG5BWGgtcjVzQkdVMC14cjB2OENqeWFBWjJMZkRKb1ZzMWRxRjVNNXlvYkhPczJoTnc?oc=5",
+   "published_on": "2026-05-01",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "How Synaptics\u2019 Edge AI and IoT Momentum Could Reframe Synaptics (SYNA) Investors\u2019 Narrative - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObU81c1BrWURRZG5hdFV3dEhDd0xuczhnM2RDVnBHLWdJT0Rsc2NYRVpvcE5OdkU1c3ZnZ0JGeGIyMTlxWlFndFBVN1FwRnlzdVZOS3hLZExGN3VCZzBmOU9HTm1pQ0pITHNQRGREeWVuWUZfb1BTSFhTVW53TS1VUG9NUXlVWDlnOU44T0xBNGhqRkNSSGp2c21VU0l1d0ZKTU9oLW9Kb0MwX05tZmJNTkduUmRwR0k3dnRRUUVQQ0ZqaXl5d1RXcktwRDFWZ2fSAdQBQVVfeXFMT1BTaDR0RE1UUHczUzkyQXptS2lPLVhUa3k1eGVpaFFVYmt1Vi0wM3FNTDN6cXZsRzB0eWVneVJHcngxYnRxYXlzYUZodW1yS2lIQVhIZ203eHNXYUZBVXJUNXd5VG80QTBjcU8xSlQ2aFpFc29rNFlHc3QzNVFpdS1mbGdvZmxJMnNkWUJSZ3Q2dXBFZHhVOF9rNWpXemtMYV91ZVMtMjNLOUVIckpZMl9xQzJGRVRzU01Zc3U2TlVVZDBpXy0tMUpzaXVrT1liTzJKSHM?oc=5",
+   "published_on": "2026-04-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "Synaptics Inc (SYNA) Shares Fall 6.0% -- What GF Score of 78 Tel - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRGVYdTNhSHZWM29uOVRkbjRsaTA4OVhWZmJiemJQMmlXTF95YzB0ZnNLWE5vRG5ocm5RZGkwOHA4aEFjODZYZU42NER0WXUtNlZ2TEV4MzNCSGpKSE81SEF0ZmZNYzJnejY1U3lYTmFCZFdXNTdPMTBXOENtLWJ0Z0xzbVBkSnBkeURSWlZCN0U3Ti1VM2lZV19TRUVsMHZFUU5RMmtQZGRLVTRZdkh6R3N1UnlCUlc5bTFWMA?oc=5",
+   "published_on": "2026-04-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "Insider Selling: Synaptics (NASDAQ:SYNA) Insider Sells 1,548 Shares of Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVJablgzTW9fSHVfNVpESkhLczlWTFNGZVR1M0hObkhBNTh2dFAwTzVoMlZ0OWxmRHR5TnpOeElxaVJFclZOYk9tMFBhTXFhM3Bub0k2SXZLS3lRUk5vS1pwNkZXcGt6RzJKTTNEcG9UcWdfSm5sRVVnLXIzS09KV0JTT25tWFJFNHh5OFowbnV0OXROZW5abUV0NEFOUi1zSDlpOUZaeGV5VzhVNnlzMHpmOFNSVWZIVWFvamNyRjhaT1U?oc=5",
+   "published_on": "2026-04-28",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "Planned share sale by Synaptics (SYNA) officer Vikram Gupta disclosed - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa05Yemo5NHo5anU1VUhnLUpJRkJTVVdPMXZ1TkJMLVlTOW5aRVRERVhHWkhhMzZNdW5uRzNOT0hjcFEwaUY0YlBiQ2tzY25HN2lSeDVkVkxwRFVwVjBZdzczaW00TV9jS3pyOWNYY2JiamMwRS1paFNEUHBLM3diZUtqX2pnTjBEMy05c3FkWnlqRTdEZXZoV09obEptSU0yN3Uwc1VHS0k2T28?oc=5",
+   "published_on": "2026-04-28",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "Synaptics (SYNA) Surges 10.5%: Is This an Indication of Further Gains? - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclFqYU5aT1lCaWpZVXJMR0g3djJJMzVZSmhyRU1SeGFIb3ZhQUpSWnM1ZEhYd3lMR1pCUndaNEhqQnhlNV9Sb2dnOFZLeXVvNnVQbVpfQWlvcEMzcGx5Y05kc3BtRWVhSmQ5a1JuTlFWZVJmaWl4M0NPR3VJX042Y3lSdWwwWHF1c2VMWnBjV3VCSC10LWc?oc=5",
+   "published_on": "2026-04-27",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  },
+  {
+   "title": "Assessing Synaptics (SYNA) Valuation After Recent Share Price Momentum - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHcwVDhZVTh4VkJweHc5TVp5dEg2T0NFUzdDOHVWa2dvTnhHVkZpVUxMY1hjNXNIZ0pRZVVmajdrTDZrUUNEcXZJV0pHTXNXODA3dlUzN1RxWVBENF9heC1udVJIZEF4YkJmN0ZJZEZYYW9sU25nbjJtZXBCLUtLYlNUcUNWLXI5LUM1dV9VTDlmMGV3cjhTWkpLZnFIem93S25QT2luQTZOcmhLRUhETHFMZ1hnX0tCanFrTl9HVS0yeWFLcEwySm8xUlowUdIB0wFBVV95cUxPMThOVnM0RmZsbjM4NVRCV3c2Si1qaVhyaTdFS3NIZGhZX3hKVGRJblBOSTVSNVlibEZTUlR5amdyQkZYNlZ5MVd6d0pOTXdfaUthQmlKckQzSHBEVDdhOTZYWE1nejNRdy1wQ2ozRlh5QjhzRUI5Z2JSeU1wdURQM0R2WEtTUWFxSDZtTEE4UEhhYU1VYXpTdzNaRE91dW1qaWRRV0Y3Xzdlc2VHWS1oTjE4VnI5U1k2SFpMdjBFRkd2VUI0Vnk3Qk5Ga3N3SDc5QUh3?oc=5",
+   "published_on": "2026-04-27",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Synaptics is set to report Q3 fiscal 2026 earnings on May 7, with multiple analyst notes highlighting its Edge AI and IoT momentum. The stock has seen a sharp rebound and is participating in major tech conferences, indicating strong investor interest."
+  }
+ ],
+ "catalysts": [
+  {
+   "event_type": "earnings",
+   "event_date": "2026-05-07",
+   "eps_estimate": 0.19,
+   "reported_eps": null,
+   "surprise_pct": null
+  }
+ ],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "market_cap": "$4.07B",
+  "pe_ratio": null,
+  "forward_pe": 19.871613,
+  "revenue_growth": 13.2,
+  "eps_growth": null,
+  "beta": 1.86,
+  "analyst_consensus": "Buy",
+  "price_target": 101.45455,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 80.0,
+  "captured_on": "2026-05-05"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

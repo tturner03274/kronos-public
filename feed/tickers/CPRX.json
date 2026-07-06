@@ -1,0 +1,129 @@
+{
+ "ticker": "CPRX",
+ "company": "Catalyst Pharmaceuticals, Inc.",
+ "as_of": "2026-07-06T06:32:31.708396Z",
+ "score": {
+  "composite": 71.87,
+  "band": "high",
+  "scored_at": "2026-06-06T05:03:33.588505",
+  "explanation": "CPRX (Catalyst Pharmaceuticals, Inc.): HIGH evidence quality (composite 72/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 93.0,
+   "catalyst": 65.48,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 70.91,
+   "asymmetry": 78.41
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 73.42,
+  "ret_7d_pct": 0.29,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Catalyst Pharmaceuticals: Angelini Deal Caps A Potentially Better Story (NASDAQ:CPRX) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHBFWFZKUzNnYjVWVzBTTDU1LWU3emFkVEp6TWRRelFaZXp2ZGlmNXBYUWRDSGZWQjJiSzg1RTA2SmoyaFFjc2d2RExxeEpBWUcxQlJWTDFEQkNxSmtSMWduMGlYWTU4dUZ0QnBrUGFERU5WVHdDRml0bC0tTU1DTXV1cjFpRHVqMzNsUlczVzMwbS1iX3phUUxxYzlFdkdZdFdJeFVkdlQzWGp3dExzamFDZ3BDdlpEcTZqOUFpT0RCLXFacHJXaEpGQkdYSDFIQVE?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "CPRX SWOT Analysis: Strong Financials Amidst Market Challenges R - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc1phaHV3ZXFzSzZaOElwY2pHU2lQRE1zRDE2cjRCSUFfZFY2Z0hGRTVUSnotOUsxdnF5SlBPbnVENmptaXpIWWF6aVFkNlByRlF2R1V5OFJHanNmazNjZENHU2REX2xVellJbTdyQ0w1T1BfX0lxOHZyaUxwUE9rbXFLTl9nN1NKSlk0NmsydDFEZTVMemw5RDNXOUlnVmZub2lxaTBrakE5Yy14SjZaYU55cnZCWFNQRDhDSERrc2dtN0tMdmFLYm1ROWxEU09y?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "Trading the Move, Not the Narrative: (CPRX) Edition - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTluSFlodmQ1OGtQUFY3TVNrdXlVSllOX29VMUh0UUlRM2NjTkxIVzc4dkQzanIzN2IxaTllcmNhNTBaUFlWWlZJdFZUU1g4OGdZUUh1dThPc3B2b0RNU0J1dkdKZGd0REJMODNpd3h4aEdPc0p4YUZDM1g1Y0JSQU5fdVdJNjNoX3BiRkRPMUVVUzdZMmh5dFhnNFdRWnpMUWJFbkt5QjhtZS1EZjV6QW0zTUVza3ZKaWUwVEVwMzRPd1lpOFRyaQ?oc=5",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "Are CPRX, UNF, RMAX, ACR Obtaining Fair Deals for their Shareholders?",
+   "source": "PRNewswire",
+   "url": "https://www.prnewswire.com/news-releases/are-cprx-unf-rmax-acr-obtaining-fair-deals-for-their-shareholders-302768947.html",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "Catalyst Pharmaceuticals (CPRX) Announces Suspension of Guidance Updates - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMk15b24xdDdRTHBZdjgtd3pYTTk4UjFEQnk4VGNMcVFBX01lQV8yVkVuTmNUUllUeHBaNkNCZzBMM0tMYXJ5TkFjOThSczNTZGZHSWppeV9ndm53S1pyZXh2bVljMS03R1NobWpHOHZwRlNmZmhhblRqdFhhYTdCeV9oTlNQdGhZSV9JaUFrZ3hQOFFoLTFUQTJGd25kM2RnWVlaMjU1OEQ3YTZSNDVmbWppaXI5Y1FpQ083cURR?oc=5",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "CPRX Reports Impressive Q1 Revenue Growth - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjF6NXFIclNqdzBSUU9jcmdCdmoxZVZla0V1alg2d3Z5NEpfWjFPanYyVVU3QURCYVRaWW8yeW5VOXU4Y2dHMVFxQ19EdlhrLUVkZWJFZXRONDVoV0hka0pNNTRMTnpubnNkclpkQThFbi1NZTF3WEgwaEl3aVEtb1ByVjZNMGM4S3haeEJuOWlhTS1KRVpn?oc=5",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "Profit rises at Catalyst Pharmaceuticals (NASDAQ: CPRX) on Q1 2026 results - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGcwdkdjRUFsNVBXNEFDdlk2QmNnNTF1OTBUZ0VLTzJUOUJWVnlsWEszYW5nTmRON3EwT3I5V1NJYTRibzdUUVRyNDNneGpOYkE4TElfSTJ2X3hLOE1la0xhOWIxWFQzeHVZMmpEdnRvdHc0NHRmQWZKMHM5RFR6RGY2LWM4N2FDR2wtVVhXUXB6RWRHVnpKaWhKU3Jac1cwLVdrcFlhRXBfbjFxV3g4bnNhUXZIYnQ3?oc=5",
+   "published_on": "2026-05-11",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  },
+  {
+   "title": "Catalyst Pharma nets $100M in Q1 but skips earnings call - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHQ0NEkxMjJoSnBnbjFwNkRZbFc3T0RjU09TQmd0NGZEbGpvOG1keUozdE8zMmFQaXQ5VjNFMEtrRWFOeVdsalAtelRDdUtHNmhQM19RS2xtMml5N0hUcXlhaldiTVZoaG9VLTVvMlV6Q2I1ak9yb1BORHBBQ1ZTaGg3d0ZabjZYU1F6OWtqRXZUX3BrbGVzLXppOXNhRDE1RTg2UEcyXzdXMFhXR0NzcXBSUnVkMnc?oc=5",
+   "published_on": "2026-05-11",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Catalyst Pharmaceuticals is being acquired by Angelini Pharma for $4.1 billion ($31.50/share), a significant premium that has driven strong price momentum. The deal is supported by strong Q1 revenue growth and a favorable rare-disease drug pipeline, though shareholder investigations and guidance suspension add some uncertainty."
+  }
+ ],
+ "catalysts": [
+  {
+   "event_type": "earnings",
+   "event_date": "2026-05-11",
+   "eps_estimate": 0.58,
+   "reported_eps": null,
+   "surprise_pct": null
+  }
+ ],
+ "fundamentals": {
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": "$3.78B",
+  "pe_ratio": 18.36905,
+  "forward_pe": 9.842005,
+  "revenue_growth": 7.6,
+  "eps_growth": -6.4,
+  "beta": 0.718,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 34.14286,
+  "profitability_score": 100.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

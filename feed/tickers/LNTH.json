@@ -1,0 +1,121 @@
+{
+ "ticker": "LNTH",
+ "company": "LNTH",
+ "as_of": "2026-07-06T06:32:32.150352Z",
+ "score": {
+  "composite": 73.45,
+  "band": "high",
+  "scored_at": "2026-06-05T23:39:14.531916",
+  "explanation": "LNTH (LNTH): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 92.5,
+   "catalyst": 65.4,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 81.0
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 73.45,
+  "ret_7d_pct": 3.51,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Why Is LNTH Stock Up After Hours? - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1dYZFMtUXZpcGx3YktJVnBld0JjX2diMFBsdktvUC1lZWZROWFxX1Mxd3Y5aFllUDlPNWs0WjRPbHRwbWhobTAxQlZxbWpWczdiU19LX2ZjUWlXWldYR21LMGFWX0ZBbDA0U3B3U2ZCRFA3RWxyOWt6NDh0TmMtY250LVlYeF9SUExNWnlpS25fdkx5dkY3bDZJQmI?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "Assessing Lantheus Holdings (LNTH) Valuation After Strong Multi Month Share Price Gains - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkNrMm5kVFA5T2w0MkRzWlNTeW1SZzBleDE5RzJUQ0ZET2xmbERLVHk2MUk0OV9qMFpIeHJMb29zNGQzOEx5M0thUHFEaUx5V2pveGZKU2dCdXZiUHdlVFczT2xzVHk2dG9LVkdHTGpZaUVLRHVGbzhlQV9ZRFEtaVlyYkRfUE1JYThwczhHTkdQOHQ4V3NUUkZTQm9Nck81TTFnaU5EOHlXZWM?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "Understanding Momentum Shifts in (LNTH) - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFJUc29qUGxQWjJtMUc3akc5bzFHazZXaVZqRXFDdzNvdlFCZGpqdm9kaUpJSEFzUnlhNDFEQnZJZWxDS2FLdEhnSjdLczgxMTkwR1lXbnpuT1JTRW1ZYzMtZWlicmVjaV9oQmhKX2M4dFpHVUp0SkJxUDlEWVF6eGc0T2d3ZHdSYko2dUhiemk1cFctcWVjaXpHV09yaWtPYVZVT3FOb285Uk5XSnZUVGwyU09WdDZOV2c?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "LNTH News | LANTHEUS HOLDINGS INC (NASDAQ:LNTH) - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YNF9mOFFWTFNpRnJYSDhSTjVKdTl1Rm0xcFpWNmI4R0FkUDhmSy1lQlQyeHA4SDg1UE55VlhlYVNNYmwwajNHVFFRamdIQWMwbUhBUXp3Q0RDLWM?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "How Investors Are Reacting To Lantheus Holdings (LNTH) Award-Winning Thrombus-Specific PET/CT Diagnostic Breakthrough - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjJKWXFYbzJnRmZ4ZjhvOGloUmtxd18weHBNWm5GeEdJWTd5d1ZqVGlBckE3YnlncXdmZk4xcDJpenhyNzBKZnNQa1dna2t5YTR0TlRjdm1hZlNWV3d0NWl0YVFQd0tHeHRaNVFZcmxIMXB1TFZrajQ1RmtFTDdEVU9WMEhpcGZkNUNiR0dYV3ZmajN6cUhLZHB4dzdSY0ttcVlSb0pWblNDcmJJRnAzS0l0Z0hTeklNU2M0SG1sTFVOalpNaDkxbHB3UFg0bXpYWkxQdNIB2gFBVV95cUxOcnJ2bzUxM09oWHVQWkdodlRYYXdianRWdUs2dHhOR2tDcmRza1BvaGVIVjctWU5kV3pycXQtX3BUXzU3TWxlRmxHNWJGSU4ybVlGTlFIczRoTk0xUnk0U2ZfYTdKcUNEdmtXXzhjWjlObTVIU3h0dXJsY1lIeG1kcTVGN1UtOW5abjF0bUx1SHpwTVl1eS1kRzNqbnRKc0RoemwxdWxaSFA0YnRIcTZPNzNwVHVTVzNtZXVwUlR2ZldsRzM0YVJ5YTFxdDRSZ2hMUktPNFBxWGJ5QQ?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "Is Lantheus Holdings Inc (LNTH) Overvalued After 4.1% Rally? GF - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0MzdUxobUozYld6TmVqMkVfRG1uQWdJb3B0TW5fdTMxTDQzNEhoZy1zWDdadV9FZjAzUThVMHZJQldJd0dQUXFTQWkxb2xCQ2RkOUNaekZLOW5ycWpkdm44UTA3QnBrdG5iRkJ5Y201em5STGk2dXRXU3drSE1hWlRXYVhpMzdWWWpZcFRfN1NaRDEzRGc1MXE4Vy0yZVZ0Zk5qcVdPZ0pPZXVqLW1menYzckFRc1BncEllYTIxMjd1NTlMRlFzUnZsMA?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "Lantheus (LNTH) director uses 381 shares for tax-withholding, retains over 27,000 - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkdpamR3VDV2bDM3Zk16cmpObzdZZHJxY3ZXMS1JandrTFFNTGF5RXl2SkZNZGtTTUJxelI3T296UGRSNk82aG8yb2VRQlBEMG5Jd28tTUctZDJ3TlMtMEVyLU1SUEpHam8yazAtMUJZcEg2SVhSWHpZdGtpeUNES2RIRmx6T3E1U2NKLW1ra2RZSG1xdnB4TnZkQmtfMjJvRXRFRXZ0TmpFb3lwSjE3dmZLWWhKUQ?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  },
+  {
+   "title": "Lantheus (LNTH) CEO Heino reports 1,227-share tax withholding and updated holdings - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlZObGdhdVU5VDlKYlpyY2JoQ1dfclRBNFZMVlgwdzhuUkJCUnhtVGJXbl9vYklmUTV5dXVSVXJRbHhBbkM3eTNHMXJweXo0c0ZqdVo1RVVDTi1BOTE5dkFFeU9TOEgwbGNMbmc0VWIwOUMxT3ZFMEE0blZCUnJnSnVpSEFBOTA2cXNzX3lndEJHNncxVFhJbEFaTlYycC1COW9iNFFmbkNkaDV6WnhMUzNOVVFXZw?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Lantheus is evaluating a potential $7 billion sale after an offer from Curium, alongside strong pipeline catalysts including FDA approvals and ASCO data. The stock has seen significant gains driven by these developments and positive earnings beats."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-23"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

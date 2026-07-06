@@ -1,0 +1,129 @@
+{
+ "ticker": "AGRO",
+ "company": "Adecoagro S.A.",
+ "as_of": "2026-07-06T06:32:31.963513Z",
+ "score": {
+  "composite": 72.44,
+  "band": "high",
+  "scored_at": "2026-06-06T03:46:10.305098",
+  "explanation": "AGRO (Adecoagro S.A.): HIGH evidence quality (composite 72/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 94.5,
+   "catalyst": 61.93,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 78.39
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 72.44,
+  "ret_7d_pct": 2.01,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Adjusted EBITDA reached $85.8 million in 1Q26 driven by first quarter crushing record & full ethanol mix. The Fertilizers segment adds earnings momentum and future upside supported by higher urea prices.",
+   "source": "newsapi",
+   "url": "https://www.prnewswire.com/news-releases/adjusted-ebitda-reached-85-8-million-in-1q26-driven-by-first-quarter-crushing-record--full-ethanol-mix-the-fertilizers-segment-adds-earnings-momentum-and-future-upside-supported-by-higher-urea-prices-302768677.html#discovery-AGRO",
+   "published_on": "2026-05-11",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "LUXEMBOURG, May 11, 2026 /PRNewswire/ -- Adecoagro S.A. (NYSE: AGRO, Bloomberg: AGRO US, Reuters: AGRO.K), a leading sustainable production company in South America, announced today its results for the first quarter ended March 31, 2026. The financial informa\u2026"
+  },
+  {
+   "title": "Elfin Agro India Limited Share Price Today - Live ELFIN Stock Price for NSE/BSE - Upstox",
+   "source": "Upstox",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0d3RfZTcxRnd6VklfcXJNNTNjOWc0OU13VzdNbjRVcXVGT1NjUEl2X0k2SGgwdW0tVnVHa0QzX1hXOHA3bTBhanByWktQbWw4emc0dmZ6WGpmNmd6ZWtyengybHk2UWJSMXZ0VWlrQjk?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  },
+  {
+   "title": "Pajson Agro India Limited Share Price Today - Live PAJSON Stock Price for NSE/BSE - Upstox",
+   "source": "Upstox",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ib1g1X2UwR0g2bTVVczY5OXpJRFgzN1IzajNTOFJpb2NLaE1qM09wbGRUdjNNWExVRXNHMU9YQml5S1hiWXN1ZUhsY19YN2VTZC1NWUVrc1dQZllKQ3dOSkhvQ1AxRXA4OVJ5QlB1aGE5Zw?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  },
+  {
+   "title": "Teesta Agro Industries Ltd is Rated Sell - Markets Mojo",
+   "source": "Markets Mojo",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGxUS1IwR2dMelNkam5YWVdZYmpEUS16ckZveDAtdkEyZ1RRbjlaejFPWlBsVTRXMEZtM1FrRjBndDVRU244czJZeGRJcHVCY2gwRGQ2NDhENGJKRXFIakNZNGliVnN6YTJzZWdFUjVUUk1CSFgwNlRlWmFGb0tCUldBTGcyZTgtekhVT3otYURnSjlwZUQ2U0E4aFM3dHpsOW1teA?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  },
+  {
+   "title": "IFB Agro Industries Ltd Upgraded to Hold on Technical Improvements and Valuation Appeal - Markets Mojo",
+   "source": "Markets Mojo",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVpSQzZpLUNvLUhfOVNPX0pMRXo5dlk0VEN0MmRIc0FQUU9jbWNGWXBCd29CNGMteEtZcGNOMVh1bHNjT20wTVBsbllPNmc3MU1lNUx4NTBsZGhFaS1XSFR3a2xKT0VnSGhQQXdJSG9xRGwwWGxubnlpaXNpVkRBS2oyQ3JaMXdIcGhGVkZSX244bDU1eGtzOXM1MG16V05qMFJKMnFHUHg3QjVKMUJRRG9hUDVVMFl0OGFfd1R4Y3hKMmh3YklDdDQyT0pzdGxuSUdUaWJEclUybVIwdXVqN3pxNA?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  },
+  {
+   "title": "Hatsun Agro Product Ltd Downgraded to Sell Amid Mixed Technical and Valuation Signals - Markets Mojo",
+   "source": "Markets Mojo",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSWlEQnNwYmNseVFKS1Nlb1hsS2lZMnNzU2hKY0s0ckRIVG1jVzE1SmttT3BtV3RWNEUxa21pZWR1LVRhV3A5VldVbWNVWkx3MHIwZGQ2RGlJNnhIMDkyUU9oWnFNYk12NTVOYlJEaVV6Y3FQbnFhSTVXd3RzM3MtS3gydnNhOWpyd1Q3UXl1YUhSVTNDd2o5SUJNbXU4Wk9JUGdvSGZlNTNwdElEdm1UT0YyLUZOb0pCVG16ZWJ2RV9GYWs5dWxwOEdiQkdKZ1FkR211c2NKQV9DcDNTYVlXdg?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  },
+  {
+   "title": "Adecoagro (NYSE:AGRO) Shares Up 7% - Here's Why - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnBQS1F1aUtOdXlWWnJYMkdCZS1Ma3JNU3NPeDVOMzB0YzF4cEZtcGJ0X1FTR1F3ZlZHV2RTdXhvcDVicmo3QkhhZDVILWpWYy1SeVJrZC12WU9RNVItV0ttSUxlNXdHdGtTdzlNeWtKRjY0SUxEOGNRS0tvTDQ3WWNSckM3dWJCeWdhU2RPWXl4eXZQeXluZWNB?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  },
+  {
+   "title": "1606 Corp. Signs Definitive Agreement to Acquire Sim Agro to Develop, Acquire, and Operate Data Center and Power Assets",
+   "source": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/05/04/3286623/0/en/1606-Corp-Signs-Definitive-Agreement-to-Acquire-Sim-Agro-to-Develop-Acquire-and-Operate-Data-Center-and-Power-Assets.html",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Adecoagro's $1.1B acquisition of Argentina's only urea producer is a major expansion into fertilizers, positioning it to benefit from supply disruptions. Positive analyst mentions and dividend appeal further support a bullish outlook."
+  }
+ ],
+ "catalysts": [
+  {
+   "event_type": "earnings",
+   "event_date": "2026-05-11",
+   "eps_estimate": null,
+   "reported_eps": null,
+   "surprise_pct": null
+  }
+ ],
+ "fundamentals": {
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "market_cap": "$2.05B",
+  "pe_ratio": null,
+  "forward_pe": 10.911459,
+  "revenue_growth": 11.1,
+  "eps_growth": null,
+  "beta": -0.066,
+  "analyst_consensus": "Hold",
+  "price_target": 13.11429,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 40.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

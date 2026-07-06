@@ -1,0 +1,113 @@
+{
+ "ticker": "SIMO",
+ "company": "Silicon Motion Technology Corporation",
+ "as_of": "2026-07-06T06:32:31.760996Z",
+ "score": {
+  "composite": 68.89,
+  "band": "medium",
+  "scored_at": "2026-06-06T04:48:07.447377",
+  "explanation": "SIMO (Silicon Motion Technology Corporation): MEDIUM evidence quality (composite 69/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 92.0,
+   "catalyst": 65.32,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 56.0,
+   "asymmetry": 72.36
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Silicon Motion Technology ADR (NASDAQ:SIMO) Breaks Out with Perfect Technical Rating and Accelerating Growth - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORFhEWFpBQjVSWXVicWVieDZPenRaMTc0Y0xnWVVaWTIwLVk2OGlLYUl2bG9BRzBCT3BMQVVlbnVTaUdZbFB0T1p5NkI3OThYWkh3VGlEUEQtVFFpNmdJZWZKVmF1MTBMY2g2Tk5zZVlHemx0Tm8xQWYweDk5eTlacDNYcm5FeVVfYlNhSWJTQUJnaVBod3VKbG55bGRqbUxnd3dMbWljdzZSUldJMjE0N1Jjbmtka1QwLXV2SjIzaG96bzgwMW9ZNUNVTmUtVkR6d09SaE9maGR4V1pqUnR2YUFJR1pjYnQ0S19UYW9B?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "Silicon Motion (SIMO) Form 144: Proposed sale of 10,500 ADSs via Pershing - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZU1YTDBoWVVhNi1VLXNvTUZsSUx6TWR1cno4TkFsdGU2Nm5tUnBqQTJmUWpYWkxaYUhrR0RIbDJGclg3WE0xZU1xbmloMmZaX0JfSUVwT2pMczNNeDNoY3JVaF9pS3NKSDJqeVlNRXAyY3lPaTJWR01sYzRBUFZ6enE4S2Z4aGN4cWp3XzdIcm1xUUFDcmhIa3ZzSnhKNXdVVG84eTl2cFlsUFU?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "simo 3.5.49",
+   "source": "Pypi.org",
+   "url": "https://pypi.org/project/simo/3.5.49/",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "Silicon Motion Technology Corporation Stock 12\u2011Month Price Target Raised to $283.38, Implies 8% Downside - TradingView",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTGZGUEhpMmlvV1hTTnVJMk1hRmhRX2hLX0d0cXVnZWppV2ZDdDJCd2FYbUtiU0RQVEgyeEpqbFp0M1VXTkFYTGphTVJNN1pFaHBObWRldHNERURzM1RnWk1ZbG5qeEhCUXdGbHQ3d1Z4Z3IwaXlsVHFTNWlhYXhhVWZNREVaaUhyUFR4MlV2WkpLX2VGbkhWRUExX3NCQ1VDUnhqcnFFTjg3OGhqUHAtRjcxZTBOeTZoSnRhODV4dnp4M1o5VVNvS0FVU2Nmc3Qtc2dzcWtGS2l1UHM2UERndWYwdzFiYm1GSFA5c0l0ampObU94VWc?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "Silicon Motion Rides High on Organic Growth: Reason to Buy the Stock? - TradingView",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3FSTzVEWTh6b0l4VmNIbl81TXRsWVN6V2Rnd1l5YTdyaGlmcWxPcGlvZ3B0SHl4c21VWlJ2SWg5Wl8yX0Izbmc2SE5qUlROMzA1bjUwT0dRN1k0WmZQeWRVd214TGdUaHRLTWUzSWgtMFRqZGRlTXdlYmhSUTBwZjlVcE1feGJRb0wzM20zTTZEOFRBY093Ul9EUjJwSzhBaV9hek5KRHkwN0FhWjAtNWZKQkFoT0hXTDBOQUVJbGQ?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "Silicon Motion Technology Corp (SIMO) Stock Up 12.4% but GF Value Says Overvalued -- GF Score: 77/100 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWRBWUhBSHg3eXI3NjJQTUlyaVNmYzlOcXRLdzQ4S1l4aXNRZktTaTg4RDRrbWQ5RXFIaDFDdExZNHVBaUIwdWR6UDlTRG41TkYzTzFJRzFpWmNQbE5xM2owQjg4dHEzanFGcHh3NEhBLTRZTDFCZzBHRWFzbURVS09EOTNXc0JHUHA5OHp4WlRZeEVDLWIxODZjalM5eDJIN3FXQ3N3cE10S0dBU3oxaVJGS1VWemh3VlhGRXhJZXFHRFdVZU1Tak9OcXhqZFRCLUc5azlGaERYUGM?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "simo 3.5.47",
+   "source": "Pypi.org",
+   "url": "https://pypi.org/project/simo/3.5.47/",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  },
+  {
+   "title": "Silicon Motion (SIMO) jumps 10.6% as AI-storage narrative heats up ahead of investor conference appearance - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGNJZzhBVEljTlFwVkE4TUFxVHRJY2R1WVlvck1CLUxfamszSTh4R2R4UWtJSGNCMWFfYWxhUU1yX1JZZk1NRTZ3UUhtN0tFWExXVE4tOW9DdHp6Y0FSMWhmQmhId1NYZUVERlI1RDZ4WDE2a3NheG45aWJKU3FyLWN4LU51dXk4OWhDeE5mU3dRZFhjOXd3azNMT3hHQ0VtYlZkWlhmZEJ5bFc3ejhWa3Z6RFREYlRfbWNmcnRidHVyTzZZem1jR04zREhPVkVJTjNkVzZDODIwV3h4Y2c?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Silicon Motion is surging on AI-storage narrative and new product launches, with strong earnings estimate revisions and analyst price target increases. The stock's 10.6% jump and 7% daily gain reflect robust investor enthusiasm."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "market_cap": "$8.08B",
+  "pe_ratio": 53.21652,
+  "forward_pe": 24.651493,
+  "revenue_growth": 105.5,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 237.5,
+  "profitability_score": 100.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,121 @@
+{
+ "ticker": "ASX",
+ "company": "ASX",
+ "as_of": "2026-07-06T06:32:32.196218Z",
+ "score": {
+  "composite": 72.7,
+  "band": "high",
+  "scored_at": "2026-06-05T23:39:04.674144",
+  "explanation": "ASX (ASX): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 92.5,
+   "catalyst": 65.4,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 75.5,
+   "asymmetry": 81.0
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 72.7,
+  "ret_7d_pct": 12.02,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Evening Wrap: ASX 200 rallies as inflation data bolsters 'no more hikes' case, retail, tech stocks shine, CSL bounces - Market Index",
+   "source": "Market Index",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVA3cC1nZ0I0RnlDek4yU04xcGVHR25iR1FlRzMtQVFMMm1EVUQxM3FoUzEyT21MUWxULTE3dzBOOHhmNUVUeVd5MVlZN2x6X0NkM0xfTW9sYXVwRzNjSTJHQUJyMTJWel9CdktKNE5GVGFDdUJ3ZWpyOGRMTmF0V3VFbUJtWXFqZ3psOWs1ZWFQVm9BZUVRQXY3Tm5tRF85V0JWUnM2azlaUURJQnhvUWFYcmN2MVlmVjFmNzlqVWJaOV9KZUNna0g2dzl3TkFkdnNWckxia1p1eWpDVllHSA?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "AustralianSuper says it has urged Glencore to consider ASX listing - AFR",
+   "source": "AFR",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0tXU2NwY191WjdUSHJFZnExTFluanB3NS1NRGZMZm42ZTJJVWFTWUZLMlJGdU40c1JBZmp5ZU5tWU8zaHIycnRaV1RtZmM4RXdZWmkxTkQtZ095REN2ZnpTU1QtZ2JHV1BtTlU3elZ3bXhxNXlFVzZiaWwxZkNrSlRjWnJuYnZnUzBGM3VmeWpQMHlQZFhsdC1wcWxkY01sVTlSNHJSU2JRWndGanhuUC1FbmhuR1Rhb2J3?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "Australian Gold and Copper (ASX:AGC) Share Price Slides \u2014 Here\u2019s What Happened - Kalkine",
+   "source": "Kalkine",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1RIV1hjXzNRUVppRGN1UUtPNkY3Q1BXd2VXcklBV1BoR2FrQ1h1dWdKOFF5a2VXTmxJcUN3Uk5UZEpKOXhuX09rbUg5cC1taWJmMzFhdm1GSjB1SmJvSHI0RG9HNDBuelRQOEJ0ZE5aRmdnODJlZDhsLUhGdnMwQXpnVFIteDY4cW4xanE4ZVdkTTZaSUtuOHlJWjBZdmdMVnhPcE91azNmdDQ?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.69% - Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU4yRlU2M2lHTmQtR2tYQTNBTjNiQVJwdzFwb2VqWms1OXlWSVBxNU9vRjF2YnRqVVZBVnJKUFB4N3FoY0VfTGtBSFRMMjQ2aEZKb1c3RXZsTTN3NkpjM1BxVUdKUWpCRE4zc2Z3czU1enkxN2JiSC02SndaTkc2Y2N4T0dfX0tjTTV4ZmN4U3oteTdIbGZ0RDN6UWswVFNwMTJsTVZIajRwQ01Hd2FwbW1uNlNjdw?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "ASX Shares Eye Decade Low After Cost Woes Fuel Profit Downgrades - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVRWaFJ2eGpQQ0RwUnBRWmdJc3BCd0xzRUgwZVlMU25lc1Zldnk0aGU0bWN6VmwxV04tbFhqd2hGWEl3ZGloejVyNGR1MGlhclpHR3dIdXctb3QwN19YRmlQdTAwN3BnRkl1QWxRZ3g4Ym11X29kN09HWVJqX1hPZFFkcFp0aW9kT242UEdsdzlHVFYyMHFVRWczTmdBU29wVFNZbGFzQWFrVENycC10T2p6OWZnQQ?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "ASX Stock Plummets Amid Profit Downgrades from Brokers - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHdqWnYwZ2NTZklhTU01SmJLQlFET3F3RzRsNGdCS1RMV05ZVmNzbmlTdkYwMFEyU1M2R1k5cm9QNjJaLU5yaEkwTXB4U09FbmpicmYxb3RaTzJSU0otNENoR2p3V3hJNDZlbGJNcHVnNkN4VVphbk8tNlZIY2RXSHpuUi04czh6d1Z1VEZDNTZxb002VWU5Xw?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "Why Has Tuas (ASX:TUA) Share Price Fallen So Sharply This Month? - Kalkine",
+   "source": "Kalkine",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXN4Qktsc01vM3VUUE5jMjhKZGNDRHRvczgzTTRDekdTaTcyMTRHVGJhRXZMX0E2Tk96d2FBc2R0UGJHc2VGZjUtM2FMaUJtdzJzX3hGejdCUXNBUHVNc2pIc25Lb2xieG5VWUs5b3dVNG1TTzdYaDlJNmhPZHMzZlN0ZGtzM0ZzLUM4REpHUWhmZ21HdklKc1cxa2xQMEhL?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  },
+  {
+   "title": "EcoGraf And 2 Other ASX Penny Stocks To Watch Closely - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlFVSEdBQnFFMWpzUXVGV3pscmVFU2JOOVA2OWlIUkVwUU1NYVMtWDVDb3NiNGw0NF9DaVVHMngtQmJsbG1rM2V3SGdhT2pkUmplc2cxWW9ONS1KZmdYcjNrbGhvdTlVVVFZNTM1d2RVQUNKdDV4bjNxTGtBWE9Od2QwYmRYMVFUak5pZzdsd2l1WFhk?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "ASE Technology is expanding aggressively into AI-driven advanced packaging with a new automated panel-level production line and a strategic collaboration for a new facility. Despite insider selling and valuation concerns, strong financial guidance and positive market reactions to strategic moves dominate the outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": "\u00a366.27b",
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-27"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

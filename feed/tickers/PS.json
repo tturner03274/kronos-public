@@ -1,0 +1,121 @@
+{
+ "ticker": "PS",
+ "company": "PS",
+ "as_of": "2026-07-06T06:32:32.251217Z",
+ "score": {
+  "composite": 72.41,
+  "band": "high",
+  "scored_at": "2026-06-06T06:36:38.306073",
+  "explanation": "PS (PS): HIGH evidence quality (composite 72/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 90.5,
+   "catalyst": 65.08,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 78.6
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 72.41,
+  "ret_7d_pct": -6.15,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "PS: Universal Music Group Completes Significant Share Buyback - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0U4SEVXTnBjVnlDUjFCaE16T1RqajFDTmVCemFBbVdia0FHN2xOdmozQXVfMm1JVzIwNXlXMHA1eTlUWHhiVnhGSUFObmMybldYUW03eWx0UndzZjdjV0RHSGRhQ0dCZmxmclg1a1pYQ2E5cXJPTUctMnNUbXBXaXhCUDdsSHpucm1ORzk5Mlp4OHZCaGNNcS1pNTVHOXZk?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "Universal Music stock slides as Bill Ackman's Pershing Square unwinds position (UMGNF:OTCMKTS) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFVvQTJTeEY4VTF5OFhqS0RkRy1Wa3pJOHhEbzZkS0xIQXFHYktWTDRnVGwxRjNuSjhVZzlaWWxEd2IwZ2lNVExUX2NtWlI1VmpSVGRwaG53LU1mQVZySzFWby1ndHhCUGN6Qk9sTkNHUU1ZWlQycVJGaWhMWTJrdE5hNzViUTMxREliYTdVQ2xvNm9hZ2ROelpHc2hBcVlNSTVNUkQtS3djMC1YRFVkWllscUhvWF9qMklvc2ttSUt6cFJSblFZSg?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "Ackman's Pershing Square to cut Universal Music Group stake (UMGNF:OTCMKTS) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckZ2R3RkQy0yaE0yYlcxcjVsdXE4bFJwX1lPbDczQzlvejZjbk5taUFfR0NEb1Q0V1IwVUVWOFFVeTZIWmNkLU1fVWxObTFWREFYLXhSOVdTV2UyZWoyNWsyeXQ5cXpCREJ6TkYwRm9hbl9SM2h1WXlldVBxVC1Kbk1lWnNZc2ZQZGZUODBZSmEtaXFoUC1MMG5GVFU?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "8 Things To Know Before SpaceX Goes Public",
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/investor-hub/article/spacex-ipo-things-to-know/",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "PS: Pershing Square Moves to Liquidate Universal Music Group Sha - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1V3YWMxTVVKd0I0amtnaUR1alhDN0VaZGF5ejJsRFQ2NUpzVUd2UTdFbl9DOENUWW80TWtCYzF2NUpzZ04yUGNPRW9BVVBjSWx5ZlVHdTNlWGFJalJCZmtWeUZSY3BYQ05uelVUZjg4RjhucVo3NWZxNGk5MnBfRUY4VUtCN3pxNlRGRDlNRGNhSWtlWkNYZ0RRTkFjVG5IYm03LTlCSWU?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "What's The Point Of A PlayStation Portal If You Already Own A PS5?",
+   "source": "BGR",
+   "url": "https://www.bgr.com/2180637/why-buy-playstation-portal-already-own-ps5/",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "infer-stack added to PyPI",
+   "source": "Pypi.org",
+   "url": "https://pypi.org/project/infer-stack/",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  },
+  {
+   "title": "Timothy Snyder on \u201cSuperpower Suicide\u201d",
+   "source": "Dianeravitch.net",
+   "url": "https://dianeravitch.net/2026/06/03/timothy-snyder-on-superpower-suicide/",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "M&A",
+   "summary": "Pershing Square's $5B IPO debut on NYSE and Bill Ackman's active investor engagement signal strong market confidence. The rejection by Universal Music Group is a minor setback but does not overshadow the overall positive momentum."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-06-04"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

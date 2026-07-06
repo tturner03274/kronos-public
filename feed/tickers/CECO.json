@@ -1,0 +1,113 @@
+{
+ "ticker": "CECO",
+ "company": "CECO Environmental Corp.",
+ "as_of": "2026-07-06T06:32:31.745388Z",
+ "score": {
+  "composite": 71.85,
+  "band": "high",
+  "scored_at": "2026-06-06T04:48:13.082166",
+  "explanation": "CECO (CECO Environmental Corp.): HIGH evidence quality (composite 72/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 90.0,
+   "catalyst": 65.0,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 78.0
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Insider Sell: Munish Nanda Sells Shares of CECO Environmental Co - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3RWQ2Z4TjBtaExjU2xRRHpGSm5Ha1NQXy02UmpGVEpBUlZyT3VyNWpDZzFyZlBMMTlFRnZGNE05VE9UWm5VRGpQWXdsSVZJTWZDel9kd0VpUFBfel9kT0taMUJZUDNwd2Zaci1CZUxQTlhKX01TMzNxcnlWU2dYMmh3N1cwV2dQWUpiM1diLWdFU19nNnhvbFI1X3ZYbG45cFNQbkFhTGlXbGpBMFE?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "AI's Latest Torch Bearer Soars Past Buy Zone, But It Isn't A Tech Stock - Investor's Business Daily",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pQUtrb0xVeDVLNHRoWUZBWjVCR2NMV1liZlcyRXVpZDZXUjNqT0g4Ui1nREpHczdNdzN5NUJWSGFaSjBWUnpCSGE5eU03Q3JXeEwzaDNlWlRMa0RiWGg4eW94NHZMcHpyTGIxNjVB?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "CECO Environmental (NASDAQ:CECO) Stock Price Up 9.6% - Here's What Happened - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUE81MWoySlpTUEMtRmxka2hEVmppOFZtcVdWRVRxWWVMd0tDdXFfVGVabXZabDNJdlEyUDJCel8zX1JQSjVCZmItSzZ2cjJraVp0QUQ4U2MyVV9IUTI5QnpSN0dac2FXZEs5Q1RVVVkwcC16RWhTNmc4TTlwTl93QmZwak1ORXVVUWkwLTluMDJwN28wQlI3Y3RTeTN1TlRRcWVWeUFWQVJGaTNnbTM5RzV4Q2RORlZWZTFUbThB?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "Ceco Environmental Corp stock hits all-time high at 81.72 USD - Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDdFWVFfWGN1ZVNBeV94OGg5emRvUWJMWWFCaEwyNGpWcTUxaEp3U3UzWm5aSXJOaTRtSXFpaXJGX2RVRGJRUndRbnZFb0dmQi1zSHVXX2kwbWFMZm4tN25feHhPTF9mc0xocDBsdE5oY1VHYktrelNCcWREckptMFBsMG02ak5oa1IyclBrMHdGNDg2QTY5T0tlR1hOTjFEMWNKYTZhTWwtT2JTcUlSOGcxX0tOejg?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "5 Must-Read Analyst Questions From CECO Environmental\u2019s Q1 Earnings Call - TradingView",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTjNmbmF4R1lQdXUzQjU5Q2ZveTFSdWEtTjF5YkthMWJUSWpHZmJzRHFqdnQ5cTVRVzdKZEYzcXY4TUtOc0cyYUlwaFFRdEl1WmptWW5qUU5PdHFFamlPSUg2b3BoeUV5QV9XMTYwNHRlbzVtdTJpRk9jWVRUdVNBYTJheFQ3SzkwTFdjMVUxX3hOcmxFN3RpSWZ2VFhYRlBuS2FPd20yUzdHTkNBNC16bmNuam9xelVKNjk4NjJQUS13THJ2ZVU3OWFmM1E5UQ?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "Ceco Environmental director Nanda sells $830,145 in shares By Investing.com - Investing.com South Africa",
+   "source": "Investing.com South Africa",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVdUdl9Kem4zSU9YcnNVWGo2UGNDVWFibmtEc3dvNktiZlJzM3BfalFlY2M3aFRCY1JIc2VzYmJvU1Z0SXprYUd0UHFMTmFTd1hxNWh2Zy1zTjBPTEpQWnBNV0lTZ3dWRWxTV25HRnNoeVY0dEtwbGVSMFhPVjZWd2NJMzVaakRHdlpvZHgzdUZRUFNmZ3VnRGQzbG1kTHR4M1JuNDl5WWdQUHoxMDQ2TGlTN3JmNGl1aWJERlo4QkJFaVJCR0MzWjZydkU?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "Director at CECO Environmental (NASDAQ: CECO) trims share holdings - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVBMUkdQX2tsa2RadXQtdnV3MVVaYjZkcHFnbHJlb3VyNE11RkcxQXZNYWpNQzFFYnhRYUdTTWREYmgzNnN2a2JBa0tPXzR3bFNqSFNmYW03QktRRmE2ZzE2YXVnY2lrX0Z0QVJrenM5SmxzWDlWTHcxTEJJRnpib0pRX2w4SU1LSjE5Y2owd3dNY3BQRnRoR25xRVVWMjZKRVNrZmlFeVVzQjVtNDBpM0xvZ1VRcl80?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  },
+  {
+   "title": "Why CECO Environmental (CECO) Stock Is Trading Up Today - The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWXcxLVYzdmZQV0xWSmhmeTd0ZXFReng4c285Y0VFQzBIdHZESGlMOC1JNDhMTVpZdkx0ZjRMemZFUTlPSGxSaFM4VzlKancyaTZGOFlnOVhCMDBzYXoxUUJzRnA3RHRaMkg4VmRSdlBiZWN2X1hmTU1qeHktV3o1Tjh3U3JsdnlFMnZGZVhVemlJU1E5X0NFYmdpU2t4TFBiWXRvRUFRWWFsWHdieU0zT3VYd2RhSEF2eVp2ZWFTT05QTHROSFB3WkdHTUY2dFZLek5ySw?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "CECO Environmental reported a stellar Q1 2026 with orders surging 97% and backlog exceeding $1B, driven by the largest natural gas power order in company history. The company raised full-year guidance, and insider buying alongside analyst upgrades further reinforce the positive outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Industrials",
+  "industry": "Pollution & Treatment Controls",
+  "market_cap": "$3.15B",
+  "pe_ratio": 231.0,
+  "forward_pe": 39.048042,
+  "revenue_growth": 16.5,
+  "eps_growth": null,
+  "beta": 1.525,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 93.6,
+  "profitability_score": 20.0,
+  "balance_sheet_score": 60.0,
+  "captured_on": "2026-05-05"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

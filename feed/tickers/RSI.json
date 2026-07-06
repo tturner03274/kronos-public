@@ -1,0 +1,121 @@
+{
+ "ticker": "RSI",
+ "company": "Rush Street Interactive, Inc.",
+ "as_of": "2026-07-06T06:32:31.811514Z",
+ "score": {
+  "composite": 73.0,
+  "band": "high",
+  "scored_at": "2026-06-06T04:47:57.365307",
+  "explanation": "RSI (Rush Street Interactive, Inc.): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.0,
+   "catalyst": 65.8,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 72.59,
+   "asymmetry": 80.43
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 74.76,
+  "ret_7d_pct": 13.24,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "\u200bIpca Laboratories among 5 stocks showing bullish RSI upswing - The Economic Times",
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXo3aWpRQUxlNm1kYmczN0NqcGktYlhLcXBXbGpteWJJSVpGTUdFS3VqeElqbnNyRUhJVHZ5Ukc5MjRwSTltazAzU3p0MG9NUWF0Z01fZGRRaDNiMjQ1aHlyZFV6Q1c2NUFuLWt0QnYwQVdxeWx6eXJRTlo5YWdNZy1MRUZ5c0pXUEdrQnVKeWxRajhvclRCZFExRTBEU2hWdG9Gc1BubjNTVE1FNjFHeExrbkRBbFBteUMycUdCbl9JazIwbGwxRWE2UDVyZHJiNm5tMFFMQzY?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Rush Street Interactive CEO Schwartz sells $4.05m in Class A stock - Investing.com UK",
+   "source": "Investing.com UK",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelNXZHBtS210UzQ2NV9IUVoteGRpN3pjX083c2JqNy1CMmpXSGFVcko2TmRhZUtKSUsxNlB5cmF6VXYyeGhjaFRtS3d1bXBTNzVFUHV6NXVTOW93R3c0cjI0QUgwOUgwcjZId2RQTVVycFBMc1BXeGYwUFdrM01fVjN1RFFXSjFRcnhwMm5WWUYyZ1A5Y1lBMFZDRXA5d1J1T3AzRzRxbzl3X3lYcFZYbmZHTWo1VXlQYjc3cll2NmJGVV8zbjBkMVBtMGJBVFRjVHhNRmZVZw?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Insider Selling: Rush Street Interactive (NYSE:RSI) CEO Sells 111,112 Shares of Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmNwNEx2U0dZX1JWWTJ5SDl0S0ZUX2dqT1dBWFl6dC0wNjNVM291d3ZJNFowd1VDcFFsWlhRMy1Udl9aUGd1QTlGYlh4VHdtUkxXTlJmUWpRS1JiMVVZZ1o1ZEFEZ0o3SGlqRzA1aFY5U0FiWjVRai1feTZ1SW44a0I1bDdiTEVJYkVEa3ptWEh1NHl6S3ZjbmQwMllzVk1mYWxMRV9CTWdOb3AteFNtUDR0QTRaYVNSdEp1SWQweFEtX1VHVkZGa1EzLXNMdEk?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Mattias Stetz Sells 20,000 Shares of Rush Street Interactive (NYSE:RSI) Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTE5vRUlXTUNkWm9yNWx6dFpINE5WWmJoQ3I5ZVRvbjNkSGlFZXpOWkp0MkZmT05DWmJPek5QMGRBS0pKeHJTVUxDSTJzalRVMnozT0FXTGlIU3JCa2pjaEllZjBjVHRKMFpWRlZuWjFNMW5Rc1owUHpwNnd1VHNEczIwN2NOSnItMFktUkxxS2xYRFBtdE9IYzA1dWRldklvX2pHeFVydDNQMHk3YlNWU0p0LWhnN3ZKYy12WlppU1F6Wlk5UHc?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Rush Street Interactive (NYSE: RSI) CEO sells 158k shares in 10b5-1 plan - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFI4REppZnBra3A2d1NwTGFPM19kQU5JNm1SazN5YXJ4cm9EcV9XLVdiazliWnd1SkRoYkVoVHhINzBQdHpLaUxSUlJTQUJDbnc2NU1vdUtfTHFSOGtmb1BJdDFTQXo4OU1LYXYtTGtPTWg0NDY5dlQ5QVI3cGtKTldxdEx2eHdsdlY4VVZLTFo0dWVOc2FuV2lDdFk0Z21QWFdNWHBHX1hWUVdWOUZ5ZEQ1c0ttV2piOW5oYw?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Rush Street Interactive (RSI) COO sells 20,000 shares in pre-set 10b5-1 trade - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGVHVDNXOWQxWkVCUHRkcmlGY2haTktHcTB0S00xbE5kTV9DMnlmYjBIMnE3eGl4Ny0taHotbnVLVFpXXzNUTjlhUzQ0RjVsVmFnckFKY3Z3Y2dHYzd2bUdMUlhiMl9ETmctdXEzLUVOUDd4ZXZPZW9uQ0V6aFlKOVd0UVRlTnRzYTc0REQ5YTJBWllZQTJ2OUMtNFhFSEtjaFVJdm9FQUduTWNyQ0hxNEQ1Wm53bGg0NVFnLQ?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM",
+   "source": "Cointelegraph",
+   "url": "https://cointelegraph.com/markets/price-predictions-63-btc-eth-bnb-xrp-sol-hype-doge-zec-ada-xlm",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  },
+  {
+   "title": "Rush Street Interactive (RSI) investors approve directors, auditor and charter amendments - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEU0RklQNEFEU3VFSVJuNnQwM0V2SkJYb3Y1T0Iza0ZpYkZDU1lvbkRLWF9ESzBMbEhmTmVOQTV0eDdwREVZMFp2QUg2ZFdXUjlvTXE1Y3JzS2lnZnlabUdLSEJmNXZSb3BQUmxmSHl4dFNyTy1yUkZhclJGbjJKcGUxY2pibENkZTB1X3VqR0N0N0FXa0dWRGFxLS1WYW5fbURqU0NUX28wY3ZsbEdmUzY0OXRBZw?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Rush Street Interactive raised its 2025 guidance to up to $1.425B, signaling strong operational momentum. Despite insider selling and a slight stock dip, the positive outlook and analyst attention drive a bullish catalyst."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Consumer Cyclical",
+  "industry": "Gambling",
+  "market_cap": "$6.79B",
+  "pe_ratio": 85.79411,
+  "forward_pe": 34.73322,
+  "revenue_growth": 41.1,
+  "eps_growth": 67.2,
+  "beta": 1.653,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 29.63636,
+  "profitability_score": 60.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

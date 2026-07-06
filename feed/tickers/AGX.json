@@ -1,0 +1,121 @@
+{
+ "ticker": "AGX",
+ "company": "AGX",
+ "as_of": "2026-07-06T06:32:32.275048Z",
+ "score": {
+  "composite": 72.63,
+  "band": "high",
+  "scored_at": "2026-06-06T06:05:31.070563",
+  "explanation": "AGX (AGX): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 91.5,
+   "catalyst": 65.24,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 79.8
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 72.63,
+  "ret_7d_pct": 11.11,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Argan, Inc. Declares Regular Quarterly Cash Dividend of $0.50 Per Common Share",
+   "source": "alpha_vantage",
+   "url": "https://www.01net.it/argan-inc-declares-regular-quarterly-cash-dividend-of-0-50-per-common-share/",
+   "published_on": "2026-06-11",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Argan, Inc. (NYSE: AGX) announced that its Board of Directors has declared a regular quarterly cash dividend of $0.50 per common share. This dividend is payable on July 31, 2026, to stockholders of re"
+  },
+  {
+   "title": "Argan (AGX) Shares Jump After Strong Q1 Earnings and Project Out - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZF9ScnY3dTQyR2o2ZWpxRGlFY3VwMF9JM1NNLXduaGpST3Z2eExzWlpvSnBXUk9EaWVDU1BKdlgxaXAtWWdnemgxZEdWNDJLZUpXN2p3SzYzdlU0LTZhZmhrZkRLWVUwV2JQdDNIYTFOeEMwdk1xNXYwbVJLSGFfb3J5V19GNU9ULTBUZ0U2ZE9NcmJKTmROY3BOcy1vdkhRNjcyYkdhXzY?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  },
+  {
+   "title": "Argan shares jump as power segment execution drives margin expansion (AGX:NYSE) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2o0MGhHY1U5UUF4ZDJsSWY0eXh1TDVtNmM4MUk4UGs3WXAxcWZDSUlEUmo4RFZhSEtfQ2E0THRYUWhfMjBCRXhnenp0bEZtTlQwUmxXUzd0TDIyc0lJS3VCY1ROeW5OUHp3NU5RQ3doLTBtTVJiczlQRzh5ZFYzeEtzc3lIUnEtNXRGX1NQdGRPdzE5bnZHTlZISDg3dmRlcFpUNVl6SUhndw?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  },
+  {
+   "title": "Geode Capital Management LLC Buys 80,415 Shares of Argan, Inc. $AGX - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOREs1ak9XaG11UFBjN1FzUnBHUkRmY1F0UjR6cjR1QUZIWVNMQ3BoQW9pRjhxMkd6N2NBcnVidXJDM0VZVEppb3VmQTNEYmhoY2VzREJMaThEMVZidTl1cW9wVWp4ZFdsbEg1d1dBeWpDOGp1RG10TW9LRnBicXRhSkhPME1fR3hFdC1pZ2FiLWFGbHVDcHozRU5KQkdvM1psRXNmRUlsbndVSFllSlE3MUNGUlJxWEVmQ05tZWtfZTVQZw?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  },
+  {
+   "title": "Argan, Inc. 2027 Q1 - Results - Earnings Call Presentation (NYSE:AGX) 2026-06-05 - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2lMYmZKVjRlUm1JVm9jLVFGQ3gxSUJsSkpjd0dLc3JaMkV2UkxraEJ3RmNrWWl1enV0aGVqS19ULUQ3X0QwOWhKVVFMVGJNeDlnM2VEcTNLVWZXbERNVHBhUG1hSmlZd2l4TU53Z0JlN1RsOTJKNURwb3U3Y0lUUlJuTHRKV1M5YkpkeXc0OTNIN1J6LWFjNg?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  },
+  {
+   "title": "Argan (AGX) Reports Impressive Q1 Revenue Growth for Fiscal 2027 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVZ4UFpTcmR5blc0YmV3aDBNVUFncGdpcjd6aUtkNkpmT2gyLUJlTWcycFp6UjZsN05JRk5KQ01sOXZaRk9fVHFzTGp6eVdfNzg3VndRVG9PSlJGMTFTczhSbHBlb1N2T0hfSzV3SEVybWZMTUtZbTBlcEl6blYwZkpnSV9aREFmZDZlSF9GMUM1OThvMXRkNWpjaXJBSDcxaVR3?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  },
+  {
+   "title": "Argan (AGX) Reports Strong Q1 Earnings, Beats Expectations - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjI0Vm9sdWZqOHZ4d2hjTldob3VCS3k0d004QXQ0eUItQ2Y4c2hpUFVlSlVhZm4tQTBPaldSeTBSTjd6NWxybHRVV2F0MFV3NHcxZmgtdFlibFZKSEFiNjEwQ3RnZWpmSjdUNFJ1Y0JLWEpLdzJGWEFKNW1rU1ozaGlSQXdHa0g5NDkzU2ZmSUJpQzUtdHUyTDZn?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  },
+  {
+   "title": "Argan shares surge 11.5% as investors focus on impending earnings and shareholder returns - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbDdwODVaQ05CWjdJcWJIbkRHUDZyaF9JWXNLMkJjR1RaR3dIQXhZM0tOS0lVdzJtLVRDdkczczBjQUN1LUViM2U4X1laWm02cVB4aVR4cXJjV1dhUnJEeUhHTkI2ZU05OVhuWXloRnNKVFFvZ0d0VjlGLTVHV2FvUUctaVFuR2tHVzVtSFlNeGtzdENxZkl1UDdua3dSVVFxT1p6NVZRRXdvM3BScm4wMUhvMjA5Zy1wVGgyLUp4ZWlrQQ?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Argan reported strong Q1 FY2027 earnings with record revenue and margin expansion, driven by power project execution. The stock surged on the results, though valuation concerns persist with the GF Value far below the current price."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-06-05"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,121 @@
+{
+ "ticker": "TEVA",
+ "company": "Teva Pharmaceutical Industries Limited",
+ "as_of": "2026-07-06T06:32:31.793593Z",
+ "score": {
+  "composite": 70.25,
+  "band": "high",
+  "scored_at": "2026-06-06T04:47:57.366225",
+  "explanation": "TEVA (Teva Pharmaceutical Industries Limited): HIGH evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.5,
+   "catalyst": 59.68,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 69.91,
+   "asymmetry": 73.47
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 71.02,
+  "ret_7d_pct": 1.29,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "ALVO Stock Gains 19% on FDA Resubmission of Biosimilar BLAs",
+   "source": "alpha_vantage",
+   "url": "https://www.zacks.com/stock/news/2933397/alvo-stock-gains-19-on-fda-resubmission-of-biosimilar-blas",
+   "published_on": "2026-06-05",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Alvotech shares surge after the company resubmits FDA applications for its biosimilar candidates, AVT05 and AVT06, with reviews expected within six months."
+  },
+  {
+   "title": "Insider Sell: Amir Weiss Sells Shares of Teva Pharmaceutical Ind - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON19HYXJ1Q1VmdHdGYkFGTTcyZldrclp5SkhmY2hZYW1CMnNob0xqQUlJOUJkTzgtVkNuWGVwbkFRQ0NGVkhpcDVOY3cwbWkzUTRWeHBhX3BMQUVwazUzUTRaOUd4eFVRYUl0NWFfYzBhOXM1YnV0eWpOWmJmaFRsMWNpLUs4eWt5ZXRJbmo1Zm8yQzRGNGZmdngzczlJd0Q3V2pGTG4yMzRWckM4dWtFLUZlVkN3aEl2VEE?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  },
+  {
+   "title": "Insider Selling: Teva Pharmaceutical Industries (NYSE:TEVA) CAO Sells 10,679 Shares of Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazBVY2dfdUtjVm8zeGhYREhmRWptTURhTDdmZS1Ja2llbXozMkkxLTNxR1lNYjd2NTM4OC1sc01yMUFGYnZqd1VXR2hnb2hySjNJS1RtS0VmTlM5MW1PdEU5bUFiSFhaeUhRMFdQNUQzdk9mUllERjEtbHJheThOUXFlSTNLVXpsWGt2OTBIX0RNSDkzNjN6LTYwOUlzc3lSM2lzUHlHZ2w4R2ZuTVhWYzlfQ0pmSVBRVFYxbW5feGFTZDlMVHVXZTN0UHlsa29sYTFaQzh3cGI?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  },
+  {
+   "title": "Insider Selling: Teva Pharmaceutical Industries (NYSE:TEVA) EVP Sells 30,000 Shares of Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT2tvNHJnZm1iOHBtbXhaLUl4MTdRbVQxUlYtbVlaOFZ2TFRBajcxX1JkZU5DbExOQklVRXFfQVE5c0JDSktTTExwS0VlQ01zWEJZYXZtSjZyaEM0S3BrNUtkZzVYWVkxQmtPRDczMWZBdlRnY2tON1c0RUVIbEhfZzdLdnBYNWIxMTM0dDk2a3ZBM3h6QXROa1JXUUdSM3NzWHY4VHlwWlVQbTlBWmRpSHlpVjU4Y21LWUJEeXhIWWZPUWdlNG1CYWhjcU1XU2xlLUNmc0NSSFI?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  },
+  {
+   "title": "TEVA (NYSE: TEVA) accounting chief sells 10,679 shares at $36 in open market - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEtxX0dIOTdwOG81a0R2cnVMdTJkdnowcWwzclozcnBBMDJ6eFRLZ2htbmZQdzJ0TXFwcFBCcjVyV0xtV3JvMHdVWDVkaEItdG9pSFhjaFotVVpsQUVwSm9ONXJNWkI5TUtpamtyWkZRLW1WX3VEV1lvZHFqbVpfWUktaGJEbkVGMEpaay1YUHFCUnVZMGlrMlN5RnFUS1VQN1BFeGRwQkZTQmFpcDd2dEtNd1FIN0VDMjZtN0pTcFRVdzBjNV9v?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  },
+  {
+   "title": "Teva (NYSE: TEVA) EVP Richard Daniell sells 30,000 shares in open-market trade - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnhoV1MtclpGM0JJQ19RWnh0djJkMTA4d19FM1ctXy1QeFZ5MGhMQ2ZzVk1IYkZoMHpNNGdCRlQtZzN1U1RMTTF0ZVVyN0J0Y3g2ZExYSU44ZWJOSWktYm94MjVXUUdFenpKUU1vOGVNWDNsUFlPaE9LV1M5OGJHYi15aGE0aVZGN3FUOUxDWV9jMkZ0bUw2SjZmUUxJX3ZaLXdKVXJSTUlQenJ2WDZmSlNqVFpaamtpWll0Z0RXcTQxcFN2X0p3?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  },
+  {
+   "title": "Barclays Forecasts Strong Price Appreciation for Teva Pharmaceutical Industries (NYSE:TEVA) Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnlnSHhmeEFTd1pobkpjS2JyLVJZak5DdThCeFVMeDFEOVRJLWN4b3h1NGJFSl9WaUk2TE5zb2NsRDBrYktYT3FnZGdmTV9hYjVJRkRNZW1sNXB0enVhWjAtMzAtMU1PVTNvRDZ3MDVMUXozZHFpUHJ4RFdCSFBKMHplTnNSa0hlc2dBc0FvNm53dTlYRjM2aXg3QjBYTEI5VjZYcmVmUGhXLWJEVnNKR3pDSFMzaDlWcVlOQ2ZDcHdOWFUxRUhMU0FtR3ZjWmMza0xwSjNyUlFhWEJmYUduaWtn?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  },
+  {
+   "title": "Son rise at Sun: Decoding the architecture of Dilip Shanghvi\u2019s global empire",
+   "source": "Livemint",
+   "url": "https://www.livemint.com/companies/sun-pharma-organon-deal-dilip-aalok-shanghvi-succession-11778064232627.html",
+   "published_on": "2026-05-06",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Multiple insider sales by Teva's EVP and CAO signal potential lack of confidence, while a recent share price pullback and David Einhorn trimming his holding add to bearish sentiment. The broader market shows no direct M&A, earnings, or contract catalysts for TEVA."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "market_cap": "$41.76B",
+  "pe_ratio": 26.761194,
+  "forward_pe": 11.550566,
+  "revenue_growth": 2.3,
+  "eps_growth": 72.2,
+  "beta": 0.863,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 40.27273,
+  "profitability_score": 80.0,
+  "balance_sheet_score": 30.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

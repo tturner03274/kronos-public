@@ -1,0 +1,113 @@
+{
+ "ticker": "GEO",
+ "company": "GEO",
+ "as_of": "2026-07-06T06:32:32.049294Z",
+ "score": {
+  "composite": 70.56,
+  "band": "high",
+  "scored_at": "2026-06-06T02:59:55.125279",
+  "explanation": "GEO (GEO): HIGH evidence quality (composite 71/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 87.5,
+   "catalyst": 63.16,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 75.0
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "GEO Group And CoreCivic Stocks Are Getting Beaten Up Today \u2013 Why Such A Selloff? - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjh3R3JfbU9md3QwOS15NjJBZlhkcGk4a3R3SWVMRzN6T20zOVZsMDNWVmhUZ3djcDNoTkdETWFIOUpMVzlReWJsclJ0TUpycjFKbFUzeGFyUURmQ2tFNFE1OE90OUJxRWNmWmpIbVdrbnhsNzBiR3FiV2dTOTBwYUgzUEFCNlNGRVVpU0xEU1Q0MFoybC0teFkzcFZPZTF5WjlNd2FFREMtX2YxanFsUWQ2NkR1R3lxVnY1dEVkUEJCWTZHUGxVaHdQN2czOS1Z?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "Earnings call transcript: Geo Group Q1 2026 earnings beat expectations - Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdC1kRzZzQkxsd0FtaGZETktzM3VGcWdTbW93dmh2YS1Kd1BQMG9ZcHBYek5qWDJqWnRLWGtvNENjdFlZY1BGb2ZXOURtT1dWZFVYaFFmcEtGQW94Q05ySTBkUG9mbXY0MEJuX1l5NUY5UzZTVkZpUlF2VFJPTkVhNFZiSkNGOGJmc0tiZ1ZSbXl2LVE3UWJmN2VrM056MGNVenFsWjhBYkk3dGMzMmZzbF90QjRfSnl0c2dqWFplQVpfek0?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "GEO Group Q1 2026 slides: earnings surge on ICE contract growth - Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV20wVVNQZUd6T0gyTlpOVDhKamh1R1pDS2hmdzBhSzhGNzhjQmdOUTJOS3RpRS03Z2pwcVJvYTYtRkVsczRPXzhGZ1VhaXN3SVU3ZC1nRFVrSVZ2d0czU1BFX0FyR3Q2c0hHaFJYUVRLOXJYYUlBdVhuRGxNSjBwQUczLXZYc3o3U3RFMXZUbEdvY3VqSVdlbEd3TEUyYkcxaVBLYjFxc0ZxaUVabVc1ZTFSNmVKNjJYU2VJ?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "Immigrant Detainees are Striking Against Environmental Injustice",
+   "source": "CounterPunch",
+   "url": "https://www.counterpunch.org/2026/06/05/immigrant-detainees-are-striking-against-environmental-injustice/",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "The Trump Regime\u2019s Concentration Camps Aren\u2019t Just for Immigrants",
+   "source": "CounterPunch",
+   "url": "https://www.counterpunch.org/2026/06/05/the-trump-regimes-concentration-camps-arent-just-for-immigrants/",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "GEO Group (GEO) Is Up 8.8% After Newark, New Jersey Sue Over Detention Conditions - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFBta21EeTFkR3hGN2pEZW5RcS1COVlYbUpPby1TdFBOMUhvOWxEZTFnQTlYVHpJajc0T3lCb2pIcWtvaUtoXzNRYmZPZjhXMmRCUG5KODlNYktld3piOUVtUUVFT0Rod21GOUUtNzNpZUdRYzFaNXg2Q0dmUnJMbWdBVWhIQ2Fnd0ktWkZTSnR3VDBrTVJIZWcxU2hCT3hvMC1idG1PMHV1bDd0OHpHV05QYmtoUy12SmsyczB0YzlEZWdELWRGSC1wZS1ib3Y2YnE1dGJiSdIB1wFBVV95cUxQMFBta21EeTFkR3hGN2pEZW5RcS1COVlYbUpPby1TdFBOMUhvOWxEZTFnQTlYVHpJajc0T3lCb2pIcWtvaUtoXzNRYmZPZjhXMmRCUG5KODlNYktld3piOUVtUUVFT0Rod21GOUUtNzNpZUdRYzFaNXg2Q0dmUnJMbWdBVWhIQ2Fnd0ktWkZTSnR3VDBrTVJIZWcxU2hCT3hvMC1idG1PMHV1bDd0OHpHV05QYmtoUy12SmsyczB0YzlEZWdELWRGSC1wZS1ib3Y2YnE1dGJiSQ?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "Stealth jets, subs, missiles: The sub-continental arms race you can\u2019t ignore",
+   "source": "RT",
+   "url": "https://www.rt.com/india/640906-stealth-jet-pakistan-china-india/",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  },
+  {
+   "title": "The GEO Group Inc (GEO) Stock Up 6.6% but GF Value Says Overvalued -- GF Score: 66/100 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHlNWnBHazRFejdpWWJXeGh4V3AtREJSQlkyaENlMVJEQlZfV0Q5WHRkdFkwZkp5aGlNN1NCaVY0TE9PYldkSndtQjU2TEdJS2ZhckU1c3RnV054aVh0YlpHMHNiYVB2Sk1ZQnlQUXRYcTBpeG9ZbWlfcGdyc253ZHpqZFA1WFphRk1EQllXdkNlVi1kLU52ZDVONXd3OUI2alhFSmwwbnU2b0xydkVvM3hPWjNpcWdSX2Vjbk1lTDVoZF9FUV9R?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "GEO Group surged 20% on a strong earnings beat and raised outlook, with upgraded guidance and positive valuation analysis. Despite legal and operational risks from detention facility lawsuits and strikes, the financial momentum and market reaction are strongly bullish."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": "\u00a32.17b",
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-07"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

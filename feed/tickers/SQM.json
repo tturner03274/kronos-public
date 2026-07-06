@@ -1,0 +1,113 @@
+{
+ "ticker": "SQM",
+ "company": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+ "as_of": "2026-07-06T06:32:32.296058Z",
+ "score": {
+  "composite": 70.43,
+  "band": "high",
+  "scored_at": "2026-06-06T05:34:32.233087",
+  "explanation": "SQM (Sociedad Qu\u00edmica y Minera de Chile S.A.): HIGH evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 87.5,
+   "catalyst": 62.52,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 75.0
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Berenberg Adjusts Price Target on Sociedad Quimica Y Minera De Chile to $66 From $56, Maintains Hold Rating",
+   "source": "Moomoo",
+   "url": "https://www.moomoo.com/news/post/71124140/berenberg-adjusts-price-target-on-sociedad-quimica-y-minera-de",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "SQM Financials: Revenue Breakdown, Margins & Competitor Comparison",
+   "source": "Intellectia AI",
+   "url": "https://intellectia.ai/en/stock/SQM/financials",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "Sociedad Quimica Y Minera De Chile SA (SQM) Shares Fall 3.1% -- GF Value Says Still Overvalued - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWxrMUZ2OFNxR20yUHJseW9VV05pQl9IbXBmN0YxU0NJdUdCeHdFYV9SUUNRN1JndExOc1NBb3VfZmphN0VxeHZvUmMtNTRlZUJLcTRTR2JPa2dBOGtmVGtRMlY3enA5aFUtdjl1eWRVdTVUMTBaV2g0S0pxMDI4YVhUUVZ6WTNGeGZLNmVkUnd0T3ZpblNtVTVDd2d5NmQ4SnRrMk8zYVJHWTd1VzN5b0hPRG9sUlBNZVVMeVl1OXlNUkxWMHV2ZDM3ZHJ2MkZIU21GZg?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "SQM Maintained by JP Morgan -- Price Target Raised to $100 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemtRN2tCRmlrYlF3TFBHWHduSkJDUEVnR2dvUmE4eDR2Y3lzczlKV3dFb0lld0lrRjQ1VnpXWlZSNjI4eEJBb1B3d2FzUmk0eUo3emRTVTFFWUlxRi1NSkJRcU93R2ZIVlplcmtpV0taeWtfaGV5OHFCcHpuMWc5V0ZaVi1wVmdpX2I0YXhxdVViUElFUkVJNDlZQnRENmpndVNOcmdLNEM?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "JPMorgan Downgrades Sociedad Quimica y Minera de Chile S.A. to Neutral From Overweight, Adjusts PT to $100 From $94",
+   "source": "marketscreener.com",
+   "url": "https://www.marketscreener.com/news/jpmorgan-downgrades-sociedad-quimica-y-minera-de-chile-s-a-to-neutral-from-overweight-adjusts-pt-t-ce7f5dded88ff52c",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "BW Gestao de Investimentos Ltda. Takes Position in Sociedad Quimica y Minera S.A. $SQM",
+   "source": "MarketBeat",
+   "url": "https://www.marketbeat.com/instant-alerts/filing-bw-gestao-de-investimentos-ltda-takes-position-in-sociedad-quimica-y-minera-sa-sqm-2026-06-02/",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "JPMorgan downgrades SQM stock rating on limited lithium upside - Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTVhqUlcxUGdHVU4yVTZFUDJJUnVVdW5MUWRsc3lVWHpEOTNwTlZpb0NLV0w0aDJ6WGllU21WU0NMbEpjRWYyOHlLNTBVMThuLTBLbEdFM2haMEQ5c3ZYMTZWU01Gc01nYXd0Q1E3VHUzTTN0ZTluUlk1dU84d3Q0TmZxNWc2WHpPS1E1M2s1ZWRYeUQzUGNNX3pvcGI1VnJkZEZDOVYzb01SUmxPZDJHZWV6cGlJblNPWlJuY2dQZw?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  },
+  {
+   "title": "Is It Time To Consider Buying Sociedad Qu\u00edmica Y Minera De Chile S.A. (NYSE:SQM)?",
+   "source": "Moomoo",
+   "url": "https://www.moomoo.com/news/post/70864235/is-it-time-to-consider-buying-sociedad-qui-mica-y",
+   "published_on": "2026-06-01",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SQM reported strong Q1 2026 results with a 25% YoY increase in lithium sales volume and raised 2026 volume guidance, driving a 7.1% stock price increase. Despite missing EPS estimates, the company's low-cost lithium position and rising EV/ESS demand support a bullish outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "market_cap": "$21.60B",
+  "pe_ratio": 26.437063,
+  "forward_pe": 13.01852,
+  "revenue_growth": 69.8,
+  "eps_growth": 165.2,
+  "beta": 0.971,
+  "analyst_consensus": "Buy",
+  "price_target": 81.60833,
+  "profitability_score": 80.0,
+  "balance_sheet_score": 80.0,
+  "captured_on": "2026-06-05"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

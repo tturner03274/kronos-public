@@ -1,0 +1,113 @@
+{
+ "ticker": "SOFI",
+ "company": "SoFi Technologies, Inc.",
+ "as_of": "2026-07-06T06:32:31.841500Z",
+ "score": {
+  "composite": 71.35,
+  "band": "high",
+  "scored_at": "2026-06-06T04:32:42.286555",
+  "explanation": "SOFI (SoFi Technologies, Inc.): HIGH evidence quality (composite 71/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 6 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 90.5,
+   "catalyst": 63.11,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 75.25
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "SoFi's Rule of 40 Strength is Becoming Impossible for Investors to Ignore",
+   "source": "alpha_vantage",
+   "url": "https://www.tradingview.com/news/zacks:932bff57b094b:0-sofi-s-rule-of-40-strength-is-becoming-impossible-for-investors-to-ignore/",
+   "published_on": "2026-06-05",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "SoFi is differentiating itself from other fintech companies through its consistent performance on the \"Rule of 40\" metric, which indicates strong revenue growth combined with profitability. The compan"
+  },
+  {
+   "title": "SoFi's Rule of 40 Strength is Becoming Impossible for Investors to Ignore",
+   "source": "alpha_vantage",
+   "url": "https://www.zacks.com/stock/news/2933402/sofis-rule-of-40-strength-is-becoming-impossible-for-investors-to-ignore",
+   "published_on": "2026-06-05",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "SOFI's 72% Rule of 40 score highlights rising profitability and revenue growth, reinforcing its shift toward a scalable fintech platform."
+  },
+  {
+   "title": "2 Surefire Ways to Invest in SpaceX Now  ( and After )  Its Historic IPO",
+   "source": "alpha_vantage",
+   "url": "https://www.fool.com/investing/2026/06/05/2-surefire-ways-to-invest-in-spacex-now-and-after/",
+   "published_on": "2026-06-05",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "SpaceX may appeal to investors seeking innovation and growth."
+  },
+  {
+   "title": "SoFi Technologies Stock Plummets 42% Year-to-Date Amid Growth Aspirations",
+   "source": "alpha_vantage",
+   "url": "https://intellectia.ai/news/stock/sofi-technologies-stock-plummets-42-yeartodate-amid-growth-aspirations",
+   "published_on": "2026-05-24",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "SoFi Technologies' stock has dropped 42% year-to-date, despite the company's strong Q1 performance including 41% year-over-year revenue growth and substantial member and product growth. Analysts, whil"
+  },
+  {
+   "title": "SoFi Technologies Taking Over Fintech PrimaryBid, Sky News Reports",
+   "source": "alpha_vantage",
+   "url": "https://www.moomoo.com/news/post/69767679/sofi-technologies-taking-over-fintech-primarybid-sky-news-reports",
+   "published_on": "2026-05-11",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "SoFi Technologies is reportedly in advanced talks to acquire the London-based fintech startup PrimaryBid for a sum close to $150 million. The move aims to expand SoFi's reach in providing retail inves"
+  },
+  {
+   "title": "SoFi Technologies Reported PrimaryBid Deal Could Put SOFI Stock Back in the IPO Race",
+   "source": "alpha_vantage",
+   "url": "https://ts2.tech/en/sofi-technologies-reported-primarybid-deal-could-put-sofi-stock-back-in-the-ipo-race/",
+   "published_on": "2026-05-11",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "SoFi Technologies is reportedly poised to acquire a majority stake in PrimaryBid, a British fintech specializing in retail share offerings, which could significantly boost SoFi's efforts to expand IPO"
+  },
+  {
+   "title": "Can SoFi Stock Fulfill Investor Expectations for Growth? - The Motley Fool",
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUdYVk5ta3doODBjaVdKQXJfVnp0cklpcUpfUUZLYVg3U0RLS0RvSTBETUVXNUJERmpaNUpYazVUX2FZRjBVUkpFLU55UlJ4MlNOeWNKLUFOVFdIQl9lOU1fYTFsaU5KN2Fxc1F5Z1dUeTRDczV3R0NlRXlDbHJkamo4a01CQ2lydGIteS1BRVlERFRKUXR5UQ?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "SoFi stock has dropped significantly, with multiple analysts suggesting it is oversold and a buying opportunity. However, no specific company-driven catalysts are present in the news."
+  },
+  {
+   "title": "SoFi Technologies, Inc. (SOFI) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmZCYUlSNDVOZmVsUGJ4NDkxdXpQNTk0NVZQMXZfcEpLSDFrZ1RnTVFvT3dhMDk2SWFUWS1ZRE1yaE9MQm1MaEpXOElDRnRfbXFOdjVyelR4RmZXdEpUYWc3Y2pvYzZVYmRFSFVqelZYMEJDVUUzZEY0UGFjcllQU19WdjRUbTVuT3gwN3ZSMlA4UlF6VWx4TzBLSzFxWGZRSWc?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "SoFi stock has dropped significantly, with multiple analysts suggesting it is oversold and a buying opportunity. However, no specific company-driven catalysts are present in the news."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "market_cap": "$20.55B",
+  "pe_ratio": 35.600002,
+  "forward_pe": 20.3752,
+  "revenue_growth": 42.5,
+  "eps_growth": 101.2,
+  "beta": 2.126,
+  "analyst_consensus": "Hold",
+  "price_target": 21.7,
+  "profitability_score": 40.0,
+  "balance_sheet_score": 80.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

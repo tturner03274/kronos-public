@@ -22,13 +22,18 @@ Renders from `feed/public_feed.sample.json` until a real feed exists.
 - **GitHub Pages**: Settings → Pages → deploy from branch.
 
 ## The nightly feed push (from the Kronos server)
-Kronos writes `data/public_feed.json` nightly. Add a step on the Kronos server
-(cron or end of the deploy Action) that copies it here and pushes:
+Kronos writes `data/public_feed.json` plus per-ticker evidence pages in
+`data/public_feed_tickers/` nightly. The push script lives IN the Kronos repo
+(`scripts/push_public_feed.sh`, auto-deployed) and mirrors both into this
+repo's `feed/` then commits and pushes. Pages redeploys automatically.
 
-    cp /path/to/kronos/data/public_feed.json feed/public_feed.json
-    git add feed/public_feed.json && git commit -m "feed: nightly" && git push
+ONE-TIME server change (replaces the old inline /usr/local/bin script):
 
-Pages redeploys automatically on push. One-way valve complete.
+    chmod +x /root/kronos/scripts/push_public_feed.sh
+    crontab -l | sed 's|/usr/local/bin/push-public-feed.sh|/root/kronos/scripts/push_public_feed.sh|' | crontab -
+    crontab -l | grep push    # verify it now points at /root/kronos/scripts/
+
+One-way valve unchanged: Kronos publishes outward, nothing calls in.
 
 ## Launch checklist (before charging money)
 - [ ] ~3 months of live track record with the high band holding ≥55% beat-rate

@@ -1,0 +1,113 @@
+{
+ "ticker": "AXSM",
+ "company": "Axsome Therapeutics, Inc.",
+ "as_of": "2026-07-06T06:32:31.867618Z",
+ "score": {
+  "composite": 68.74,
+  "band": "medium",
+  "scored_at": "2026-06-06T04:17:08.360935",
+  "explanation": "AXSM (Axsome Therapeutics, Inc.): MEDIUM evidence quality (composite 69/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 86.5,
+   "catalyst": 64.44,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 71.54,
+   "asymmetry": 71.6
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Norges Bank Makes New $90.49 Million Investment in Axsome Therapeutics, Inc. $AXSM - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm9acnNzbFBMZWRfU2o3UnM4NHZlTnAxZGZNemttaHg4ekdOZ0JTQ0gxMGQzVmh1bE5DRmdla1R3X2piRkhFX2RaYkVNdXJxSW04NmJaMVpXYUFUaWctNWNDcWJVLXhsZnluUUcyT253RHkzRkUzR2lMeHF2OW1uSnZDdVRjOVpfcUljanlTMGoxQnhZYzBlTnVtXy00OGZTcUNjS0N3TEZuZk82MWlDeGZDWDNObE1GTzc3c0dma2dvT3hKclQ2WVhYRVhacThIWjVMRQ?oc=5",
+   "published_on": "2026-06-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "Axsome Therapeutics\u2019 Q4 Numbers Beat Wall Street Expectations: Analyst Sees Over 23% Upside For Stock - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN29vc3BEU0NZQnUtenZFNEJhZzRUOGtlbXdDUGtjRk04OEtNbHZFQWNHTS15SVhXNnBNdHRRZmtpRWU1dTRZb1NfVWJHcTZ2Sk9UNEJVNHItd2RVbHZ2NlhGRXl6N1hWV0xweTJuVlNUaHAyYTZaN2JEMmF3bDZ4RUctRmNBa3cydnpzdHR1QllNanRYT0owSmVIMkpsTFhNam1neVFKUFlFeGhCbTJVcFhJZjdjNEROZFptWjA2REp0dw?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "New migraine treatment data as Axsome brings SYMBRAVO results to AHS 2026 - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3VNQml3dEctYng0dFlISk9lRE1PdUJfNm93M0xIZ3JMLXFOVzZRYlVLQlVpSG9NUW1sTkw2cG9URVREVk9ZNDFZekx6RjhKUDF1cE1fUXVXOEtsRVB1WEhPSl95bXNta3hMODI0a3EtUEQ5T0JUakQ3LVlFS3ZnajdXaF9PcHhzZ2J0R1ROSWRxWjUtaTl0N2N2SnNDcFNYOG8tQzhtTEM3Mlp6VjhkRTVuUXBJWHVv?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "Axsome Therapeutics Presents New SYMBRAVO\u00ae Data at the Americal Headache Society (AHS) 68th Annual Scientific Meeting",
+   "source": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/06/04/3306621/33090/en/Axsome-Therapeutics-Presents-New-SYMBRAVO-Data-at-the-Americal-Headache-Society-AHS-68th-Annual-Scientific-Meeting.html",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "Geode Capital Management LLC Has $184.54 Million Holdings in Axsome Therapeutics, Inc. $AXSM - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcmVOQ1lBU2tEUWtMZ2lRRTNyRmN3UW1WMjFYN2lnRHBzaEI4Zm9sV1FIZnpGeklmQjhmYXY4NER1U1J1VzZ2bzF4eW5kUWk5V0x2ekFNRlJBelY3RVdneGtFNlh6bDlabXFENDFnUkJJYkZQLUJDQVZmVzl0OVJESlZMaGNPSHVyNWIwN0xKSGlickMtZWpZTThrRHg5a1pmRU9zcEkycDBJdlBQTGlMRm9Na1RtdWdQR0ZXRE85Nk8xNkpUbDNuRm5kVjVTV1BwSEdsTzhVZWdYSVZpVE00Rlpn?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "Axsome ends all Sunosi patent disputes (AXSM:NASDAQ) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXd2cFJ2UlhhTXlrMnFudk4yQ1JYcnZiNUdBTFI0Z2RWa0IyQU16ZDZkMnIxN3l0NkdQVHdrcXZKTjlBZzAySXJPc2V2VHBnZUhsT0twMk5Fd2c3VUFNaGd0RzFVdHc0RlYyYUpCVDhKaDRGVTFEeW55eFpDQ2RrcHJR?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "Axsome Therapeutics Announces Settlement Resolving All SUNOSI\u00ae (solriamfetol) Patent Litigation",
+   "source": "Financial Post",
+   "url": "https://financialpost.com/globe-newswire/axsome-therapeutics-announces-settlement-resolving-all-sunosi-solriamfetol-patent-litigation",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  },
+  {
+   "title": "Axsome deal sets 2040 start for SUNOSI generics in US market - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWN0UWxmRUN6WEhsN002TVppb0xUUTljMExYR0pZSUloV0hxUHV1UWZnSnR5UEZQZzhNNlI3MnZxdV9JbDdORWFrOWVyb0dvbzd0MXhqV3lSSFVEYmF6TmRZSDlNQ0dQVlNjUjlxZ3djSGVjdzItWkdvS3dCZXd1MXVaZ1A0WDRpY25kRmxqZ2QzRXF4c0RCX1VsQjlOR1lKMmpmUGRDZ0NHWjNPcExTbDFFb0gxaDA?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Axsome Therapeutics reported strong Q4 earnings that beat expectations, with analysts seeing over 23% upside. The stock also surged on FDA approval for an Alzheimer's drug, and the company settled SUNOSI patent litigation, removing a key overhang."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": "$11.48B",
+  "pe_ratio": null,
+  "forward_pe": 40.506134,
+  "revenue_growth": 57.4,
+  "eps_growth": null,
+  "beta": 0.585,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 263.03857,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 30.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

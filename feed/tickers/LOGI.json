@@ -1,0 +1,121 @@
+{
+ "ticker": "LOGI",
+ "company": "Logitech International S.A.",
+ "as_of": "2026-07-06T06:32:32.237238Z",
+ "score": {
+  "composite": 73.72,
+  "band": "high",
+  "scored_at": "2026-06-06T07:07:34.319442",
+  "explanation": "LOGI (Logitech International S.A.): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 93.0,
+   "catalyst": 65.48,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 81.6
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 73.72,
+  "ret_7d_pct": -1.88,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Is Logitech International SA (LOGI) Overvalued After 9.0% Rally? - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcThnVzBkb1FOcjdfb2tKSnhTWkt6NElGdlh3UzhxZW91QTJxQWRNSnhEbFFYeDlEdWw2Mm9tUlYwWHZxeWRMZUhjX1ZJSTZCaHBvTjNKTWRvcUJaMEZ5dFBzR2Juc0s3cVZMSlpld3hxNTFhUXlUY1lXaDJrTndMUVhyNEQzTWRqVG0zcE53UGxIN184dzNDOXpDc1NnVTVvRzljLWtqWmFwTEFDeTgzQ2pnN3E4R3JzRk5sY0NvQldhNE1Ydl9MWlcxNm95cnE3?oc=5",
+   "published_on": "2026-05-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "Logitech shares jump 8.5% as buyback launch and strong FY26 results continue to support sentiment - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNajZfaE8tNHBmY3RFRlNoM2VRaHB3VDduelhDZWxwTEp4SXVZdTg0YzhjY0lnY0hSQWlCZUtBRDdESzdEbnM4YzhMdm1uclEzZG5aRVR5a1VCYWE4U3dQOHp1YkFMVnNoWTgwTF9iejYxVzFsN0NnWFJZRFdZLTVZR3k0eHZ6OHlLdEtxVEZRRGZtN0hwSlE2WjhMQTl1UlhtUGtpLUFmOFhlcVdJaXpfZGJuZ2d6Z05NWS1BVnJMMldxUl9hQkRFZGFtNUQ?oc=5",
+   "published_on": "2026-05-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "Don\u2019t miss Logitech\u2019s MX Master 3S wireless mouse while it\u2019s down to $80 (Save $40)",
+   "source": "9to5Toys",
+   "url": "http://9to5toys.com/2026/05/29/logitech-mx-master-3s-wireless-mouse-down-to-80/",
+   "published_on": "2026-05-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "Logitech International SA stock (CH0025751329): Kepler Cheuvreux lifts price target as shares trade - AD HOC NEWS",
+   "source": "AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkV3clNJSF9yQmpkeW10ZFVrT1A3MzNhTmxyQVN1eGhWNEdzNmxObGZKNVlacUF2V3loNFBKekZzYzA4cGV5UjdBNVNiZGZ1YS1JUW81UDFvcmVsLWZxOXk4Mzg2S05XODVkeU95Umxud3pQSjloNjhsOHZ6UjlJQTN3dEJjSmYzYkctdk9sS2p2ZlhaQTA5WmR6VVByeXdvYnluLXRINkxlOHZxWWVhZ0tYbnpQcV9YXzhNV0U5MXZHYW9m?oc=5",
+   "published_on": "2026-05-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "New Logitech mouse does its best to be comfortable to use [Review] \u2605\u2605\u2605\u2605\u2606",
+   "source": "Cult of Mac",
+   "url": "https://www.cultofmac.com/reviews/logitech-signature-comfort-plus-m850-l-mk880-review",
+   "published_on": "2026-05-28",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "NDC insists primaries hold May 29 despite Eid-el-Kabir holidays",
+   "source": "The Punch",
+   "url": "https://punchng.com/ndc-insists-primaries-hold-may-29-despite-eid-el-kabir-holidays/",
+   "published_on": "2026-05-28",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "Logitech International S.A. stock (CH0025751329): focus shifts to AI peripherals after strong share - AD HOC NEWS",
+   "source": "AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2hpd3NkcXlTV18zLWw1Z19VX0hzd3R1dWlzOW01ZmdkTmNnaEpUT1ZGSUEyS3N0d0U5a05VN1VlN0haMDJEbWFKb0Y0S1NaRmNDZEhZcGNwRUZ5Mm1UWjZQR3VLWDY3VGJfVDRPalRLcnNCdGk0TERrVThFYjdPQllUYkhhYW1acFpvWXNZd3JzTXdOeVBjNzlaaTNSN0I1bE9rekpreWRQY2dZcTJtVll4cHRsSW5nNFpJS3dCcHk?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  },
+  {
+   "title": "Logitech International SA stock (CH0025751329): Earnings momentum and AI-peripheral story attract at - AD HOC NEWS",
+   "source": "AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTFyc25uVTc1Q0tRX0l4N3ZsQmgxRXdwWm1zenpjNVYxV3pFeVdybjFOSXhpNEdmMkF2X0lQTVpEQ3FxUHpWREk2Mi1idHRRZEtFaVdaWWoxQTFTY3M1Y3RDWHZWVWsxSjc2M3ZXN0k0Vmw3RmVpN2cyRWwyX190QTFOaDlpNm5OR1YyVXc1ckVoQlF6cFA2emhuOGtCTUpsSmxpRV9hNHY5b015YjdmdzVDUkJMamhQTE1QVEZxemhTcjQ?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Logitech reported strong FY26 results with 6% sales growth to $4.84B and announced a $1.4B buyback and higher dividend, driving an 8.5% stock jump. Positive product launches and gaming unit leadership change further support momentum."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-29"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

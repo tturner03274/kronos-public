@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>KRONOS research page</title>
+  <meta name="description" content="Everything the Kronos engine read to score this stock: the articles, the events, the numbers. A research starting point, not a recommendation.">
+  <meta name="theme-color" content="#07090c">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css?v=6">
+  <link rel="stylesheet" href="css/ticker.css?v=1">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-in">
+      <a class="wordmark" href="index.html" style="text-decoration:none;color:inherit">KRONOS</a>
+      <nav class="nav-links">
+        <a href="index.html#record">Track record</a>
+        <a href="index.html#how">How it works</a>
+        <a class="cta-mini" href="index.html#join">Get the picks</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="wrap tk-wrap">
+    <a class="tk-back" href="index.html#record">&larr; Back to the honesty wall</a>
+
+    <div id="tk-missing" class="tk-missing" style="display:none">
+      <h1>No research page for this ticker yet</h1>
+      <p>Evidence pages exist for every name on the honesty wall. This one either
+        isn't published yet or the address is mistyped.</p>
+      <a class="btn-primary" href="index.html#record">See the honesty wall</a>
+    </div>
+
+    <div id="tk-page" style="display:none">
+      <!-- header -->
+      <div class="tk-head">
+        <div class="tk-title">
+          <div class="tk-sym mono" id="tk-sym">...</div>
+          <h1 id="tk-company">...</h1>
+          <p class="tk-scored mono" id="tk-scored"></p>
+        </div>
+        <div class="tk-scorebox">
+          <div class="tk-band" id="tk-band"></div>
+          <div class="tk-composite mono" id="tk-composite">...</div>
+          <div class="tk-composite-label">conviction score / 100</div>
+        </div>
+      </div>
+      <p class="tk-prompt" id="tk-prompt"></p>
+
+      <!-- score anatomy -->
+      <section class="tk-sec">
+        <h2>The score, taken apart</h2>
+        <p class="tk-lede">Six independent reads, fused into one number. Risk works in
+          reverse: the fuller that bar, the more it pulled the score down.</p>
+        <div class="tk-dims" id="tk-dims"></div>
+        <div class="tk-explain" id="tk-explain"></div>
+      </section>
+
+      <!-- outcome so far -->
+      <section class="tk-sec" id="tk-outcome-sec">
+        <h2>How the call worked out</h2>
+        <p class="tk-lede">The same honesty as the wall: what actually happened after the
+          score, against the S&amp;P over the identical window.</p>
+        <div class="tk-outcome" id="tk-outcome"></div>
+      </section>
+
+      <!-- news evidence -->
+      <section class="tk-sec" id="tk-news-sec">
+        <h2>What the engine read</h2>
+        <p class="tk-lede">The coverage behind the score, with links. Read the sources
+          yourself; that's the point.</p>
+        <div class="tk-news" id="tk-news"></div>
+      </section>
+
+      <!-- catalysts -->
+      <section class="tk-sec" id="tk-cat-sec">
+        <h2>Catalyst calendar</h2>
+        <p class="tk-lede">The scheduled events that can move this price.</p>
+        <div class="tk-cats" id="tk-cats"></div>
+      </section>
+
+      <!-- fundamentals -->
+      <section class="tk-sec" id="tk-fund-sec">
+        <h2>The business, in numbers</h2>
+        <div class="tk-funds" id="tk-funds"></div>
+      </section>
+
+      <!-- social -->
+      <section class="tk-sec" id="tk-social-sec" style="display:none">
+        <h2>The crowd's read</h2>
+        <p class="tk-lede">What retail investors are saying right now. Sentiment, not truth.</p>
+        <div class="tk-social" id="tk-social"></div>
+      </section>
+
+      <!-- data sources -->
+      <section class="tk-sec">
+        <h2>Where all of this comes from</h2>
+        <p class="tk-lede">The engine is wired into these providers. Every page like this
+          one is assembled from their raw output, then scored.</p>
+        <div class="tk-sources" id="tk-sources"></div>
+      </section>
+
+      <div class="tk-cta">
+        <h3>Want the picks while they're fresh?</h3>
+        <p>This page is published after the call has aged onto the public record. Members
+          get the live list each morning.</p>
+        <a class="btn-primary" href="index.html#join">Reserve your founding spot</a>
+      </div>
+    </div>
+
+    <footer class="tk-foot">
+      <p class="mono tiny" id="tk-disclaimer">Information and education only. Not personal
+        investment advice. Capital at risk. Past performance does not guarantee future results.</p>
+    </footer>
+  </div>
+
+  <script src="js/ticker.js?v=1"></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+{
+ "ticker": "OPLN",
+ "company": "OPENLANE, Inc.",
+ "as_of": "2026-07-06T06:32:32.009170Z",
+ "score": {
+  "composite": 71.07,
+  "band": "high",
+  "scored_at": "2026-06-06T03:30:50.269810",
+  "explanation": "OPLN (OPENLANE, Inc.): HIGH evidence quality (composite 71/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 88.5,
+   "catalyst": 64.76,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 76.2
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "OPENLANE Inc. (NYSE:OPLN) Shares Up 1.6% Pre-Market on Q1 Earnings Beat - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG1hSFhNRlI2LUV4V08xaWoyVC1nRjdKazR5azktWlRMblBUUEk2RmE5UVY3N18zNm42SXVtbnVySUFFa25seVhIdlhqX0NyeTZUR0RmcU1XT3I5aF9KT0Foc0JZN3RoeG1Md1kteHc3OVp6R1dFbG83TVpOZWYyS0RnQmM0d3BuUlZ6TlE3SjVBbkNiakcwbnB1MXY1dHlxYTFBWVVJQVRXbXN5bDlHOU43MFR0d1A3?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "OPENLANE ($OPLN) Releases Q1 2026 Earnings - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWV2Y21hVHA0QWVidGhETG44dUdwVkJvSVhPODczYXRjVXNETHBKV2VUZE9tVXFWNDRmZ3lMaTNKUGp4MThIVnhSVjdRcmpzUXc5ajNvd1B6eGx1UGhxNk5DblZBM0dtS2dYMnBSX0t3ejRXNEg5bEdmZ2plYm4zRlRMYktERE56?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "$9.1B in used-vehicle deals: OPENLANE boosts 2026 outlook - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzlvRU8tTTdYVzFaQl9JaDBiR3dMdXFzSEEtMlpRTkcyMzhWbVNBRUt1b2lUdDdpb3E5TUY0VFBRemxGallUM2x5ZG9Yc3FhZkM1ckpCSEVCeXMzOHQ2SkVtUmNITWJRNmtCV1NNX05hLUp2TkJfdEhmaWhWRGxkY19aMEw0TU05a0s3WVAxOEx4cnRMRm94aFJpaDM2bzNvTm1uRm00OA?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "Vanguard reports 5.26% stake in OPENLANE (OPLN) via Schedule 13G - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXpHZTQwUWlxamJVOFdxc1dWcGVlemdlYWt0TnlRVzdfUXdxU2lpMFdQd3daeW9UOWZqMUVTYWJpNWpuc19obzV1TUVQdzI1akdBcFpFcEpWU05LTjZnSDVUWXowdjB0LTlXcXFPbWN5YmpwM0NpUUZJQ1FrU2lEMHM5Rkdrd05OVHJnMmhuaEEtYlZBVUNJdkFGbmhhZGxZWFhaTTVKNkIyaS1lU1l0UUk0MVJQZlBHajdv?oc=5",
+   "published_on": "2026-04-30",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "OPENLANE, Inc. Experiences Revision in Its Stock Evaluation Amid Strong Performance Metrics - Markets Mojo",
+   "source": "Markets Mojo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1cxRFh3UllXa2NuVGUwVnhoYVdyU281YlBkMTdDajU5R25qTkFKc3JWQ0I0MnZ3a1FUQjltek05Q2lkTEFrc2JOZnUwS2RRRzZNT29ZYVlzNFhBNkNzMU9iTXdTVjVVRXA3ajlHLW8wSEpIVWQ1WlREdW42ZklJTU03Z1E1TW9JbFluMUgxQ3ViYWhzMENaT3RUUldkdmlRMS1mT1hFcG1hOUhXTVRVWVE4RWI3UFFLa1dqWnY0LU1ZNXdVQ0gxZnh3?oc=5",
+   "published_on": "2026-04-30",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "Vanguard holds 6.13M OPENLANE shares (NASDAQ: OPLN) in Schedule 13G - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWERsYVJxR29fMllCcjh5RndsTmEwYTE5eVZjaUFsUjF5LTBsOWExSXRFeU9FN2FqOVZhb3l4bjl2d213b1N1Njd6MkFYYUlTQWg5c3BRT3RabHVKalRLX3pUbUdaQ0hSWnR6NEtibnpkTmtUdjNHV1Ztd3prLThQR29qeGdYRXluZWYzdzAtNmMwNU9zTlNhT3hkN2drM0hzdGpnbTRhNGdkQkRXOVFsSU9rd2xPVW5xMGpF?oc=5",
+   "published_on": "2026-04-29",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "OPENLANE (OPLN) reports next week: Wall Street expects earnings growth - MSN",
+   "source": "MSN",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVc1bTU4bkxRM2FVcmctSFY4c0d2bXlvY3c2Vmp3MUw0OGNIdUxYQmN5SnlHQktrSkJ2RnRhbnExV3kyTXhNV2gwaDNKbUFEaXBVZ2pvTm1CcVI1ZlN1XzZnV19TS2tXMWU1Q0dOT1NFaEduVS1HSUdnZGxWYWd5SXVlenpKcHFSaklueWc0VzFDanRzNXR2U1B4QkxGZUhaWUZEZEJiLUpJZnB2UG9TQVRISGRfQTFFME9CTVp3?oc=5",
+   "published_on": "2026-04-28",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  },
+  {
+   "title": "OPENLANE, Inc. ($OPLN) CEO 2025 Pay Revealed - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeWFuMkN1LTFBa2lUM3R6VkJBaUpocnY2VHF6TVpUOFp0OUVuYXZQYllLQnBBT08yZE9qQ3N2eGh5NzNUWlhwd29xVGVrNVJ1ejdIMG1VY3BnUXh6Z1I5TnR6S0lhT0V4SUp6NlczSWItcFoyTkkySkEtMldOb2VHTU1jMA?oc=5",
+   "published_on": "2026-04-24",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "OPENLANE reported strong Q4 revenue and a Q1 earnings beat, with an upgraded 2026 outlook driven by $9.1B in used-vehicle deals. Vanguard's increased stake and analyst targets near $34.50 reinforce positive momentum."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Consumer Cyclical",
+  "industry": "Auto & Truck Dealerships",
+  "market_cap": "$3.82B",
+  "pe_ratio": null,
+  "forward_pe": 22.67039,
+  "revenue_growth": 8.6,
+  "eps_growth": null,
+  "beta": 1.216,
+  "analyst_consensus": "Buy",
+  "price_target": 33.83333,
+  "profitability_score": 60.0,
+  "balance_sheet_score": 40.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,113 @@
+{
+ "ticker": "COCO",
+ "company": "The Vita Coco Company, Inc.",
+ "as_of": "2026-07-06T06:32:31.777492Z",
+ "score": {
+  "composite": 68.79,
+  "band": "medium",
+  "scored_at": "2026-06-06T04:47:59.450300",
+  "explanation": "COCO (The Vita Coco Company, Inc.): MEDIUM evidence quality (composite 69/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 89.0,
+   "catalyst": 60.84,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 67.94,
+   "asymmetry": 74.15
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Warren Buffett's Berkshire: BUY GOOGLE STOCK? How To Value Alphabet Stock? Coco Gauff (WQzkFTMR4c) - Fathom Journal",
+   "source": "Fathom Journal",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwTHg4cjB0X3ZrTlNnZmc0eTllQ3hzOU9Ua3ZFT292N2hVQ0UtZ3o4Wm9oZG5JZkhNcmVTSW9iWDZfYkZiTDM0RHlXTl9IUXZOd0NqUWx2WXpvT2JVOFlaMjBTcU8?oc=5",
+   "published_on": "2026-06-11",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "Mission Produce, Vita Coco, and Campbell's Shares Skyrocket, What You Need To Know - StockStory",
+   "source": "StockStory",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXU0clJReE1FR2lSOXBBNVpEMnpBNVpMNkhiT2pNMXZSX25oc1BMWHZ3amJGdTRDa2NTaF83ODNSOS1xNXN5azJhd0JwSndqSHJOeURuSHNDT1F4SWxmajRDaU9vV3duWHFHYmdfVVlLdjVuYlN6Y0lvOTRJZTN2S2VJSU9Kc09DTXRKdzZEVVVNbWRTYndpajBqeS1leG1ZbS0wZzV2VjE2cWJuMlhZNlp0VHdzVU1DV0JZaWFrMThDY0MxdUdsQ3BWSHdtelNwdXl0em13?oc=5",
+   "published_on": "2026-06-10",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "3 Growth Stocks to Stash - StockStory",
+   "source": "StockStory",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUxrVDJPZGxFYlFWaWJQblhiUlQ2cFFvdzE2a2xqeHJiU0VHUl9zWjN3TFRqWWNiakJXWjdZMlNpdzYxd2dWZHl2RERrVTluWmhTY3BZSWZMQ3VEdFVfRXpaZ2pidkZLV1NMMXY5MU5UWE9vWS05aF9TTmI5REo1aEtPSlRGbDBYV0c1RQ?oc=5",
+   "published_on": "2026-06-09",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "A Look At Vita Coco (COCO) Valuation After Strong Q1 2026 Beat And Upgraded Outlook - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdVRRMUZHaTRGYkVPbm1Gald4bHkyc0p6b0FEY0IweTJqWEdtTXFIX2NVR2J0c3JoMFhJdFhBY0tYUV90UXVObHkzdDA0YzQ1MEpCY1E2dDZhSkRyWGlSUTZuUDFYcHV0ckw0QnZQd0ZuM1l4Y0NrU3E5anY1dnNIUkxrVjJSTmpOZHRDaE1sRFhvRERGT1gzSHFoNkl1cl9pejFaejNCS3FSa0hKbndtTVJha19DYlZ4VFliMWZFQVh5MElseFZYNGJoWVBwdm5vR1JuM1VRLVXSAd4BQVVfeXFMUHpkV0dSWGhGU1VwQnUzUVYtU3lQYlZSaFE0RU1OQmNXWDZOSF9sc3FOa0doZE9jUVdJZk53R0tEUFZzV0JIRmR2T0doYy1kYUliVFFSV1V5SjBqa1FWQTRKMnZDWnJPbl80VENfbnByQk5pUTNqR2xGZnpUc2lWdWhPMjZ0OC1wRUs5ZHVxanJIR3lMeWZjZzUzVEduLXVvTXhiVEpYWVdGVEdfS0RFOHRRUkdnYVdHRXdUOFh1dGVZTElZSVlhSTRvUWotVTFDektPOEYta0Q4Y2QteFlR?oc=5",
+   "published_on": "2026-06-08",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "Snowflake Stock Analysis 2026: CoCo Acceleration, $6 Billion AWS Deal, and a $677 Target - TIKR.com",
+   "source": "TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTRhR2ExM0VOQnNjOEdBbFRNMENXT2RqeEhWTTBubnRNbXY0MnJzYTB2LWo3bmlaanJtSUZ5T3N1Y0xwU3NzZnBOc24wanJUck9KN3Z5ZjVnYU5NVjdGbEp1VkdWVVZKQXJUSll5TERVRk9xRW0xeXZMdUtJVlpZUC1BVWlzR3p4ZHZPQms1aTNYVU1ZRHJwZU9DZzNaSEpyaW12ME93clEySmMteGc?oc=5",
+   "published_on": "2026-06-07",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "Should Vita Coco\u2019s Strong Q1 Beat And Raised Guidance Require Action From Vita Coco (COCO) Investors? - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWEhtRGF0c1RWTFNnWUVncTc5SDd3LTI3RjVKZjhtMXhTd1MwOHVnbEdoZzk5M2lEUllleTVXVGx5cmRPU3BlVGhsNVBHVnIxRXkxc0piMHN0TklhRG9NakJRR1BHUWxfNzNPcDIwRjVZQWo2SmRIWUtHWXlfR05yZnVvYW9uNjI1dFJXOGxCSnJQdXAwajNpaTNSVDVUbXdBUGxvZXhtbjM3NDloZjZ2RUhGam5VczBmbnlYVTdrbGZfQVB2MGpZZEhZbFZ0bjU4UnFKbENsMljSAd4BQVVfeXFMTnNGZ0hWV2ZybzJEdGdoRmpYYmtvLTg1Q0hOakNyYm5Cb2JsbDR4SkxQc1preElKMldWNmlFZG9GaFY0bDBSVXc5dHFSREFoUnJyUkQ5V2VpU3JJdnJULTVycFB2Y1MzMlZIbjAyM0Y1WHdxeUR0MDR3SEcxSzVCWUFfdEgzS2pWNjU3MWprRERHU1dzSkhmcVVkaXNHTTMzalNxRXlRTzRYNnlhMm9OaFUtb0xoUlUtZWV4bE9HWG1ONHp0VlV6MHN0VU80bzVSY1lxb2dmWnUwUml1cFlB?oc=5",
+   "published_on": "2026-06-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "The Vita Coco Company, Inc. (COCO) Presents at 46th Annual William Blair Growth Stock Conference - Slideshow - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN09yUkFMVEFleGs1T1cwaXd3V2RvQVYydjZUY2JMVDhQeEdMWTIwR0hhYTkwUUR1R19FMk5PalRIZHc3MjlWelhLSmtrUjVJeXh1ME01S1NpVkxxQzlMOG5sdGh0VVFfdy1kTFZIa2NjWkJQS2dkSmQwSFN2dmtoX1pZeEI2VlNVTExncjM1RThxaTdYWDFkcUdvLXBRSEJ4QklEMlhWOXdZckw3YTBMc2VlUGdoU2FWZEN5WFhSZzVyTzlqWF9EejRlbGRadw?oc=5",
+   "published_on": "2026-06-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  },
+  {
+   "title": "Vita Coco (NASDAQ: COCO) director receives 1,530 deferred RSUs and holds options - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkMxckE4QTRHTHlYNnlHWlVNOE5CZjh5TG45QzVzWnBIbG1rdE5Gdi1LalMzd29DcTM5TGt0cVBYRnBoNG13U3dLYnU5RFVEaWtqWG1CaTRsU3JTUDgxNTVmNXp4SE9fUnpDSVpOQ2R3R2YxRGY5cU1kVHJuRkw0dHRnblowUWV3bFU4UGg0anVUbW9iSGRfdjVuSnVTOHRvWlBBcGdPVEVZUmJSZ0tRcm5LZkl3UQ?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Vita Coco reported a strong Q1 2026 earnings beat with 37% net sales growth and raised full-year guidance, driving positive sentiment. Multiple bullish signals include new partnerships, licensing expansion, and insider activity, though a minor insider sale and stock dip post-earnings add nuance."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "market_cap": "$3.87B",
+  "pe_ratio": 49.123188,
+  "forward_pe": 33.122097,
+  "revenue_growth": 37.3,
+  "eps_growth": 61.3,
+  "beta": 0.714,
+  "analyst_consensus": "Buy",
+  "price_target": 72.55556,
+  "profitability_score": 80.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

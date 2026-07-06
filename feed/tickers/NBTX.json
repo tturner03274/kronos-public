@@ -1,0 +1,113 @@
+{
+ "ticker": "NBTX",
+ "company": "NBTX",
+ "as_of": "2026-07-06T06:32:32.069828Z",
+ "score": {
+  "composite": 68.35,
+  "band": "medium",
+  "scored_at": "2026-06-06T02:13:27.957623",
+  "explanation": "NBTX (NBTX): MEDIUM evidence quality (composite 68/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 88.5,
+   "catalyst": 63.75,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 65.11,
+   "asymmetry": 71.05
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "NANOBIOTIX Announces Full Exercise of Underwriters\u2019",
+   "source": "alpha_vantage",
+   "url": "https://www.globenewswire.com/news-release/2026/05/22/3300358/0/en/nanobiotix-announces-full-exercise-of-underwriters-over-allotment-option-bringing-gross-proceeds-of-offering-to-approximately-100-million.html",
+   "published_on": "2026-05-22",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Nanobiotix announced the full exercise of the underwriters' over-allotment option in its global offering, leading to approximately $100 million in gross proceeds. The company plans to use the net proc"
+  },
+  {
+   "title": "Nanobiotix Announces Trading Resumption of Its Ordinary Shares on Euronext Paris",
+   "source": "alpha_vantage",
+   "url": "https://www.globenewswire.com/news-release/2026/05/21/3299448/0/en/nanobiotix-announces-trading-resumption-of-its-ordinary-shares-on-euronext-paris.html",
+   "published_on": "2026-05-22",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Nanobiotix, a biotechnology company, announced the resumption of trading of its ordinary shares on Euronext Paris following a halt related to a global offering that included a U.S. public offering of"
+  },
+  {
+   "title": "Nanobiotix Shares Set a New Record at \u20ac41.52, Up 1,202% Over the Year",
+   "source": "Id\u00e9al Investisseur",
+   "url": "https://www.ideal-investisseur.fr/en/actions-b/nanobiotix-shares-set-a-new-record-at-eur41-52-up-1-202-over-the-year/19024.html",
+   "published_on": "2026-05-11",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "FDA accepted a protocol amendment for Nanobiotix's pivotal Phase 3 NANORAY-312 head and neck cancer study, eliminating interim analysis and accelerating final readout. The stock surged to record highs with strong analyst support and a massive 1,202% yearly gain."
+  },
+  {
+   "title": "Assessing Nanobiotix (ENXTPA:NANO) Valuation After FDA Protocol Amendment For Key Phase 3 Cancer Study",
+   "source": "Simply Wall Street",
+   "url": "https://simplywall.st/stocks/fr/pharmaceuticals-biotech/epa-nano/nanobiotix-shares/news/assessing-nanobiotix-enxtpanano-valuation-after-fda-protocol/amp",
+   "published_on": "2026-05-10",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "FDA accepted a protocol amendment for Nanobiotix's pivotal Phase 3 NANORAY-312 head and neck cancer study, eliminating interim analysis and accelerating final readout. The stock surged to record highs with strong analyst support and a massive 1,202% yearly gain."
+  },
+  {
+   "title": "Assessing Nanobiotix (ENXTPA:NANO) Valuation After FDA Protocol Amendment For Key Phase 3 Cancer Study",
+   "source": "Simply Wall Street",
+   "url": "https://simplywall.st/stocks/fr/pharmaceuticals-biotech/epa-nano/nanobiotix-shares/news/assessing-nanobiotix-enxtpanano-valuation-after-fda-protocol",
+   "published_on": "2026-05-10",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "FDA accepted a protocol amendment for Nanobiotix's pivotal Phase 3 NANORAY-312 head and neck cancer study, eliminating interim analysis and accelerating final readout. The stock surged to record highs with strong analyst support and a massive 1,202% yearly gain."
+  },
+  {
+   "title": "Nanobiotix Shares Hit a Record High of \u20ac38.40, Up 7.61%",
+   "source": "Id\u00e9al Investisseur",
+   "url": "https://www.ideal-investisseur.fr/en/actions-b/nanobiotix-shares-hit-a-record-high-of-eur38-40-up-7-61/18893.html",
+   "published_on": "2026-05-07",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "FDA accepted a protocol amendment for Nanobiotix's pivotal Phase 3 NANORAY-312 head and neck cancer study, eliminating interim analysis and accelerating final readout. The stock surged to record highs with strong analyst support and a massive 1,202% yearly gain."
+  },
+  {
+   "title": "Guggenheim Remains a Buy on Nanobiotix (NBTX)",
+   "source": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/investing/markets/stocks/NBTX-Q/pressreleases/1737064/guggenheim-remains-a-buy-on-nanobiotix-nbtx/",
+   "published_on": "2026-05-07",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "FDA accepted a protocol amendment for Nanobiotix's pivotal Phase 3 NANORAY-312 head and neck cancer study, eliminating interim analysis and accelerating final readout. The stock surged to record highs with strong analyst support and a massive 1,202% yearly gain."
+  },
+  {
+   "title": "Guggenheim Maintains Nanobiotix(NBTX.US) With Buy Rating, Maintains Target Price $36",
+   "source": "\u5bcc\u9014\u725b\u725b",
+   "url": "https://news.futunn.com/en/post/72535626/guggenheim-maintains-nanobiotix-nbtxus-with-buy-rating-maintains-target-price",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "FDA accepted a protocol amendment for Nanobiotix's pivotal Phase 3 NANORAY-312 head and neck cancer study, eliminating interim analysis and accelerating final readout. The stock surged to record highs with strong analyst support and a massive 1,202% yearly gain."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-11"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

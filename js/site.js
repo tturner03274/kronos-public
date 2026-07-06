@@ -112,12 +112,16 @@ function renderWall(feed) {
   }
   const tbody = document.querySelector("#wall tbody");
   if (!tbody) return;
+  const hasPages = !!feed.ticker_pages;
   const picks = tr.recent_picks || [];
   tbody.innerHTML = picks.slice(0, wallShown).map(p => {
     const c7 = p.return_7d_pct == null ? "dim" : p.return_7d_pct >= 0 ? "pos" : "neg";
     const cs = p.vs_spy_7d_pct == null ? "dim" : p.vs_spy_7d_pct >= 0 ? "pos" : "neg";
     const ca = p.risk_adjusted_alpha_7d_pct == null ? "dim" : p.risk_adjusted_alpha_7d_pct >= 0 ? "pos" : "neg";
-    return `<tr><td>${p.ticker}</td><td class="dim">${p.scored_on}</td>
+    const name = hasPages
+      ? `<a class="wall-link" href="ticker.html?t=${encodeURIComponent(p.ticker)}">${p.ticker}<span class="wall-link-hint">research &rarr;</span></a>`
+      : p.ticker;
+    return `<tr><td>${name}</td><td class="dim">${p.scored_on}</td>
       <td class="${c7}">${sign(p.return_7d_pct)}</td>
       <td class="${cs}">${sign(p.vs_spy_7d_pct)}</td>
       <td class="${ca}">${sign(p.risk_adjusted_alpha_7d_pct)}</td></tr>`;
@@ -137,9 +141,16 @@ function renderPicks(feed) {
   const pt = feed.picks_today || {};
   const shown = pt.preview || [];
   const locked = Math.max(0, Math.min((pt.count || 0) - shown.length, 10));
+  const hasPages = !!feed.ticker_pages;
   grid.innerHTML =
-    shown.map(p => `<div class="pick"><b>${p.ticker}</b>
-      <div class="sc">score ${p.score}</div><div class="dt">entered ${p.entered_on}</div></div>`).join("") +
+    shown.map(p => {
+      const inner = `<b>${p.ticker}</b>
+        <div class="sc">score ${p.score}</div><div class="dt">entered ${p.entered_on}</div>`;
+      return hasPages
+        ? `<a class="pick pick-link" href="ticker.html?t=${encodeURIComponent(p.ticker)}">${inner}
+            <div class="dt" style="color:var(--green-hi)">see the research &rarr;</div></a>`
+        : `<div class="pick">${inner}</div>`;
+    }).join("") +
     Array.from({ length: locked }, () => `<div class="pick locked"><b>XXXX</b>
       <div class="sc">score 00.0</div><div class="dt">members only</div></div>`).join("");
 }

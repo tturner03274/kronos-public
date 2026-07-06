@@ -1,0 +1,121 @@
+{
+ "ticker": "EAT",
+ "company": "Brinker International, Inc.",
+ "as_of": "2026-07-06T06:32:31.543906Z",
+ "score": {
+  "composite": 71.82,
+  "band": "high",
+  "scored_at": "2026-06-06T04:47:57.365307",
+  "explanation": "EAT (Brinker International, Inc.): HIGH evidence quality (composite 72/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 94.0,
+   "catalyst": 63.65,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 75.3,
+   "asymmetry": 76.53
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 72.86,
+  "ret_7d_pct": 13.43,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Frances Allen (EAT) files Rule 144; sold 2,300 shares on 05/15 and 06/02 - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3pfV3QtVXhNRkJ2ZnFFaVhHQUNyT3pZT2dmX3M5MmF2eHpNbW15bVpZcWRBYVJrdWVSRHJERkdXVlQ1Vy1FS2RkLW9JdzlvN2dtSUtDMlRZSXZ2azljN2Faek5UUFV0U19JcHQ5ZkhZYnFJdjI2dEwzTTIwVFJhVmg4NFVrem5aSDBlSTJMTERTcExlcmtKMXo4NFB2ekIwOUZz?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "Insider Sale: Director at $EAT Sells 1,300 Shares - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQU9qVEFFS0Z2UjVtRDJOd0tZOTlWa3U0QUQxSXhyRzZRMDc0U1Z1TmdfTVpMb0RzTFdiZGhHR0VnakYtWjBzSTJJYnBOT0l0dkI2TlZtYndMWVFLeXRBRkltdVNqVlFpSkpyUDJqcmcwbmIzelRqVlI1U0NoaVZJWDZxX3J5WnB6TXFHdFcxUkdQdw?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "People who grew up in homes where feelings weren\u2019t named but consequences were still felt often spend the first decade of parenting wondering why their reactions seem bigger than the moment",
+   "source": "Artfulparent.com",
+   "url": "https://artfulparent.com/n-people-who-grew-up-in-homes-where-feelings-werent-named-but-consequences-were-still-felt-often-spend-the-first-decade-of-parenting-wondering-why-their-reactions-seem-bigger-than-the-moment/",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "Red Sox 'aggressively' targeting one type of hitter in trade talks per MLB insider",
+   "source": "Sporting News",
+   "url": "https://www.sportingnews.com/us/mlb/boston-red-sox/news/red-sox-aggressively-targeting-one-type-hitter-trade-talks/1892f3fe52bb4692f15e9fe7",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "Outrage as scientists push to create ticks that spread red-meat allergies: 'Isn't this biological terrorism?'",
+   "source": "Freerepublic.com",
+   "url": "https://freerepublic.com/focus/f-backroom/4382224/posts",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "Brinker (NYSE: EAT) director sells 1,300 shares in open-market trade - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHhhWEUtSzFnWU5adTZLTlhEOGRDRlctTktNRFhIRzVqZUVXTFEyRnY3aWZRdkFicnFpTWdYV0R3NGZYa084b0ZmaTM1WUd0MnJYQzFCakx5MVFqX1NVZkRKWUhlMzRhSXEwSUxnRGZMbmdEbmR6S0tRX2JYWU1fdnM5M1EtYkhMcGFUSWx4YUFOTGEza2FCUTN0Q0tMdER3YWpvY1pOYTdjdnRFLW01RHVZTmNMVnlVOEE?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "Exclusive: New Report Shows The Extent Of UAW\u2019s Influence In Promoting Leftist Agenda",
+   "source": "The Federalist",
+   "url": "https://thefederalist.com/2026/06/03/exclusive-new-report-shows-the-extent-of-uaw-union-influence-in-promoting-a-leftist-agenda/",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  },
+  {
+   "title": "Can a Hedgehog Replace Winston Churchill? See Which Animals May Soon Swap in for Historical Figures on British Pounds",
+   "source": "Smithsonian.com",
+   "url": "https://www.smithsonianmag.com/smart-news/can-a-hedgehog-replace-winston-churchill-see-which-animals-may-soon-swap-in-for-historical-figures-on-british-pounds-180988890/",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": null,
+   "summary": "Brinker International (EAT) stock fell despite a market uptick, with insider selling noted. No clear catalyst from news articles."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "market_cap": "$6.22B",
+  "pe_ratio": 14.126705,
+  "forward_pe": 11.621902,
+  "revenue_growth": 3.2,
+  "eps_growth": 12.1,
+  "beta": 1.329,
+  "analyst_consensus": "Buy",
+  "price_target": 186.72726,
+  "profitability_score": 80.0,
+  "balance_sheet_score": 0.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,113 @@
+{
+ "ticker": "KC",
+ "company": "KC",
+ "as_of": "2026-07-06T06:32:32.405759Z",
+ "score": {
+  "composite": 68.82,
+  "band": "medium",
+  "scored_at": "2026-06-06T01:27:30.015268",
+  "explanation": "KC (KC): MEDIUM evidence quality (composite 69/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 86.5,
+   "catalyst": 64.44,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 68.0,
+   "asymmetry": 73.8
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Former Vikings DT Signs with Falcons",
+   "source": "Vikings Territory",
+   "url": "https://vikingsterritory.com/2026/news/top_news/ross-blacklock-falcons",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "Witness denies entering tunnel to prove Noah could exit",
+   "source": "RTE",
+   "url": "https://www.rte.ie/news/regional/2026/0512/1573016-noah-donohoe-inquest/",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "US hotel operators say promised boon from hosting World Cup hasn\u2019t materialized yet",
+   "source": "Abcnews.com",
+   "url": "https://abcnews.com/Business/wireStory/us-hotel-operators-promised-boon-hosting-world-cup-132886044",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "Valdo Calocane's triple murder 'could happen again tomorrow' as there's a 'lack of consequences' for police and mental health service failures",
+   "source": "Dailymail.com",
+   "url": "https://www.dailymail.com/news/article-15811711/Valdo-Calocane-murder-consequences-police-mental-health-failures.html",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "Browns' KC Concepcion is already 2-0 for Cleveland with Cavaliers and Guardians wins",
+   "source": "Yahoo Entertainment",
+   "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_41c4e234-242e-4342-a944-1b35a6746fff",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "Paramedics helping mother stuck headfirst in sea defence rocks as tide came in failed to follow guidance assuming she could not be saved, expert tells inquest",
+   "source": "Dailymail.com",
+   "url": "https://www.dailymail.com/news/article-15811169/Paramedics-helping-mother-stuck-sea-defence-rocks-tide-came-failed-follow-guidance-assuming-not-saved-expert-tells-inquest.html",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "Dangerous driver dramatically cleared of attempting to murder three children after crashing car into oncoming traffic at 74mph",
+   "source": "Dailymail.com",
+   "url": "https://www.dailymail.com/news/article-15811561/Dangerous-driver-cleared-attempting-murder-three-children-crashing-car-oncoming-traffic-74mph.html",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  },
+  {
+   "title": "Stalker ex-husband who stabbed university lecturer to death after he couldn't accept their relationship was over fails in bid to have his sentence cut",
+   "source": "Dailymail.com",
+   "url": "https://www.dailymail.com/news/article-15811469/stalker-ex-husband-stabbed-university-lecturer-death-fails-bid-sentence-cut.html",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Kingsoft Cloud (KC) reported faster growth and a sharp reduction in losses in Q3, with shares surging over 18%. The company also added joint secretaries and gained a HKEX waiver, signaling operational improvements."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-13"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,113 @@
+{
+ "ticker": "NAMS",
+ "company": "NAMS",
+ "as_of": "2026-07-06T06:32:32.441759Z",
+ "score": {
+  "composite": 67.02,
+  "band": "medium",
+  "scored_at": "2026-06-06T02:29:07.571910",
+  "explanation": "NAMS (NAMS): MEDIUM evidence quality (composite 67/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 85.0,
+   "catalyst": 64.2,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 65.72,
+   "asymmetry": 68.04
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "NAMS SEC Filings - NewAmsterdam Pharma Company N.V 10-K, 10-Q, 8-K Forms - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sc0ppbTc4T1ZPY3NhYlpZWUhVdHc5OHR4V0dtbWhHLWFOQlRZc2gxbEZGRFNtT3UzU1B0emxTSlNFUGkzNXhjLXExa0dWUlp5dzdWUG5EaE5NNUJUSm5XbHN0N2FTdw?oc=5",
+   "published_on": "2026-05-08",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "NewAmsterdam says its 9,500-patient heart trial gets an interim look in 4Q26 - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2x6MTFqaHI0eG9PRThJUGZQQ3ZEMjBkQzd2VFlJV0djNXRBNUN2YnhzUkUzbllpTDNvdnY2V3hHU05GQUNWRG0ySlNORW9fd09CU1EtelBRQTdpVE5HenBMYUd2dE1GcUU1X012Q2VGTUtVaTFEUGp4ZnJ3RHFiNS1Ha25GTnA3LVBHYVhnanJHTUJNTFI5dnRpNlhzZWpDSWVSQzdfV1U4V0N0MnZzbjJ2TnBXMVUzUVhN?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "FMR LLC boosts disclosure: PHARMA COMPANY NV (NAMS) 8.77M shares reported - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXRocGZ2RGFFeHItb3AtYXhrUVRJbUs2akFtcVhCSGE3T05UcG9HazFCcDhTT2RKZjluUmREM2RXQWlkNWNBUzExU0dWVmRJLXVKQklLSzd4Q2VWa0V0ZEdIZDdsNmtfeDB3WEJ1X1lwMU0xcXN4RGk2ZmxsSUM1MUFOYmRULUxJZ05yN3RZRDRYMklfSllaSW1jd3dNNUIwWGpTY3MyN2tTOHVCWW1CSEJJV3VfdGR2eU8yVWlpc3hZZ1VnQ1ItbzJEaw?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "Tissue Dynamics and Galmed Pharmaceuticals to Develop Human-Centered Chronic Cardiac Fibrosis Platform to Advance Aramchol-Based Therapeutics",
+   "source": "PRNewswire",
+   "url": "https://www.prnewswire.com/news-releases/tissue-dynamics-and-galmed-pharmaceuticals-to-develop-human-centered-chronic-cardiac-fibrosis-platform-to-advance-aramchol-based-therapeutics-302763979.html",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "[ARS] NewAmsterdam Pharma Co N.V. SEC Filing - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3VKdVNkSEozU1RzcXBud21lVTl5RWh1RzJFazRhY29GVU4yWFJlcHdfUDd6Z3Mxb1daY2hsUkIxYTZHMW5hRXVQZ1ZUUU1SQWpuVWhpdFNid2xRMHl1OGg3R0xoQ3BweEtXU1ZyeFlhSkY1UEowZWN0UXl6aG4yQS0xWGUtbTdFcDF2SGRmeWZQM2s1dDUyUlBZNG96QVFUSFRpbzZtSQ?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "193 office bearers under Health Ministry terminated",
+   "source": "Khabarhub.com",
+   "url": "https://english.khabarhub.com/2026/05/547342/",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "MAHA Is\nMonkeying\nAround\nWith Lab Rats",
+   "source": "The New Republic",
+   "url": "https://newrepublic.com/article/208874/trump-maha-animal-testing-lab-rats",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  },
+  {
+   "title": "Ridglan Farms beagles begin leaving Wisconsin facility after rescue groups strike deal for release",
+   "source": "Fox News",
+   "url": "https://www.foxnews.com/us/ridglan-farms-beagles-begin-leaving-wisconsin-facility-rescue-groups-strike-deal-release",
+   "published_on": "2026-05-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "NewAmsterdam Pharma's stock surged 23% in Q4 and 7.5% after positive late-stage obicetrapib trial results, with billionaire Stan Druckenmiller highlighting its upside potential. The company is presenting at a major healthcare conference and reporting inducement grants, signaling strong clinical and investor momentum."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-07"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

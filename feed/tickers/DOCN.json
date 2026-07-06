@@ -1,0 +1,121 @@
+{
+ "ticker": "DOCN",
+ "company": "DigitalOcean Holdings, Inc.",
+ "as_of": "2026-07-06T06:32:31.986167Z",
+ "score": {
+  "composite": 74.01,
+  "band": "high",
+  "scored_at": "2026-06-06T03:30:53.846079",
+  "explanation": "DOCN (DigitalOcean Holdings, Inc.): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.0,
+   "catalyst": 65.8,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 75.5,
+   "asymmetry": 84.0
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 74.76,
+  "ret_7d_pct": 0.34,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "DigitalOcean (DOCN) Is Up 18.8% After Q1 Beat, Higher Outlook and AI-Native Cloud Launch - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbWozcmQ1d2E0MlNhX1c3Nk1IcTBJQjlZWlB6TFc0R2lJZW5ndG1vT1N3dDk1TEotOElBVTJ6OFJuUS1DbENMRjhYbkNDckN3NmZ6amZ3QUJ3aXRwNUJiMDR2dk9jaXF3V3Z4THA1OUVpTnZNLUpNSGQtQmVsNmhiQjZXME14cUJ2TU44ZG55VEN1VE5hYTVxT1NZSi1MMkc1dEtHUWNhRDdRemVWVHRiTTIwUk5LelduejdqV2l2T3BEWkc2RDJKUlB2R0lFU29RZFZZaFRyaTBQd9IB2gFBVV95cUxNbWozcmQ1d2E0MlNhX1c3Nk1IcTBJQjlZWlB6TFc0R2lJZW5ndG1vT1N3dDk1TEotOElBVTJ6OFJuUS1DbENMRjhYbkNDckN3NmZ6amZ3QUJ3aXRwNUJiMDR2dk9jaXF3V3Z4THA1OUVpTnZNLUpNSGQtQmVsNmhiQjZXME14cUJ2TU44ZG55VEN1VE5hYTVxT1NZSi1MMkc1dEtHUWNhRDdRemVWVHRiTTIwUk5LelduejdqV2l2T3BEWkc2RDJKUlB2R0lFU29RZFZZaFRyaTBQdw?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "DigitalOcean (DOCN) Is Up 18.8% After Q1 Beat, Higher Outlook and AI-Native Cloud Launch - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdk9VZlJmdlJvdEhzVVgySFlGZFIyRnFiRVJiU1RJUmxhLTM0QWdkRGRaNm8tRXBTNWNCNVQ2UVY2Y0hYRWpFbHlHTlVIbkxlZXlBY0RCcWt0bkdVaUo3SE12ZUxhQi1pTVZYNF9IeUFSZHUxb09ZVlpsandPOTMyZTlOLWRIaVBoOEFlWE5zQlVzZGJvM2ktMjNZLXozdncwQjJwY2tmeTl0Wkx1bklsZDFCOFFCZ1NsSk1FemZOUzU3b2hnUm5mREN3dFJuLThRVGNjV9IB2gFBVV95cUxNbWozcmQ1d2E0MlNhX1c3Nk1IcTBJQjlZWlB6TFc0R2lJZW5ndG1vT1N3dDk1TEotOElBVTJ6OFJuUS1DbENMRjhYbkNDckN3NmZ6amZ3QUJ3aXRwNUJiMDR2dk9jaXF3V3Z4THA1OUVpTnZNLUpNSGQtQmVsNmhiQjZXME14cUJ2TU44ZG55VEN1VE5hYTVxT1NZSi1MMkc1dEtHUWNhRDdRemVWVHRiTTIwUk5LelduejdqV2l2T3BEWkc2RDJKUlB2R0lFU29RZFZZaFRyaTBQdw?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "A Look at DigitalOcean Holdings Inc (DOCN) After 3.9% Gain -- GF Value $45.09 vs Price $180.50 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnV4bU5vMG9OaHlYUWVSTWt2Y0tfRy0zUFFyeG1qSzc3N0QtRmphOWJIZ3pTN1E3cVBpSURyV042TS1vaGYzQy1XeThnUmlJb3lMUVJrRUU0dWItNHFqbWJqdmtNekp4eU5kMnJiVEcwd0ZhUFpDdG4tZlR2NTVsNDBRajdJOWxpX2otUnRZUGxnR2ZjZy1iUnV2TnRkN0NfVjhGVzgyNC1iZHdPWTdDeVFUUWdoUFJKTnBJVG9iT1V3V0RYOWt0TmRoNUhTRXc?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "Cantor Fitzgerald raises DigitalOcean stock price target on AI demand - Investing.com",
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQVVDN2FpQVN1WktlemppVnJyZDFPX3Z1TVhtSVA0Uk53dTU4cWp3T1hadlJyS0ltcDh3TzQyMW16WkdhbFZqanA4dFY5eWh0U0J1b0htY0NORXRyRU5EVmgzNUJaWEdSRFFwd3pOajVRVkxGcFJNN0VudmRxRTBTdktPSS1LelBWMnJZRzFaX3c4b0tUcmpWeFJGZ3VHd2RpLWVVY0tOcVNGSjc3ZXc4di1QRm9LYjNWdWRkeTRtWGVFYUVnNmNRMQ?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "Why Analysts Are Betting Big on DigitalOcean Stock for the Next Era of AI - Barchart.com",
+   "source": "Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmN1eHlIMGo2Z29Yd0lhRHBWdlBlTjVLc2diNk5WVGlGR1ZoWWI4NTZlUFNDZEZ6MDBlVkJPZWdQS2o4S0VmTi1LMUJqdHdKSG9seENIbEdXRS15M3UzeEJXUzVSazVyNUhjZHlmNTZtSUJHLVRVVENsaU1xU3FwTkt4N3c2cWI5djhTb05hUkhKbzMzaEk2aDBxRnNJX2Z5aDVRYXQ3Z0Q5QktjQ09lZmlfanIxMVhJ?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "Why Analysts Are Betting Big on DigitalOcean Stock for the Next Era of AI",
+   "source": "Barchart.com",
+   "url": "https://www.barchart.com/story/news/2310446/why-analysts-are-betting-big-on-digitalocean-stock-for-the-next-era-of-ai",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "JPMorgan (NASDAQ: DOCN) discloses 10.3% ownership, 10.79M shares - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFNJNnVHNjMzdzk4RGRaQ0VvTkE0dUkwa2NtZG9DM1pvbU9lNnZmV196bkVUTWRzMjc3SkI5dG5LbjBZSzZZTlNkV0RFcjZielBaeGF0Z1BjRnp2cE1XNDNjdldUaVpiN0JCVHpwOHBOUFBJSEVfbk5RMU5vTnNodlpCRGpjM2xlcVZxWWFUazRWWGpuQzhZcmx3X1NVQ0lXUGo1YjlLcjBfVm51bHgxOVE3UDdXUXJMMVZLLUY0T0pLZ2VNbWJmNkhBZw?oc=5",
+   "published_on": "2026-06-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  },
+  {
+   "title": "Matt Steinfort Sells 10,000 Shares of DigitalOcean (NYSE:DOCN) Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVE3bUIxWXlQTnV2TGwzMjU3ZFZqZ3BQVXROQjBwbk5KYnpKYlhhR3FObl9OdmIzWlBPUWU4R004RjRJalVHc0F0amg2d0xucEQtX0pnRlloOFRuYkREM1NaNDVJWDNhOHd5OENGd3UyWDNVNlhYY2FhaldZb014WUsxeVBKMjJ4LUI5ZmtNTHZvUkdwYmtNamM5LTAxQmwzczRGWThNU3FaU2VUeUlpUnZhcTBxT29QUFE?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "DigitalOcean reported a strong Q1 beat, raised its outlook, and launched an AI-native cloud, driving an 18.8% surge. Multiple analysts initiated or raised price targets, citing AI demand, while insider RSU grants and JPMorgan's 10.3% stake signal confidence."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "market_cap": "$16.14B",
+  "pe_ratio": 67.82456,
+  "forward_pe": 88.72976,
+  "revenue_growth": 22.4,
+  "eps_growth": -61.3,
+  "beta": null,
+  "analyst_consensus": "Buy",
+  "price_target": 117.16667,
+  "profitability_score": 100.0,
+  "balance_sheet_score": 40.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

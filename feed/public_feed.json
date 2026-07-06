@@ -1799,5 +1799,64 @@
    }
   ],
   "note": "The full live list with entry, target and stop is members only."
- }
+ },
+ "ticker_pages": true,
+ "data_sources": [
+  {
+   "name": "Yahoo Finance",
+   "role": "prices and history"
+  },
+  {
+   "name": "Alpha Vantage",
+   "role": "prices, news sentiment and earnings"
+  },
+  {
+   "name": "Financial Modeling Prep",
+   "role": "fundamentals and ratios"
+  },
+  {
+   "name": "Twelve Data",
+   "role": "price backup feed"
+  },
+  {
+   "name": "Polygon.io",
+   "role": "price backup feed"
+  },
+  {
+   "name": "Stooq",
+   "role": "price backup feed"
+  },
+  {
+   "name": "Google News",
+   "role": "news coverage"
+  },
+  {
+   "name": "NewsAPI",
+   "role": "news coverage"
+  },
+  {
+   "name": "Reddit",
+   "role": "social sentiment"
+  },
+  {
+   "name": "Nasdaq earnings calendar",
+   "role": "upcoming earnings dates"
+  },
+  {
+   "name": "FCA short-positions register",
+   "role": "who is betting against a stock"
+  },
+  {
+   "name": "Companies House",
+   "role": "UK company filings"
+  },
+  {
+   "name": "Investegate",
+   "role": "UK regulatory news (RNS)"
+  },
+  {
+   "name": "Stockopedia",
+   "role": "fundamental quality ranks"
+  }
+ ]
 }

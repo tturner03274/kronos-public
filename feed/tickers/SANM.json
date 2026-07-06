@@ -1,0 +1,113 @@
+{
+ "ticker": "SANM",
+ "company": "Sanmina Corporation",
+ "as_of": "2026-07-06T06:32:31.729489Z",
+ "score": {
+  "composite": 69.86,
+  "band": "medium",
+  "scored_at": "2026-06-06T04:48:14.892506",
+  "explanation": "SANM (Sanmina Corporation): MEDIUM evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 89.0,
+   "catalyst": 61.35,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 72.93
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Sanmina and Methode Electronics Shares Plummet, What You Need To Know",
+   "source": "alpha_vantage",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-6-5-sanmina-and-methode-electronics-shares-plummet-what-you-need-to-know",
+   "published_on": "2026-06-05",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Shares of Sanmina and Methode Electronics fell due to concerns over high 30-year Treasury yields, which impact project financing for their infrastructure, data center, and industrial electrification p"
+  },
+  {
+   "title": "SANM SEC Filings - Sanmina Corporat 10-K, 10-Q, 8-K Forms - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DbUl1VjZnRV9UcmFCUlhMLUUwZkdvR3h3R1BlVHYyMThBZnk0QWRTOExlVFRweTVlRjAwbU9GeDhZeFJsX2xzTTJMV1NpdFBDcDlzdExsOFZES0dYMzd4NHhQOGx2dw?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  },
+  {
+   "title": "Why Sanmina (SANM) Is Up 15.1% After Raising Guidance And Approving A $600 Million Buyback - Yahoo Finance Singapore",
+   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00SzlLV2swUXBuZ0Vwa081LVcwMThBcEJmUWhGZVVyRlVLV3BmaG1uYWc4R3BtREJLbG5CTHM4M2g1aE1qeXhwWF9ZSGNwbDA0dE9yZ3ZxOUdWZ09yYklTU2JKUzhheW44TDFCM2lOVTFzX19SdVROVFJn?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  },
+  {
+   "title": "Are You Looking for a Top Momentum Pick? Why Sanmina (SANM) is a Great Choice - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUWM5UjdKT0Z4c2ROenpZR01EUUtYSFUyczZvTElkT2dtdk5Sa1hDcWdVM1BxcFVNemRIcWFRQjYxeml0eDE1MGluVzFENzlmQ1Awdi1DNlBPcHZaRjdubjVwWGx5b2RBWVNabFFEM1BCbHV5SENlOWttVlM5d1M4NDlrTFh1aDNDNXdVWFF2M3N6NnJrWjkwd0Nn?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  },
+  {
+   "title": "Mitsubishi UFJ Trust & Banking Corp Increases Stake in Sanmina Corporation $SANM - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWZVX3pYT0R1Z2QxVERqTk5sT1hhNHowalZ4U2h4MUJWOGk5ZGxjaDF2N1BMSDM4V0dLa0xvcFgzWDg2QkdYc2RRWWNabHlOYVJzTE5hX0dwSzZJV3h5OVkyaE9wQktFX1VRTmNlNktsTktoajJhZFpWR01ZWUVVNExSbGpBUWctRGh0V1dRZ1d4N2s2cDZhSVRXRS04ZFhJZjhSVkJpNHoyZnpKckVHUnBmZjNtMGd3b0lELTNCS0JNclpZWm1EbEpEeWl4NFZvbWMyaA?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  },
+  {
+   "title": "Insider Selling: Sanmina (NASDAQ:SANM) EVP Sells 1,000 Shares of Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFVoQUNzMkg5UktCd1ZPYmo5dlp2REhHU0o0YndYdUJMWmZpMFFqb214RU9yZW5GTkVCZTFZWEVoLXNyb3NHX3RGN0E0MlEzcGo3dWxjMzNhcU9VZHJyVDQ2OHFoRVlvVW9nYWpBczAzRlpmUVpIM0NRRDFlYWk4NVZwSUFCZW1pRXZ4cWVSR3dLY0JRUUhxWGl3TWhPQ0lvUkNCRXluakVQb1BZVGNLYXlMZ1VYMS1QTDBv?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  },
+  {
+   "title": "Insider Selling: Sanmina (NASDAQ:SANM) Director Sells 500 Shares of Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFFrdTZSNldsdUJidENUYzdlQlhfT1FLakc1QVUtd0w1QnVTRXlmTWdHRHI5RU1wTG9vSjg3N2VLY0VUWm5CNFdmM0RsZk9GSElUeXBfTVZsY0xkNzRzcEZ4WWlIQy1XdFlvZ0d0ZUZDOTZSakh5Z0N3Y2dNQ24tN0VkM0NIUWxjT1ZuaHhWSUYzaGhNWUtKdnBYUDd5MTFNZkJPUzZBSklPY1Z3MmpGS0tzdWYzOXd3cjBXVEV1eGU?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  },
+  {
+   "title": "Alan M Reid sells shares (SANM): 1,000 performance shares listed in Form 144 - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFkzUG51U1dhTHpzajZrQm94VVZ6TFp2dndVcWlUS2dlUjZSczhpM2tvVUh5OS01bHgtOGJ3TVBUS3RWNjV1dFY4WjVjd3FMTGpDeTAzX2UybEg0Q3pUVW5DeHhTRnZsWkgybjRyZnVjamlVa21NTENHb181V001aTJCY3gwbWFpQlc0eGtIM05TQ00?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Sanmina reported a strong Q2 earnings beat, raised guidance, and announced a $600 million buyback, driving a 15-16% stock rally. The company's pivot into AI data center hardware is fueling triple-digit revenue growth, though insider selling by directors and EVPs tempers the outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "market_cap": "$11.89B",
+  "pe_ratio": 47.010593,
+  "forward_pe": 17.03744,
+  "revenue_growth": 102.3,
+  "eps_growth": 46.6,
+  "beta": 1.512,
+  "analyst_consensus": "Buy",
+  "price_target": 212.25,
+  "profitability_score": 40.0,
+  "balance_sheet_score": 80.0,
+  "captured_on": "2026-05-05"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,121 @@
+{
+ "ticker": "KRYS",
+ "company": "Krystal Biotech, Inc.",
+ "as_of": "2026-07-06T06:32:31.940520Z",
+ "score": {
+  "composite": 72.08,
+  "band": "high",
+  "scored_at": "2026-06-06T03:46:17.289135",
+  "explanation": "KRYS (Krystal Biotech, Inc.): HIGH evidence quality (composite 72/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 94.5,
+   "catalyst": 65.72,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 67.69,
+   "asymmetry": 78.95
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 74.2,
+  "ret_7d_pct": 5.64,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Krystal Biotech, Inc. Stock 12\u2011Month Price Target Raised to $330.56, Implies 6% Upside - TradingView",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0MtMUhkRkdkalJKY0NyelNNZjkwSy1oUFQ0cWxjLUM3a25ETUVnVERXdUQ3WDNUS2M2Z09CaXZVWmNIR1JvcTJNM0FTM1Rzcl9zdDd5bEswT0xXSnliSU54VUJNWHNDY0hPUW83d19TQ0d2Y2NSU0pIZkRYLWc4SFhJel81OTYzVXVOZmxJRE5aVVRCN0Q2YzBtdE9KWTRjSDR2WTZMNVVoUGxqT05PYWRldlVmbUhocDFMak5SLUxubnZnZjFralVwZE5aZ1U1X3dKZnItRXZRb0E?oc=5",
+   "published_on": "2026-05-14",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "Technical Reactions to KRYS Trends in Macro Strategies - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRlhER0EyakJHOVRmeVZxanQ3MWw2dzN0R2RFYVBDb2NGNEFfdWtTZXF3azV2WTBfTEw5UExlLWRfZEJHcFpMU1d4VVBlSWtlWF84ZDJDMlpaZ1BiOVN0T0s3cGtUQkY5ZDZDemI0R3J0VW9jREpIWTVMUl9HV0gxWE1UQzU4aXZTa2ZwbVhTSTFiZld5YkloRlFjMm42MU1jQVhHaENBSzZNRWY3c3VHUGx2bkE3Qlhwa002LU52SGpqUmhlSzdoOWRMczExd2JW?oc=5",
+   "published_on": "2026-05-14",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "Krystal Biotech, Inc. (KRYS) Stock Analysis: Strong Buy Ratings Signal Promising Upside - DirectorsTalk Interviews",
+   "source": "DirectorsTalk Interviews",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzEzS2F5dmRIZEZUZ0tDdlB1TDQ1UUlkMThVLXZrOXN5UHFvVXJsOW00aXZkVEJSWGVoQ1ZqM2hLRy0wdWZvVGtfZXc1R0V1c3NnblE0N2dyelZpTlFZTlNLazBBclRDWXBNSmJFb3lRcm9FLUFlVVV4NmZodktuekZieE8yUXd2OEtFQjhwc2Vua2dRUkhlaFp2NHVQWTZZVDdndl9BVTc3SUJKOVhsZ3dfQnB2YnRRUGk2Ry11S2dzZ2hQdXFkU0Q3bzhlZw?oc=5",
+   "published_on": "2026-05-11",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "symbol__ Stock Quote Price and Forecast - CNN",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hNHBYVXc3RUszbEtZVUU1SHJmVjZUOFN0cUlnMnYtck0yY2hUejJiSGs5VXRsNVRGYnhWYW41VFFlVnVYb09fRmo1T2pYUXJ2?oc=5",
+   "published_on": "2026-05-11",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "Krystal Biotech: Vyjuvek Is Not The Primary Asset (NASDAQ:KRYS) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjM1N1hORDl1UzZ1T2l1dEdITzBfQWNBTnYySThVcVVLNjlIeXQyZlgtOGFueGcyLWNmT01lRFk0SjJyRV9CVzRGWXFvcUljY3lzNEw4c2ZKVjBDR0lLckVza2Z5Y3ZscW1meXZNMk1feF9wUzZWelAxc2xTTXl6b2hORDQzcnU5bFV1bU9pcGtBTGs?oc=5",
+   "published_on": "2026-05-10",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "Krystal Biotech (NASDAQ:KRYS) Combines Perfect Trend Template with High-Growth Momentum - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVElVUGVIYUIxWDh3ZlNEX2k2cVlXb1lTRS1jSlVFSEo2anNJdWpkLV8wUE4xWm4tMnFWbnNjZDVuMTdZd042am9tQ0Y4MjQ0Q3lqZUZkaFBQdzExU3FLM2hJYmRjSWgtbUt2NzRkSXlVdnc1LWxWckdyMEhTY0g2WEJpV3hMYnVCMmh3aThTRDZyWmZhUlgzNUxLZEtXRnR2QzVDa2hUeVhvUkpiczR4clM4MTBuUlF2aXlYZnJ4SFpKeUJUY1RrQ1VUdWJtdkE5RXc?oc=5",
+   "published_on": "2026-05-09",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "Krystal Biotech Inc (KRYS) Stock Price, Quote, News & History - Benzinga",
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QMVFIWFJBRmtsRGVWNXFJUVRTNTdpNmc1eUp4ZXRmdlBINjlTQVRvMEN1OXBma0lHS2lEQlhOTlVESUVEcmlxUGp2bw?oc=5",
+   "published_on": "2026-05-08",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  },
+  {
+   "title": "Is It Too Late To Consider Krystal Biotech (KRYS) After Its Strong Share Price Run? - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWRSai1YX203MTBfS3p6MjliR3JYZnhhcnpFREN4bld4MEx2RWVPeDVRZl82STJBWHNfdHdiRXc5TGFCX3pIRmttLUxRWkpwb2xMNUpLSXJFSWp6SGdUVlk4UW9OV09UX1dYTFlTOV9WNmVCcHlwMmVuS29hc3BCdk90NUNwVVd4Z2hfNk1lZGdKNGpaUTdLYUVvM3gySkM3VlNEd2Z5SXJHalpGbVRYTG9maW9XcDRqbjhVLXRNcURTYjV4QjhYbUlfcjI2ZFhFUU44T280ejdlQ1UtYTFmLVA0UdIB6AFBVV95cUxNa3VJQUx3aDlMUTFJUklhSWRDdnBvZ0F4bUpkem5lT0I5Q0JjOGc2MEFtQ0RnSXlENjM4RWdreHF5bGVESUkwLTRqWmE5NW1wNEdIbXh1OUVSbjdETTN2eFpXbjNvWkZYUXRPREN4bjNqRVY4MnltTDJZd1ZOOXFhekVJT3JtV0R4Vm5keU5ybGdPRldPT1hZUDRUaFRPbXZEZDZZOUlEbm5lSHlDQ0Rtc1NrREdVX3hVM1kwaVBKb2swUFhleVF1UVM5RVNMUVpacFBySWlSQ0ctR191QTRBTUVfelg1VG9n?oc=5",
+   "published_on": "2026-05-08",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Krystal Biotech reported strong Q1 2026 earnings with $116.4M in VYJUVEK revenue, beating estimates and driving multiple analyst price target upgrades. The company's pipeline progress and upcoming catalysts in 2026-2027 reinforce a bullish outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": "$8.39B",
+  "pe_ratio": 38.044117,
+  "forward_pe": 27.873386,
+  "revenue_growth": 31.9,
+  "eps_growth": 52.5,
+  "beta": 0.495,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 318.22223,
+  "profitability_score": 80.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

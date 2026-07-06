@@ -1,0 +1,113 @@
+{
+ "ticker": "SITM",
+ "company": "SITM",
+ "as_of": "2026-07-06T06:32:32.495298Z",
+ "score": {
+  "composite": 70.02,
+  "band": "high",
+  "scored_at": "2026-06-06T02:44:36.638725",
+  "explanation": "SITM (SITM): HIGH evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 86.5,
+   "catalyst": 64.44,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 73.8
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Needham & Company LLC Forecasts Strong Price Appreciation for SiTime (NASDAQ:SITM) Stock - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblVMZEJPRzNTNEQxWFRRd0V4MEVId2tGbXVWQTlCWTYxRzdLenZrRjd4WXg4N216dzBfWEQ3ckdJa3ZmeGFMdUlHUnBPNDd2aENGSjRwYUpucjhJMG1yX2lNc2NYNmkwRXNVT2NTU0pSNDRFcWwxUkV4V0w1QVNlYnRndDU2MWpyUGlPdFNFOVpjREpUZHY3Q0p3WllKbmx6SFZ1Uk0zVjgzMnVQRHZMcUI1TUc3RVotT29RMHFxUDdhby10emRJVnBqbkRKLWQwTmNF?oc=5",
+   "published_on": "2026-05-07",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "SiTime Corp (NASDAQ:SITM) Surges on Q1 Earnings Beat Driven by AI Demand - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkdSVXMxMjJfcDdEZHpTOTBEWTE2bDZwRjVTQTZuLVNLQ3pETG5iRzBQdG10VVdCc0ZvOHBUY0lHZjhFTHpQTXU3QUhaOHdwLXFidnNULTlZRS1WMjdHcWZ2MC1zQ0tBdU9JUmNpdWFlQ1BTVTFEVjNBQzJERUJaX1JwZFI4S1pCRGZlLVA3bktTeVRkTDhvbGFOd2gxOUZIRFFZNUVBZWxUdHlsVHlIVE9oQlZobGNZcUZUTWV3?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "SiTime Corporation (SITM) Stock Falls on Q1 2026 Earnings - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXkwODRSWHliTzZOSmtNc05jbmYwOUNWR2tTQzRXdzNJYUhXR2N3OGYtbjZuLU5QYks3ZmFLNmhaaDRLUUpxZ0lULWt0SHd6U0RpbW9vQ1lnUml2UzdkTEhCamQ4OW0zZmVCc01uS25uR2NGRVZVSzIzNk1QRnJIQTNEeGt4dWlmcnJ5VHJuc29LZi1VWWI0cWNR?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "Timing-Chip Maker SiTime Delivers Q1 Beat-And-Raise Report. Stock Surges. - Investor's Business Daily",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVFRTnFIenVHbnF3Njc1UWV0eDhCWVpIeFZ2S3ZxRnZFRS1vOFZwWlVEUk5LQTVKNzRzT0JHRE5WcWJZMTlyeGVQM2c5TDJ1VWhNX1FJbFZURlhYTzlsYXBQakVlOU1TRXdfV3FTemw2Z2EzR2ZKWHdWcHgtM1NIYXFaVQ?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "SiTime ends March with $788.7M cash after a $113.6M quarter - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmFqeXRKNnNzeGN5YVV5cGRocjdoVEFWQ2VCbG1BQWw0TVFiQTlOT1MtQXd6YVVaX09rWVBQZThfdGFiLVpaWXUxUjl2R3ZES29wUzNmWGdVV0wtRjVWOUpjcl94czBVUU4yenEtblVtY3NqcTkxOHd2SEU4bEdQWUxGWlRtNnZPd1M1MkR0ZUlfQ2p4bml0VHlZY2Ntamhh?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "SiTime (NASDAQ: SITM) Q1 2026 revenue soars 88% with strong non-GAAP profit - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGQ3eW9neHgyMnpKOVBrbmVUaEh4TVJJNzNOSllsaWxId1EtcnN3OGEyalltakZ6Y29qb1lHejZpRkRQM3JfM2N0eTJlTG9pRHZNUnNpSEo5YWFOZzhLTVVvS3FPcXViZEVJN1duZHpaRnNFczNHdEZNaUhua1RqM1lDN2RFWTFrQ2Z5a2NoSDJyNF8yay1OSS1MR2dhWjJZSXc?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "FMR LLC (NASDAQ: SITM) holds 3.94M shares, 15.0% of Sitime Corp - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXAxZFhHNl91SW5lVzhLYXZUZ3dITV9iSzVWV0diSUlNZkNjR0pIQi1KaHhlTUk0Z2dNT2tEM1Zqa0tON3ZzbThFeEZxdWtjT1lEMHZoZXluRkpJRkZxWTIyM0VlbWZGdHJtODB1T1E0Q2lDb0c3d2R2T2t6NVNOVXVNMGJPZGU2ckpCSVlkeHFpVEszOEwwYVE2RENNWm1PeFpGSFJkSVMyVlh6TklMXzZqTWN1S0gyRHFXaWNDRm1yVjNp?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  },
+  {
+   "title": "SiTime (SITM) Launches Elite 2 Super-TCXO to Enhance AI Data Cen - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2VVSVhrTTJFWG1zR1R2MUhWbUJiUWdnNE40d0p1bUFwWkkzNEhOc2lub2tZRGwwdUZHR0kxb3hUTjdndmhnOUNXLWU4SnB3WFZXV205QlVzS1ZzVGNjbkNhV1VvckNwa3dFR0hMNHNhUFk5OFdrQ3k3bkkydzhBTW5DNm9Lang2TFlwR3F4ZldfdE5LQU5HQWZUbVI5VElpTmFITEE1ekN1amNkTzFBV2otWHpMRXIxUFhIaWZ6YjVkZWZ3?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "SiTime reported a massive Q1 2026 revenue beat with 88% growth and strong non-GAAP profit, driven by AI data center demand. The stock surged on the beat-and-raise report, though some profit-taking and analyst model resets followed."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-07"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

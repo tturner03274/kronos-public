@@ -1,0 +1,121 @@
+{
+ "ticker": "ESLT",
+ "company": "ESLT",
+ "as_of": "2026-07-06T06:32:32.174712Z",
+ "score": {
+  "composite": 73.7,
+  "band": "high",
+  "scored_at": "2026-06-05T23:39:04.674144",
+  "explanation": "ESLT (ESLT): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 90.5,
+   "catalyst": 71.32,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 80.31
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 73.7,
+  "ret_7d_pct": 3.73,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "Elbit Systems Awarded a $350 Million Contract for Tank Upgrades from an International Customer",
+   "source": "alpha_vantage",
+   "url": "https://www.prnewswire.com/news-releases/elbit-systems-awarded-a-350-million-contract-for-tank-upgrades-from-an-international-customer-302784067.html",
+   "published_on": "2026-05-28",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Elbit Systems has been awarded a $350 million contract from an international customer for Main Battle Tank (MBT) upgrades. The four-year program includes integrating advanced Fire Control Systems, Ele"
+  },
+  {
+   "title": "Elbit Systems Leads Defense Gains, Clears Estimates Amid War Demand - Investor's Business Daily",
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSW01Q1ZCcVg0SDZoQ2locFgydWNDLUcya1AyMkRua1JWNGdHYWJ0YlY0RXFIcGhrbHk1eTQ0eEdsdGQ0bVpNY2I4SE9pcUtoLUl1RzNSdW1WNlg2Sl85XzhBT3pXbUlIOFdIQ1FDVjlwODAzYWlHcTRVdGlqdUs1dmI4bzVvS194NmY0MkdhU1p5M2htUU9HOGlwQi1nS1NMSTZoczJaSHBlZXZXVXc?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  },
+  {
+   "title": "Elbit Systems Releases Q1 2026 Financial Results",
+   "source": "AlphaStreet",
+   "url": "https://news.alphastreet.com/elbit-systems-releases-q1-2026-financial-results/",
+   "published_on": "2026-05-26",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  },
+  {
+   "title": "Defense Demand Lifts Elbit Systems After $1.4 Billion Contract Win",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52787962/defense-demand-lifts-elbit-systems-after-1-4-billion-contract-win",
+   "published_on": "2026-05-26",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  },
+  {
+   "title": "Elbit Systems (ESLT) Shares Surge on Strong Q1 Earnings and Reco - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFBwVk5rbzF1V3NISnRuc0FNbm5fS0NBazRlbmp6TjVvNFBMZzVTenY5ZENHc1pJTW9pZnFzOGlFSkJXZDlfaTZfLUlTZGVESHNrd0ZVQ242VTN3dTlLaFYwV2tCR3I0Mzl5S1JpdGxIQWJyODNkalN1RktrYmZZTHZiOGRIM0lGM0xhV0tPYjhFWVpOYURFbzZiY3oxVWtycEN1aWNkX1o1MlF2aEdxTA?oc=5",
+   "published_on": "2026-05-26",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  },
+  {
+   "title": "Elbit Systems jumps after earnings beat as defense demand drives record backlog (ESLT:NASDAQ) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0ZDT2NsdDd0Y0IwWXVRWTlMdWlLcURnSnI0WjBUeS1lT2dydlc5T2hoclN5aV9fNThaUW9OUHVJNl9SZkFYVWdDeWVPMWdTcDlMZXFWcXJ5d0RMekJ5eWRVa29uaWFyRmtLTy1EQmVrUC15SVdiTVZOanVpaVpZc184ekpVWkY5eEJjVXdJX3lPN2dHVHNfYmtFNEFPbjRIOWlFRU9CdGd6M3plSFNWal9vT2d1bEtx?oc=5",
+   "published_on": "2026-05-26",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  },
+  {
+   "title": "Why Is ESLT Stock Surging Today? - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEpZQ2dKYml3WERkaU9LdEtKbGpjRFFlTTJHc0w5Y25nbVk2b2plTGdrb2xMZ1lNRDVHOW9BTnh4WEtxTlYxV1Y3c1Q3VmtrQjQ2dVMycVNaNHpnX0xiZ0lVVm9DRGdCOXVTemQ2bzh4cjFvWHdta2FNMnNNMU50cnpVbE1aRUVKSHEybFV3WG9sVjhxakJNT0Ribkg0SVZhbzdkdzlhNFRhX3FqWnhZTWNPUnc?oc=5",
+   "published_on": "2026-05-26",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  },
+  {
+   "title": "Elbit Systems jumps after earnings beat as defense demand drives record backlog (ESLT:NASDAQ)",
+   "source": "Seeking Alpha",
+   "url": "https://seekingalpha.com/news/4596949-elbit-systems-jumps-after-earnings-beat-as-defense-demand-drives-record-backlog",
+   "published_on": "2026-05-26",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Elbit Systems reported strong Q1 2026 earnings, beating estimates with a record $30.2B backlog and a $1.4B European modernization contract. Multiple bullish Alpha Vantage scores confirm robust defense demand and positive momentum."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-27"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

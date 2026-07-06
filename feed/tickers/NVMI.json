@@ -1,0 +1,113 @@
+{
+ "ticker": "NVMI",
+ "company": "NVMI",
+ "as_of": "2026-07-06T06:32:32.466790Z",
+ "score": {
+  "composite": 72.63,
+  "band": "high",
+  "scored_at": "2026-06-06T01:12:04.531683",
+  "explanation": "NVMI (NVMI): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 91.5,
+   "catalyst": 65.24,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 79.8
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Nova Ltd. (NASDAQ:NVMI) Surges on Q1 Earnings Beat, Record Revenue - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0U5TDNqTlZrMGtIRlRHTE5VWVROS3YtX29KWG9xa1NTUFlGRURWY3FMNmk2RUhKS2JHNjcxRWd6aXA0QlRwalFObWZ3VmVjN3VCRVFUSGt1aUMtaC1fSml1U1l4XzhVNHhYdC1yanRqWjN1clNZckdReEVzamJjaHFyQ1RtYTBBNnJ0Q1pycHR3c0I3WmNKdFF1OFJmOTRLa3JqR1hUeXA4d2pGaFJaSmFhSQ?oc=5",
+   "published_on": "2026-05-14",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "Record quarter at Nova: $80.3M profit, Q2 outlook $245M-$255M - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFlYbzhqcEFzTFBhM252aHRJcndzZlhpUGM0WVNYMFpRRFdsTTFuNGZJRHV5QVBrYmp3cEhWMHJzRzJRQk5iWDgzODlpbWlnR2txT3VwanJuTmxDX3dySFRiNXFoelh6VjRSNkNvelN1amJicUdCUDdDQmR3M3AxREJBQ3dMOGlqc1BGa2dwYVpSTWxndERjak5DU01LemYxcEFZMHBn?oc=5",
+   "published_on": "2026-05-14",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "Nova (NVMI) slides 6.2% amid semiconductor selloff ahead of earnings - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUtVRmZVOExocGR2akZfeGFZbmI3T29tdzZxT1BlZ1gtTldvcUt3NnBBdkM2dHJKVy11SXhjNEFqU2k5NmZVc1R3U1VINlBVWEprRU53eU5FNE9pa29yYzFvS2xWcndWcGt5VEpRUEVPTGNiUXBBV084bk9yeTFlUS1xVGlCQk5HS2E1OGd4TUI5bTNwUC0tSGFmUkQwWUNJaTAzZ0Fma1FOLTg?oc=5",
+   "published_on": "2026-05-12",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "UBS Group AG Acquires 33,276 Shares of Nova Ltd. $NVMI - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanpLNzUtSDQxXzZqNkUtSHh5V3VmTnB3TVZPVng4MzYtOXB5TjQxV3F2VXdRNDA4bk1sZnpWUUtwRF91VGNkREpaXzBHQmhYMENNSzhDUnZTdFdoLU5veHdGRHQwRVVGUWJNdExFOElSVzFkWjNlekNpX2ZBNXg1TDY5MDhhYzU2M0FnZER3TGlZdjNjZnZhU0VEYjBzX2VjTTJydlNjcnNvWV82UjdMcHRn?oc=5",
+   "published_on": "2026-05-09",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "NVMI Stock Price, Quote & Chart | NOVA LTD (NASDAQ:NVMI) - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwci1zalJHU3JNZ2Z5ZFUtYTJBbmZjMGowbl9sUHZtNnhBbWpNWkdfd29VYWhsMGZBWEhCenhnTmlrUTFmTVZiSGNoSmY5MVU5anVBam05TGpCaHoyTnZR?oc=5",
+   "published_on": "2026-05-08",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "Is\u00a0Nova Ltd. (NVMI)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
+   "source": "Yahoo Entertainment",
+   "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_61197443-d0fa-4909-9c7a-38bd3bc1b843",
+   "published_on": "2026-04-26",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "Assessing Whether Nova (NVMI) Still Looks Overvalued After Its Strong Recent Share Price Run - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZndIdXN0R3Y5dmg5YUJmamt1MGxZSEFEei1yOFotVzA0QlUxTTIxbDBBRmY5S2xMU2FJZXBNbjdJWEVHTU5rQmlJX2l6ZG0ycWpZLVhSYnNMNTQtM1hXUlE4eENYUlRkRkdQbjJ3Qkt2SWdlTWdGcnRhS1hBNzVHVVJCQ0RZT3N2aTIwQS1zR2pPUWVLZTdXd0NQVUFZZGc?oc=5",
+   "published_on": "2026-04-26",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  },
+  {
+   "title": "Is Nova Ltd. (NVMI) A Good Stock To Buy Now? - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZHRMZmoxdUtlZnRHMmQwRlpVVFBYcno5QjFSVzR3R0hqQjU2UnhDcTU2OUR1RlZzNkpYUjMwdkF2bXVkdFpCTUxURVdUNzZ6d2lrWGdxby1GcS14WllUY2NHbzl5ME5Nd2xXY3RKMy1JR1gyOERQLUhzVTZsOVZkSU9Ed01DblJaZktLb2puZDZfa2M?oc=5",
+   "published_on": "2026-04-26",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nova reported record Q1 revenue and profit, beating estimates, with strong Q2 guidance. The stock has surged over 80% in the past year, supported by analyst upgrades and institutional buying."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-14"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,121 @@
+{
+ "ticker": "MANE",
+ "company": "Veradermics, Incorporated",
+ "as_of": "2026-07-06T06:32:31.691494Z",
+ "score": {
+  "composite": 70.34,
+  "band": "high",
+  "scored_at": "2026-06-06T05:03:33.588505",
+  "explanation": "MANE (Veradermics, Incorporated): HIGH evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.0,
+   "catalyst": 67.58,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 56.0,
+   "asymmetry": 73.62
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 74.38,
+  "ret_7d_pct": 4.78,
+  "vs_spy_7d_pct": null,
+  "risk_adjusted_7d_pct": null,
+  "ret_30d_pct": null,
+  "vs_spy_30d_pct": null
+ },
+ "news": [
+  {
+   "title": "[10-Q] Veradermics, Inc Quarterly Earnings Report",
+   "source": "alpha_vantage",
+   "url": "https://www.stocktitan.net/sec-filings/MANE/10-q-veradermics-inc-quarterly-earnings-report-66199bfb45c9.html",
+   "published_on": "2026-05-12",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Veradermics, Inc. (NYSE: MANE) reported a net loss of $27.2 million for Q1 2026, driven by increased investment in late-stage dermatology programs, with R&D expenses rising to $20.9 million. The compa"
+  },
+  {
+   "title": "Veradermics Reports First Quarter 2026 Financial Results and Highlights Recent Corporate and Clinical Progress",
+   "source": "alpha_vantage",
+   "url": "https://www.biospace.com/press-releases/veradermics-reports-first-quarter-2026-financial-results-and-highlights-recent-corporate-and-clinical-progress",
+   "published_on": "2026-05-12",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Veradermics (NYSE: MANE) announced its first quarter 2026 financial results, highlighting positive Phase 2/3 topline results for VDPHL01, an investigational oral treatment for pattern hair loss. The c"
+  },
+  {
+   "title": "MANE SEC Filings - VERADERMICS INC 10-K, 10-Q, 8-K Forms",
+   "source": "alpha_vantage",
+   "url": "https://www.stocktitan.net/sec-filings/MANE/page-4.html",
+   "published_on": "2026-05-08",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "This page on StockTitan provides comprehensive access to VERADERMICS (Ticker: MANE) SEC filings, including 10-K, 10-Q, 8-K, and Form 4 insider trading reports. Each filing is accompanied by an AI-gene"
+  },
+  {
+   "title": "Big30, Pooh Shiesty\u2019s Dad Plead Not Guilty in Robbery Case",
+   "source": "XXLMAG.COM",
+   "url": "https://www.xxlmag.com/big30-pooh-shiesty-dad-not-guilty-gucci-mane-robbery-case/",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Veradermics (MANE) successfully priced a $256M NYSE IPO at $17 per share and completed a $300k-warrant PIPE, signaling strong capital market support for its skin-focused biopharma pipeline. The company's focus on hair-loss treatments is validated by market demand, as evidenced by 143,000 frustrated patient chats at AAD 2026."
+  },
+  {
+   "title": "Want Glossy Hair? This Is the Secret to Achieving High-Shine Strands",
+   "source": "Eonline.com",
+   "url": "https://www.eonline.com/news/1431623/shine-enhancing-hair-care-for-glossy-locks",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Veradermics (MANE) successfully priced a $256M NYSE IPO at $17 per share and completed a $300k-warrant PIPE, signaling strong capital market support for its skin-focused biopharma pipeline. The company's focus on hair-loss treatments is validated by market demand, as evidenced by 143,000 frustrated patient chats at AAD 2026."
+  },
+  {
+   "title": "Boom Launches My Little Pony & Jem And The Holograms Compact Comics",
+   "source": "Bleeding Cool News",
+   "url": "https://bleedingcool.com/comics/boom-launches-my-little-pony-jem-and-the-holograms-compact-comics/",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Veradermics (MANE) successfully priced a $256M NYSE IPO at $17 per share and completed a $300k-warrant PIPE, signaling strong capital market support for its skin-focused biopharma pipeline. The company's focus on hair-loss treatments is validated by market demand, as evidenced by 143,000 frustrated patient chats at AAD 2026."
+  },
+  {
+   "title": "Incidence of acute pancreatitis among hospitalized patients with dengue: A systematic review and meta-analysis",
+   "source": "Plos.org",
+   "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014304",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Veradermics (MANE) successfully priced a $256M NYSE IPO at $17 per share and completed a $300k-warrant PIPE, signaling strong capital market support for its skin-focused biopharma pipeline. The company's focus on hair-loss treatments is validated by market demand, as evidenced by 143,000 frustrated patient chats at AAD 2026."
+  },
+  {
+   "title": "VUStruct: A compute pipeline for high throughput and personalized structural biology",
+   "source": "Plos.org",
+   "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014183",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Veradermics (MANE) successfully priced a $256M NYSE IPO at $17 per share and completed a $300k-warrant PIPE, signaling strong capital market support for its skin-focused biopharma pipeline. The company's focus on hair-loss treatments is validated by market demand, as evidenced by 143,000 frustrated patient chats at AAD 2026."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": "$4.76B",
+  "pe_ratio": null,
+  "forward_pe": -38.24143,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 126.0,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-05"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,113 @@
+{
+ "ticker": "NBIS",
+ "company": "NBIS",
+ "as_of": "2026-07-06T06:32:32.109085Z",
+ "score": {
+  "composite": 70.58,
+  "band": "high",
+  "scored_at": "2026-06-06T01:42:47.027458",
+  "explanation": "NBIS (NBIS): HIGH evidence quality (composite 71/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 87.0,
+   "catalyst": 64.52,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 74.4
+  }
+ },
+ "outcome": null,
+ "news": [
+  {
+   "title": "Nebius: Q1 Exemplifies Solid Execution (NASDAQ:NBIS) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1UzbnA1RHdsMG1MaU91cmJsV0E3bndPcTdjUExpRENLbUE3QXdISUt4bGQ5b2RVYldDUVk3RUdKMGRYdnFGSFYwT1NNQ2tRUVJUQmdhZjc0SjAteVU4MW9FZlFpVUtyaXo5clFMOHZ3cHVPakJxTWJiZ3ZVZTJtSjFJTGI?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "4 stocks to watch on Wednesday: BABA, PFE, TWO, NBIS - MSN",
+   "source": "MSN",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnJEYXA0SExHdkZrQUxKSXNsMGhaUUhNdGNBd1lKaWlzalpiZTNpMUR6TDc0ZjFGQ2pqQ3FnTDBHMWNJcnlmU3dqbmhWbEV6TFBMT1YwdmpLbkFIR0N5MXMyOGx0V2swVzI5SXVKZkd0NmpLbDYyM3FCaW9ibFFGMG9vWnd2OEhYVGluTl9IV2JybDNscmxWM1dnVmtYOU9VZ3g4enpyUXVCT2p5aFhrekZQbm9rS213cm9Ic1N1RXdaNHBseDVZ?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "Why Is Nebius Stock Soaring Wednesday? - Nebius Group (NASDAQ:NBIS) - Benzinga",
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXQ1VjBhdGVibVBILU1YblhWZjM5ZDRIMW9TbWFjWUk1XzdhSmU0dXBuOUpBdmN6ZnV2YXVSOFRlMWc5Vy03YVFOYVdfbkVBbDVxTkhjblNKUnBTZVBJOFVwZGVteldNeWo0UWx2dHlSV19VLWNUdVpCT0xIWHQycURFTEI3d0hTRFltbG9FU0MyRy1BakpLSmRzdS1tZXJWVHdxLTZRMDRPdHFRRzFNXzl4ZWw0YXJYRUE?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "Nebius Earnings: NBIS Stock Soars on 684% Revenue Growth - TipRanks",
+   "source": "TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanMzVVJWeE1lSWRYdm12X2ZUQVpqejNVTC1fYThrejlwU2stYUpfa0x2MnI0VHhIY0QxRUdxUU5aVDJyYVZtWERSMjNkRUp1SlpYRHhCVXBLWUxvekd3US1YWUlDeURrcHpfb0hTUWtWVzBodlhEelZkMWwyaGRGa1VVeUMySWptYVVOYQ?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "Nebius Stock Spikes After Earnings. The AI Neocloud Sees \u2018Unprecedented Demand.\u2019 - Barron's",
+   "source": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yd0h4WjhUNEh1S0JIbDFiM0dyU3JiSk0wa0JpaWQ0bG12c005aGlxOEFyYml2cnltN0xYcnJVQ2JvS0lMOGYxaDJhSXFuZXB1NTR2dzVqakpReG9kNld6TFBUcktCamNudU9EbGNQOEl2dVZWV3BPX1Npd0k?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "NEBIUS GROUP ($NBIS) Releases Q1 2026 Earnings - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWl6WlI1TlpRREtlUXAxQzZlaHBJd1ZKZ3h5cjV2RWZubXN6Z3cyWjdham1MVE5JdE0tQW1iN2kyZUQ1NUlIamc1M3p3dmxSTTJVbGhISXl2eTFsYTI3V0RrOW9pbzVBQmJPY2RwRS1naWhVYnNUNzRqb29kY0didDM5NlhCX0VlcDhkYVRB?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "Nebius surges as Q1 revenue surges nearly sevenfold (NBIS:NASDAQ) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdndDcHRfM2hDbHliVU54ZHo0TGhrcFVORDA5cGUxSXdZT3gwSHE0SmJINi1scTV4eVZiSjFuX3JLTHgyUFYweVotcEtMYnNCbXBDWHFqbi1RdDdCN2lSdFJjVk1xSWd2eWlLZFBRbk9RRGN4VnpKVThBcHhsczhNaTFkZzcwY08weldUdXF6ajNxcFU?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  },
+  {
+   "title": "NBIS Stock: Latest Updates, Performance Analysis, and Future Outlook for Investors - sebd.in",
+   "source": "sebd.in",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQklPaVpXQ3c0dmgzTm9DcU4tMUhScWN2ZjdJeWJ2QzFqcWtWdjY5MGxRcWh1MUtYMVN2SFF1MzIzR3VXM0pMMkxfYjZ5TUprUW5qWVVzM2ZTOWIxZnNid21YNUs3UTJuZXFNbHZwdWNWT183SDRiRWtwYmRVMWt3cFRGTVJpNklqZUxnZjRUeFJwRzdFUk9rS3JyNWc?oc=5",
+   "published_on": "2026-05-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Nebius Group reported Q1 earnings with 684% revenue growth and strong guidance, driving a nearly 15% stock surge. The company is also expanding its AI factory footprint and engaging in acquisition talks, reinforcing its growth narrative."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-13"
+ },
+ "social": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}
