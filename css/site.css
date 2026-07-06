@@ -177,6 +177,28 @@ h2 { font-family: var(--serif); font-weight: 650; font-size: clamp(26px, 4vw, 38
 .pick.locked { position: relative; overflow: hidden; }
 .pick.locked b, .pick.locked .sc { filter: blur(6px); user-select: none; }
 .pick.locked::after { content: "🔒"; position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 18px; }
+/* pricing tiers */
+.pricing { margin: 40px 0; }
+.pricing-h { font-family: var(--serif); font-weight: 650; font-size: clamp(22px, 3vw, 30px); margin-bottom: 8px; }
+.pricing-note { color: var(--ink-2); max-width: 680px; margin-bottom: 26px; font-size: 14.5px; line-height: 1.6; }
+.tiers { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+.tier { position: relative; background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 28px; }
+.tier-featured { border-color: rgba(47, 207, 150, .35); background: linear-gradient(170deg, rgba(25, 158, 112, .1), rgba(14, 20, 27, .5)); }
+.tier-badge { position: absolute; top: -11px; left: 28px; background: var(--green); color: #04120c; font-family: var(--mono); font-size: 10.5px; font-weight: 700; letter-spacing: .04em; padding: 5px 12px; border-radius: 999px; }
+.tier-name { font-family: var(--mono); font-size: 12px; letter-spacing: .18em; color: var(--ink-3); margin-bottom: 12px; }
+.tier-price { display: flex; align-items: baseline; gap: 8px; margin-bottom: 14px; }
+.tier-price b { font-family: var(--serif); font-size: 40px; font-weight: 650; color: var(--ink); }
+.tier-price span { font-size: 13px; color: var(--ink-3); }
+.tier-tag { font-size: 14.5px; color: var(--ink); font-weight: 600; margin-bottom: 16px; }
+.tier-list { list-style: none; padding: 0; margin: 0 0 18px; }
+.tier-list li { position: relative; padding-left: 24px; margin-bottom: 10px; font-size: 13.5px; color: var(--ink-2); line-height: 1.5; }
+.tier-list li::before { content: "✓"; position: absolute; left: 0; color: var(--green-hi); font-weight: 700; }
+.tier-featured .tier-list li:first-child { color: var(--ink); font-weight: 600; }
+.tier-cta { display: block; text-align: center; background: var(--green); color: #04120c; text-decoration: none; font-weight: 700; font-size: 14.5px; padding: 13px; border-radius: 999px; }
+.tier-cta:hover { background: var(--green-hi); }
+.tier-cta-note { font-size: 12.5px; color: var(--ink-3); text-align: center; padding-top: 6px; }
+.wl-micro { margin-top: 12px; font-size: 12px; color: var(--ink-3); }
+
 .paywall { background: linear-gradient(160deg, rgba(25, 158, 112, .12), rgba(201, 133, 0, .05)); border: 1px solid rgba(47, 207, 150, .25); border-radius: 20px; padding: 34px; text-align: center; }
 .paywall h3 { font-family: var(--serif); font-size: 26px; margin-bottom: 8px; }
 .paywall p { color: var(--ink-2); max-width: 480px; margin: 0 auto 20px; font-size: 14.5px; }
@@ -232,5 +254,6 @@ footer { padding: 40px 0 60px; border-top: 1px solid var(--line); }
   .proof-strip-in { padding: 24px; }
   .proof-strip-cta { width: 100%; text-align: center; }
   .entity-chamber { max-width: 300px; }
+  .tiers { grid-template-columns: 1fr; }
   .entity-badge { font-size: 9px; letter-spacing: .06em; padding: 5px 11px; bottom: 5%; }
 }

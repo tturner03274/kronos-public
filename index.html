@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/site.css?v=4">
+  <link rel="stylesheet" href="css/site.css?v=5">
 </head>
 <body>
   <header class="nav">
@@ -200,15 +200,55 @@
       <p class="lede">Members see the live list: every stock currently holding the engine's highest
         conviction grade, with reference levels. Below is a delayed preview.</p>
       <div class="picks-grid" id="picks-grid"></div>
+
+      <!-- PRICING (transparent, before we ever charge) -->
+      <div class="pricing" id="pricing">
+        <p class="eyebrow">HONEST PRICING, BEFORE WE CHARGE A PENNY</p>
+        <h3 class="pricing-h">Exactly what it costs, and what you get</h3>
+        <p class="pricing-note">We will not switch on payments until the track record has proven
+          itself in public for months. When it opens, founding members lock the launch price for life.
+          No hidden tiers, no surprise upsells.</p>
+        <div class="tiers">
+          <div class="tier">
+            <div class="tier-name">FREE</div>
+            <div class="tier-price"><b>£0</b><span>always</span></div>
+            <p class="tier-tag">Everything you can see on this page.</p>
+            <ul class="tier-list">
+              <li>The full track record and honesty wall</li>
+              <li>The nightly verdict, rebuilt from raw data every night</li>
+              <li>The engine room, live</li>
+              <li>Every score benchmarked against the S&amp;P, losers left in</li>
+            </ul>
+            <div class="tier-cta-note">No account needed. It's all public.</div>
+          </div>
+          <div class="tier tier-featured">
+            <div class="tier-badge">Opens when the record is proven</div>
+            <div class="tier-name">MEMBERS</div>
+            <div class="tier-price"><b>£12</b><span>/ month, founding price</span></div>
+            <p class="tier-tag">The live edge, in your hands each morning.</p>
+            <ul class="tier-list">
+              <li>Everything in Free, plus:</li>
+              <li>The live top-rated picks, before the market opens</li>
+              <li>Reference entry, target and stop for every pick</li>
+              <li>The morning brief in your inbox</li>
+              <li>Cancel anytime. Founding rate locked for life.</li>
+            </ul>
+            <a href="#join" class="tier-cta">Reserve your founding spot</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- CREATE ACCOUNT / EARLY ACCESS -->
       <div class="paywall" id="join">
-        <h3>Get the live picks each morning</h3>
-        <p>The current top-rated list, reference levels, and the nightly verdict, before the market opens.
-          Priced like a coffee, published like an audit.</p>
+        <h3>Create your early-access account</h3>
+        <p>Claim your spot now. We'll set up your account and email you the moment the live picks
+          open, with your founding price locked in. One email, that's it.</p>
         <form class="waitlist" id="wl-form" onsubmit="return joinWaitlist(event)">
           <input type="email" id="wl-email" placeholder="you@email.com" required autocomplete="email">
           <input type="checkbox" name="botcheck" tabindex="-1" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0">
-          <button type="submit">Join the waitlist</button>
+          <button type="submit">Reserve my account</button>
         </form>
+        <p class="wl-micro">No spam, ever. One email when we launch. Cancel your spot anytime.</p>
         <p class="mono tiny" id="wl-done"></p>
       </div>
     </div>

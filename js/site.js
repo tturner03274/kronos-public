@@ -150,7 +150,7 @@ function renderPicks(feed) {
 // Until then the form still works: it stores the email locally and thanks
 // the user, so nothing looks broken before the key is set.
 const WAITLIST_ENDPOINT = "https://api.web3forms.com/submit";
-const WAITLIST_ACCESS_KEY = "PASTE_WEB3FORMS_ACCESS_KEY_HERE";
+const WAITLIST_ACCESS_KEY = "f8324d6f-7ea7-4979-81ed-fc0044117dce";
 
 function _wlMsg(text, warn) {
   const done = document.getElementById("wl-done");
