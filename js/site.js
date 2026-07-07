@@ -104,6 +104,19 @@ function renderRace(feed) {
   ctx.fillText(e, W - pad.r - ctx.measureText(e).width, H - 8);
 }
 
+function renderRealTrades(feed) {
+  const rt = feed.real_trades;
+  const stats = document.getElementById("real-trades-stats");
+  const note = document.getElementById("rt-note");
+  if (!rt || !stats) return;
+  const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  set("rt-win", rt.win_rate_pct.toFixed(1) + "%");
+  set("rt-exp", sign(rt.expectancy_pct));
+  set("rt-n", Number(rt.n).toLocaleString());
+  stats.style.display = "";
+  if (note) { note.textContent = rt.note; note.style.display = ""; }
+}
+
 let wallShown = 25;
 function renderWall(feed) {
   const tr = feed.track_record || {};
@@ -244,6 +257,7 @@ loadFeed().then(feed => {
   document.dispatchEvent(new CustomEvent("kronos-feed", { detail: feed }));
   renderHero(feed);
   renderRace(feed);
+  renderRealTrades(feed);
   renderWall(feed);
   renderPicks(feed);
 });

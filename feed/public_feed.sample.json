@@ -285,6 +285,13 @@
    }
   ]
  },
+ "real_trades": {
+  "n": 73,
+  "win_rate_pct": 52.1,
+  "expectancy_pct": 5.64,
+  "payoff_ratio": 2.1,
+  "note": "Real trades, real costs, our top-tier signal only (score 70+, the same bar we sell). This is what following the picks would actually have returned per trade, not a scoring simulation."
+ },
  "equity_race": [
   {
    "date": "2026-06-06",
