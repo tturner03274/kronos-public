@@ -1,7 +1,7 @@
 {
  "ticker": "BHE",
  "company": "Benchmark Electronics, Inc.",
- "as_of": "2026-07-06T06:32:31.852511Z",
+ "as_of": "2026-07-07T07:35:42.239655Z",
  "score": {
   "composite": 71.86,
   "band": "high",
@@ -17,86 +17,86 @@
   }
  },
  "outcome": {
-  "scored_on": "2026-06-05",
+  "scored_on": "2026-06-06",
   "score_then": 71.86,
-  "ret_7d_pct": 7.16,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "ret_7d_pct": 6.01,
+  "vs_spy_7d_pct": 3.9,
+  "risk_adjusted_7d_pct": 1.47,
+  "ret_30d_pct": -0.65,
+  "vs_spy_30d_pct": -2.28
  },
  "news": [
   {
-   "title": "WEEKLY REVIEW: Sunday 17 May, 2026",
-   "source": "2paxfly.com",
-   "url": "https://www.2paxfly.com/2026/05/17/weekly-review-sunday-17-may-2026/",
-   "published_on": "2026-05-16",
-   "sentiment": "bearish",
+   "title": "Benchmark Electronics highlights its contract manufacturing strength. The stock reflects a diversifi",
+   "source": "AD HOC NEWS",
+   "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/benchmark-electronics-highlights-its-contract-manufacturing-strength-the/69706846",
+   "published_on": "2026-07-06",
+   "sentiment": "bullish",
    "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
   },
   {
-   "title": "Benchmark Electronics (BHE) price target increased by 36.33% to 85.17",
-   "source": "MSN",
-   "url": "https://www.msn.com/en-us/money/top-stocks/benchmark-electronics-bhe-price-target-increased-by-36-33-to-85-17/ar-AA23bkDo",
-   "published_on": "2026-05-16",
-   "sentiment": "bearish",
+   "title": "SA Franklin Small Company Value Portfolio's Benchmark Electronics Inc(BHE) Holding History - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1Vadk5pRWRsaVN4QW12dzFSdmoxTk5Nc3BZNkpOUGYySFU3VHlxSmZYM3c5NG9SWXBheFFaengzR2U4QlJreGdkTk5sUEV0MFlVSkl5ZTVlbFRYSDJsWldFNld2T3dLTEMtTGtrbXBNRVNvNHo3aHlUWDRyanlGVHBtUTlkYTBrSjc1YTBZNi1jQy1PSGY1Y0FSR1Q?oc=5",
+   "published_on": "2026-07-05",
+   "sentiment": "bullish",
    "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
   },
   {
-   "title": "Benchmark Electronics Insider Sold Shares Worth $1,954,065, According to a Recent SEC Filing",
+   "title": "(BHE) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3JESDl2NEtRaEY0N3gwN2EwNlo5dV9LazRmU18zNzdaTk43MF9BbmUxREpMUFExM3dJWHJmenNiaDdNMGIwWnJQSmhMSzhfckpweURDblQ1cHhkV0N5MFlDYW1EMGhFMEFIX2Njb2V0a3hNeG4zVHBkVlRsaDVxV0dSbmF2SWZpdmZUbEt4RkUxTlFiY2x0ZGE1R01vcmhpb2xodWhON1dXdGVHQUpYLXFWQnR2OXdtUEJ1ZFdsWTNUeFhJOEllMg?oc=5",
+   "published_on": "2026-07-04",
+   "sentiment": "bullish",
+   "catalyst_type": null,
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
+  },
+  {
+   "title": "BHE - Benchmark Electronics Inc Volatility & Greeks",
+   "source": "Finviz",
+   "url": "https://finviz.com/stock?t=BHE&p=d&ty=ocv&b=2&r=m1&ov=list_strike&s=70",
+   "published_on": "2026-07-03",
+   "sentiment": "bullish",
+   "catalyst_type": null,
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
+  },
+  {
+   "title": "BHE - Benchmark Electronics Inc Options",
+   "source": "Finviz",
+   "url": "https://finviz.com/stock?t=BHE&ta=0&p=w&ty=oc&b=1&ov=chain_strike&s=75",
+   "published_on": "2026-07-01",
+   "sentiment": "bullish",
+   "catalyst_type": null,
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
+  },
+  {
+   "title": "Benchmark Electronics Inc (BHE) Shares Surge 3.4% -- What GF Sco - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3VrTzBJakpLR0puTzRMWVhweFVOWUZMWWwzMkhlQlE5STdLQW9rX2x0OXRTWm9vN2Jtb0U1b1NJMTd2U2N4LU5MQmU4Z0ZzMHBSV0ZxR19ORTQ1bHZTQmliQ1RFNkxXTlNiYjgyamd3SkV6bXdHR1JPY2pKdmo1eGdBdHl3bUZhcG9qSGs5dnRVOGlfZndMeV9rOTNqM2dnLTNJVzQwcmlGRUxqdnBwOXVFWG9QSjBDM1lZQU1kT0JBQlZRRTY2RDlUNUU?oc=5",
+   "published_on": "2026-06-30",
+   "sentiment": "bullish",
+   "catalyst_type": null,
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
+  },
+  {
+   "title": "Benchmark Electronics To Go Ex-Dividend On June 30th, 2026 With 0.17 USD Dividend Per Share",
    "source": "Moomoo",
-   "url": "https://www.moomoo.com/news/post/70112880/benchmark-electronics-insider-sold-shares-worth-1954065-according-to-a?futusource=news_newspage_recommend",
-   "published_on": "2026-05-15",
-   "sentiment": "bearish",
-   "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
+   "url": "https://www.moomoo.com/news/post/72148022/benchmark-electronics-to-go-ex-dividend-on-june-30th-2026",
+   "published_on": "2026-06-29",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
   },
   {
-   "title": "Insider Sale: Director at $BHE Sells 22,989 Shares - Quiver Quantitative",
-   "source": "Quiver Quantitative",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEM4ZlJyTFFUVmZDcURFcE9DUUtQUDhLUERBTS1DR2tkcXluZjU0SWltb0ZTbXlfVUFTUTctU2RhN080bDctN1pycWg4SUlfb3dFZ3FRb3FsX3FMS1E2RlBCNGRWWGhaS0NHMVY4UTR5QV9jTDBJdTg0djN6Uk83aWFTOHNfa1c0YXR0N3FsOTZYbXM?oc=5",
-   "published_on": "2026-05-15",
-   "sentiment": "bearish",
+   "title": "Benchmark Electronics, Inc.(NYSE: BHE) added to Russell 2000 Growth Benchmark",
+   "source": "www.marketscreener.com",
+   "url": "https://www.marketscreener.com/news/benchmark-electronics-inc-nyse-bhe-added-to-russell-2000-growth-benchmark-ce7f5fdedc8cf126",
+   "published_on": "2026-06-29",
+   "sentiment": "bullish",
    "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
-  },
-  {
-   "title": "Benchmark Electronics director David Scheible sells $1.95m stock - Investing.com UK",
-   "source": "Investing.com UK",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGxlUlFxMk8yU0VxVzNWWDBYTjJ6aEp4LWdEUnJaa3VXV2ZqbzA4bkZmcXNpWjBZeDlpT2MwakpXN1BWLXhEVkxfOURWYVg0My1xOVRHeDVmTC1FQnhQN3pfXzFUN3FTcGFadVJkUDN2R3VJbkFIaTFyYWFsMjh4TEI3eFVYU1RMQ0tnNEVuS09pdVRXRlY1XzJDT21KbnJIQkg1cjN5M0w3TUk4WDNhUFRwVjU0c190TUdlYjYxVzFQNzVydExON3JXV1BmTEtialA5Sw?oc=5",
-   "published_on": "2026-05-15",
-   "sentiment": "bearish",
-   "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
-  },
-  {
-   "title": "Benchmark Electronics director David Scheible sells $1.95m stock",
-   "source": "Investing.com",
-   "url": "https://m.investing.com/news/insider-trading-news/benchmark-electronics-director-david-scheible-sells-195m-stock-93CH-4693509?ampMode=1",
-   "published_on": "2026-05-15",
-   "sentiment": "bearish",
-   "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
-  },
-  {
-   "title": "Director at Benchmark Electronics (NYSE: BHE) sells 22,989 shares in open-market trade",
-   "source": "Stock Titan",
-   "url": "https://www.stocktitan.net/sec-filings/BHE/form-4-benchmark-electronics-inc-insider-trading-activity-d5700cab7f2b.html",
-   "published_on": "2026-05-15",
-   "sentiment": "bearish",
-   "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
-  },
-  {
-   "title": "Director at Benchmark Electronics (NYSE: BHE) sells 22,989 shares in open-market trade - Stock Titan",
-   "source": "Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0ZsY00tUmd2MktpZEpYaGxYVXQxcUVhN0UxWWZ5RW5pTXhJOXhSRXd6NU5lbGdERHJmSXMzWDlscE9xcTRkNElMby1VbHFkQnlpVF9aWGRiT0lCelpySTBORHR0OWFGbC1wOUg4UTFEam81MzF4eVNoanlVSzJWcno5LTl5Y016bHZaZ2VuZTZTTDhfY25qeXB4cldaREZWUHFiRzhpODZKYmp1TFlBQV94Z0NSQW5TeEE?oc=5",
-   "published_on": "2026-05-15",
-   "sentiment": "bearish",
-   "catalyst_type": null,
-   "summary": "Multiple insider sales by directors at near 52-week highs, combined with GF Value indicating significant overvaluation, outweigh a positive earnings beat and price target increase. The bearish insider activity and valuation concerns dominate the narrative."
+   "summary": "Benchmark Electronics secured a major AI server manufacturing role with HPE and expanded its partnership with Ouster for lidar production, while raising its 2026 revenue outlook on AI and semi-cap demand. These concrete, company-specific events drove significant stock gains and are supported by multiple primary sources."
   }
  ],
  "catalysts": [],
@@ -116,6 +116,7 @@
   "captured_on": "2026-05-06"
  },
  "social": null,
+ "premium_levels": null,
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

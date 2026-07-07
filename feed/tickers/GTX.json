@@ -1,0 +1,122 @@
+{
+ "ticker": "GTX",
+ "company": "Garrett Motion Inc.",
+ "as_of": "2026-07-07T07:35:37.834307Z",
+ "score": {
+  "composite": 74.72,
+  "band": "high",
+  "scored_at": "2026-06-06T04:32:33.200903",
+  "explanation": "GTX (Garrett Motion Inc.): HIGH evidence quality (composite 75/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.5,
+   "catalyst": 65.88,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 84.6
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 74.72,
+  "ret_7d_pct": 5.83,
+  "vs_spy_7d_pct": 3.72,
+  "risk_adjusted_7d_pct": 2.86,
+  "ret_30d_pct": 2.91,
+  "vs_spy_30d_pct": 1.28
+ },
+ "news": [
+  {
+   "title": "Control: Resonant PC requirements revealed",
+   "source": "Notebookcheck.net",
+   "url": "https://www.notebookcheck.net/Control-Resonant-PC-requirements-revealed.1314769.0.html",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "Control Resonant release date? Yeah that's nice, now move aside so I can look at its system requirements and ohhh that's a lot of SSD space",
+   "source": "Rock Paper Shotgun",
+   "url": "https://www.rockpapershotgun.com/control-resonant-release-date-yeah-thats-nice-now-move-aside-so-i-can-look-at-its-system-requirements-and-ohhh-thats-a-lot-of-ssd-space",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "Hogwarts Legacy Digital Deluxe Edition for PC for $9 + digital code",
+   "source": "Dealnews.com",
+   "url": "https://www.dealnews.com/Hogwarts-Legacy-Digital-Deluxe-Edition-for-PC-for-9-digital-code/21837326.html",
+   "published_on": "2026-06-03",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+   "source": "Github.com",
+   "url": "https://github.com/c0dejedi/nbd-vram",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "Garrett Motion Shareholders Reelect Board, Back Executive Pay - The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbWpxT3E4XzF5ajdUeUlhT2FjdnhCOFBXYWh6U1hJZDJJQVdvM2lWd2Nsa2hSSHYtTy05Z1pqNndDRUh3YzExSFBXVFIxc092ZHNlVzJZMHVXeVcxZnFrdmY4MGp5aV85c0hTSkhUVmNhZnZNdlYyM2RrQlZpalBkc1hUSmUyVk1UYmdUWERBaU12dTFjeVNGYTZVeXBlTUpYTkx2REd4SW81M1JVVDl5QmhQSnZBWTdtWTAwOWlrZDdKRmk2VE5wN0swTmY5ZG9TSktDMURudTdyQWR1?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "LEGO Batman: Legacy of the Dark Knight PC Performance Analysis & Tuning Guide \u2013 How To Get Best Experience On PC",
+   "source": "Wccftech",
+   "url": "https://wccftech.com/how-to/lego-batman-legacy-of-the-dark-knight-pc-performance-analysis-tuning-guide-how-to-get-best-experience-on-pc/",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "llm-reasoning-quality added to PyPI",
+   "source": "Pypi.org",
+   "url": "https://pypi.org/project/llm-reasoning-quality/",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  },
+  {
+   "title": "Computex 2026 Live: Don\u2019t Miss a Single Reveal From Nvidia, Microsoft, Intel, and More",
+   "source": "PCMag.com",
+   "url": "https://uk.pcmag.com/topic-3/165302/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+   "published_on": "2026-06-02",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Garrett Motion (GTX) reported a Q4 earnings beat with revenue exceeding estimates, driving the stock to an all-time high and prompting bullish analyst coverage. The company's strong performance and upbeat guidance underscore its growth trajectory."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "market_cap": "$4.89B",
+  "pe_ratio": 15.286549,
+  "forward_pe": 11.785233,
+  "revenue_growth": 12.2,
+  "eps_growth": 63.3,
+  "beta": 0.695,
+  "analyst_consensus": "Buy",
+  "price_target": 28.5,
+  "profitability_score": 60.0,
+  "balance_sheet_score": 20.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,130 @@
+{
+ "ticker": "ENLT",
+ "company": "ENLT",
+ "as_of": "2026-07-07T07:35:45.190855Z",
+ "score": {
+  "composite": 72.52,
+  "band": "high",
+  "scored_at": "2026-06-05T23:23:53.938190",
+  "explanation": "ENLT (ENLT): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 92.5,
+   "catalyst": 62.2,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 81.0
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 72.52,
+  "ret_7d_pct": 5.22,
+  "vs_spy_7d_pct": 4.65,
+  "risk_adjusted_7d_pct": 3.86,
+  "ret_30d_pct": -2.14,
+  "vs_spy_30d_pct": -4.0
+ },
+ "news": [
+  {
+   "title": "Enlight Renewable Energy Ltd. $ENLT Shares Purchased by Altshuler Shaham Ltd - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaW9LVjVOOWhWSkUzNlh1Uk9DamtsMU5ka1dUTXZwT0hMWWZHekZCcUlNd0N4bG9Pd3dwNkdScGpsUkpsMElOWk8td3d2ODE3eHBHT1ZZX2s2M1BOVWd0dDlUX3VzSGw3dk1BT0tIRGJkMXBmS1dIQ1RLLTh0WGhfdlFkcW5ocmkxeWFSY0pZU3g0bjBiZVN5OEVsUHRnZF8xZ1pQc0ljbnNaaC1wU0dYMmU4RmV2TktVV0xwNXY3cHpvcnhUamNpTERoNnVEVC1Y?oc=5",
+   "published_on": "2026-06-18",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "Enlight Renewable Energy Ltd (ENLT) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mYUQwZS1TVHg1QmVwU2t1Uk5EQUE3S1AxaG9HUHhVZkxHaVRDY1BVN0NaMnFEZVBqZWlZcnZ2TDUxaElnckN3aHluQU5KaGFtc1BaLS1uZUtEXzN6NnVxS016cXo0WWJPS3VKS216UQ?oc=5",
+   "published_on": "2026-06-18",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "Enlight Renewable Energy Ltd (ENLT) Stock Down 8.4% but Still Ov - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1hlWjQwcVY3Qm43eVR3aC04c2pISGRKRXBHMGdzN0VpYl9TU19PLTd6TE8tNGNndDZqQU9aTnZTRHVHMVUzV1ZVcGJWZVFPT2NIZEMxYURudU5kVVNaYVR1SkVKYThrVmlvR2UyYXJoSUpucGNuMy1CSjZXTUt0b1hEZ1ltdlQyU0F0bl9oU1FlMnpRaWZWN0VRVGdHcDNzSF9EdDk3amUyaml1S1UydkV5RzVQakFnaUVwVko2RFNOSkZNQ05rV1RPcE8wYkk?oc=5",
+   "published_on": "2026-06-17",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "Enlight Renewable Energy Ltd (ENLT) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yYWhJb21qS000T3NOa08xT3g2VzNJMFIyZ3BvM3g3eU1rSGhNUWdSc25iMjJVaThKcWJLSWtyaktyREhRa2tVZ3BBcy05ZnBpQndDQ3NMMXlOR0FpTTFUdFR0bGFZSzZ5dVJRdWpaU2w3dGZXWjlHXw?oc=5",
+   "published_on": "2026-06-17",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "Enlight Renewable Energy Ltd (ENLT) Stock Down 8.9% but Still Overvalued -- GF Score: 60/100",
+   "source": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/8919526/enlight-renewable-energy-ltd-enlt-stock-down-89-but-still-overvalued-gf-score-60100",
+   "published_on": "2026-06-16",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "Enlight Renewable Energy Ltd (ENLT) Stock Down 8.9% but Still Ov - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVZRNTFFVFpKbmI1WHROWFZQVXdyQVNGVFZFaXBPSXpOSTNScTNiTWJMQll2UDAxeXVVeG1fb3ctRTY0N0ROVDFLYjFBN2NrWExoRUUzZWRtcDJJbTJOUkJORDhrTnJPRlRTUF9wdV9VTDQ3N1o5VmVZTUxXSmVKNUgxeHBtZldSeDBNQXZMZVdLbnJUVkd6VzdKMUVlQV9MMnViaGpTQ3pJMUIwTUxuV05KNlc2RTlHVnY3X3NjaDZqRGltTjJOVXBtZFp2TkE?oc=5",
+   "published_on": "2026-06-16",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "Enlight Renewable Energy Ltd (ENLT) Stock Down 8.9% but Still Overvalued -- GF Score: 60/100",
+   "source": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/8919526/enlight-renewable-energy-ltd-enlt-stock-down-89-but-still-overvalued-gf-score-60100?mobile=true",
+   "published_on": "2026-06-16",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  },
+  {
+   "title": "$ENLT stock is down 9% today. Here's what we see in our data. - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3A1emkyYkdQWFB0ckxoSnFCa3lqYzlVaTk0TDFRSnhxc29LNnBqR3dlOFkyb25OTVEtQ2NXSFZjMVpyYzBCbF9TamVYaEYzS0tOZW95dFRfekdDLTYweE5LZDBVa3VXWlFqclN3OXBIRjRpQ2JkMGZUdWFvRmRJR0lmSHd3Ry14WDNtcE9QUXR0V3lOWGVIRkp2VHhYamxZLWc?oc=5",
+   "published_on": "2026-06-16",
+   "sentiment": "bearish",
+   "catalyst_type": null,
+   "summary": "Despite a strong earnings beat, ENLT faces significant insider selling and valuation concerns, with multiple analysts flagging overvaluation. The stock has dropped sharply on insider sales, and the consensus rating is only 'Hold'."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-27"
+ },
+ "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 90.98,
+  "stop_price": 86.431,
+  "target_price": 122.1861,
+  "exit_price": 86.3014,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-06-17"
+ },
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

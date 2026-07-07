@@ -1,7 +1,7 @@
 {
  "ticker": "PS",
  "company": "PS",
- "as_of": "2026-07-06T06:32:32.251217Z",
+ "as_of": "2026-07-07T07:35:38.639195Z",
  "score": {
   "composite": 72.41,
   "band": "high",
@@ -17,13 +17,13 @@
   }
  },
  "outcome": {
-  "scored_on": "2026-06-05",
+  "scored_on": "2026-06-06",
   "score_then": 72.41,
-  "ret_7d_pct": -6.15,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "ret_7d_pct": 4.83,
+  "vs_spy_7d_pct": 2.72,
+  "risk_adjusted_7d_pct": 0.8,
+  "ret_30d_pct": 5.55,
+  "vs_spy_30d_pct": 3.92
  },
  "news": [
   {
@@ -116,6 +116,15 @@
   "captured_on": "2026-06-04"
  },
  "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 33.76,
+  "stop_price": 32.072,
+  "target_price": 45.0966,
+  "exit_price": 32.072,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-06-11"
+ },
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

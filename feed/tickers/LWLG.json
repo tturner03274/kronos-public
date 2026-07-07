@@ -1,0 +1,130 @@
+{
+ "ticker": "LWLG",
+ "company": "Lightwave Logic, Inc.",
+ "as_of": "2026-07-07T07:35:45.234556Z",
+ "score": {
+  "composite": 69.04,
+  "band": "medium",
+  "scored_at": "2026-06-06T04:17:08.360935",
+  "explanation": "LWLG (Lightwave Logic, Inc.): MEDIUM evidence quality (composite 69/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 94.0,
+   "catalyst": 65.64,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 47.6,
+   "asymmetry": 74.52
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 69.04,
+  "ret_7d_pct": -2.14,
+  "vs_spy_7d_pct": -4.25,
+  "risk_adjusted_7d_pct": -8.47,
+  "ret_30d_pct": -28.16,
+  "vs_spy_30d_pct": -29.79
+ },
+ "news": [
+  {
+   "title": "$LWLG stock is up 7% today. Here's what we see in our data. - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVFZZ29XVW9iQ1l5WUlzaWcxeUtOeURuUDdhZWRmSzFhRU5pNGdWTERuX2dQUVYyTjNtUE5zWWVyZmVsVFNVZVgxZi0zV09RX0xvcDZtdHlJckp6YjR1TkZPYmo3emRNbWxteUg4ZHJ4X1Q4Y0ltUlNTRXdIWW93NDE2T3BVSEVOZWc4M01BTzRscFVSbXV3RUJzQ1JYams?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "LWLG Stock Surges As IP Strategy Marks Commercialization Push - StocksToTrade",
+   "source": "StocksToTrade",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QNnlrQm0yYmFDbFpmQ3U5dEwzWVBuTHI1NU5KdHBqNmhWeHpjTkVaMWw1LXRvUjAtOFpQWk5qdU1NZHQ2ei1PalV0eG15S0VMNDFzdnpFdlNSdUxnTEZOSlVfRUtOdTVrUldwbXBuYk1UY1Y0b0IyQkFZTkw?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "Lightwave Logic opens May 13 Q1 webcast to investor questions - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3NKanp1bFZqS2F1YlRacmVSalltOUZlN1MtdzZYdk9uRXEzRWVTTDktWjhOWTdFNHloY3JKTmZQdDU3TmpYUUNRb29VZ2JfcHpja2JHc1JJWHlfb3ZNeDlDQ05FbkpWSUhtWTJnQ1JoX3c0U1FIdjNHSUJ5M0ZPWS1EblU5aU95RjhVeHhsazdpdks3Yk9INjNjdG5FUXVaSDBnZDk0dVpCUmw5SnNVQUQxdTN1YmxTaU1VQWFRS0U?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "LWLG 260515 14.00C (LWLG260515C14000) Stock Options Chain | Quotes & News - Moomoo",
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlYlB5MFduSHg2N2I3eWcwMTlkcXd5d0dNNk5aU1BTY0dfTElRYzI5Mi1nRHowRUowUVpVM1VzYThOVzJYdHhuN1FhdF9xRlUtdFZjVlUwcjg1VEFuZ0ZZ?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "symbol__ Stock Quote Price and Forecast - CNN",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81QUNpWXplTHhFX0EwR1RPR2h3UzY2dEF5TTBYbHNELWtXMXhDaU0xdzhweDEwWlFUN2JYSmVrVlZVQmo3WE84UlhiVXNDSEkx?oc=5",
+   "published_on": "2026-05-03",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "Does Lightwave Logic\u2019s (LWLG) Design-Kit Integration Quietly Redefine Its Commercialization Pathway? - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTE11b2RTamp1SzhCV1dRZ3pWUDdjcWZ4NzZnTkQySkk0S3RZZVNEdWZJaENBNU5wcDNLVlExcS14WHE4YW12TlNIelk4T2JON184MUhuMDllTWdIWWFhZWdKTjNJUFlUbTdtQ3lfOU1rTHRXT2tlZDFZRUUtRndKc3ZCaFUxNFNuSXU3cUk5dDhaa25vTGVjcS1EUXUtOVR6dTJRcnNKVnZFVVFZVnBERG9rQ0tkMXZsM0JSdFhEMzhtM3BVb3hfVVpB0gHPAUFVX3lxTE9TVktndXQwMlU3T3RiVi1YZTlfWFhITE1ZdGtLWDVWQ09mTkhyU0kxdFFvWVJ3NDFVQXJOSmxwX0NHQkFnd0ZrbHRpS2M3TkgzR0tENTd6UUNad2pxSkt1eW9wVkVXZFpycWNfbXBnRXZkakVTSlF4cGpDOUM5dHBfSVROcHhsalJkZk5iU3MzWWNpaFRrNm10ZGtfLXRRbnlZZzRqV253MDNscUtsVmtIN2VSWklFMHNCMmd1WXlVU2VfaUFRNmhrSlJyQnVqVQ?oc=5",
+   "published_on": "2026-05-02",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "Lightwave Logic (LWLG) Soars to 4-Year High Ahead of Business Updates - Insider Monkey",
+   "source": "Insider Monkey",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm9jNzVUQk5mMzF4a2hmSmhaMERHUGxieTNBNTVpRk83cy11V0o2U2RHUV9ENnBNMlpTc09CRG1MMDlsLU5TcVJ5Qi1jam94dVo5eklGWTljdGlfdjBfSl9zTXRjaV8yZzV3YThnbVZ2Z1U5dHBaUXJpN0kzZGpubTJfcTFYZDJnYl96WG9STEFycmU1VlZSNVBHb1RlMmtNN1A1NjBLWFZid1FZVEZrZNIBuAFBVV95cUxNNDBCVFMta3l4ZEM0Q0NUc2luQXZyUHVsZ2wtOUZIUnF0cHZodldHOWJKMUg5dWJDTTlKb2gyYnpSUFRXQ3RfZUhKZXk4TURoUEtSanEyT1lkbWE1aThIM0VkOHZ1bzRiSGdOelVGdldSQ1NTNE1NNDlvMWlsejFFWF9IcXgwRTYtTEJnT0VKbjRGZUFUWm85TTR4TEVDWUZzRU5HUVJ4WFRBWTlmaXEtY3RQVGZfaFVT?oc=5",
+   "published_on": "2026-05-02",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  },
+  {
+   "title": "Lightwave Logic (LWLG) Shares Surge 18% on AI Boom: Is It a Long-Term Buy for Photonics Investors? - International Business Times Australia",
+   "source": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0hYQW5uUHVhajRERTBPR1FZc3dYN2VFWlY5NklGY1h1VkNzZzBxVnVYeFctOEFaYURGakJpWnBrYlhXT19LeWl4UVdhYmx1cjAwbjZnRl8wRkFENGl3Yk82WklPSXlzR2VLNjRGcm44c0F3R3hKMEhuMFlHTkZKREt6WXhlSUUzWlczMVZmTDR1Y19vNVdUN0xRNFNfZDl5RTZldUxQTXlNMmhRTUdFX19qX2d3cEE?oc=5",
+   "published_on": "2026-05-01",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "LWLG shares surged to 4-year highs on AI-driven demand for photonics, with multiple insider sales and a design-kit integration signaling commercialization progress. The stock's momentum is supported by strong AI theme and partnership news."
+  }
+ ],
+ "catalysts": [
+  {
+   "event_type": "earnings",
+   "event_date": "2026-05-12",
+   "eps_estimate": null,
+   "reported_eps": null,
+   "surprise_pct": null
+  }
+ ],
+ "fundamentals": {
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "market_cap": "$2.52B",
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": 594.5,
+  "eps_growth": null,
+  "beta": 3.241,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,0 +1,122 @@
+{
+ "ticker": "MIRM",
+ "company": "Mirum Pharmaceuticals, Inc.",
+ "as_of": "2026-07-07T07:35:43.053884Z",
+ "score": {
+  "composite": 73.94,
+  "band": "high",
+  "scored_at": "2026-06-06T03:46:19.105218",
+  "explanation": "MIRM (Mirum Pharmaceuticals, Inc.): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 94.0,
+   "catalyst": 65.64,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 82.8
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 73.94,
+  "ret_7d_pct": 7.92,
+  "vs_spy_7d_pct": 5.81,
+  "risk_adjusted_7d_pct": 7.5,
+  "ret_30d_pct": 30.27,
+  "vs_spy_30d_pct": 28.64
+ },
+ "news": [
+  {
+   "title": "Mirum Pharmaceuticals, Inc. Q1 2026 Earnings Call Summary",
+   "source": "Moby.co",
+   "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-mirum-pharmaceuticals-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss",
+   "published_on": "2026-05-07",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "Mirum Pharmaceuticals (NASDAQ:MIRM) Stock Dips After Q1 Revenue Beat and Guidance Raise, Despite Massive IPR&D Charge - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZlhubGhfX05NRWxxcTh4dGRMdC10bjhWby1qUGFJV1BpRVZzSVJfNi1wVXlvUnFueERzZmwwT203TUJ1eVRQekJFV2lLbnY2RWJhcDZDWUhHT29UYnJ5R2EyS0xTWlZ4cWZkRkdnbHdkZ0xPczZvdHhyQl9nU0dVU3hxQ1ZadmxfY3RCQlpDRG9oUUs3T1pfUUhXMFhNX2o1TVNWUy04VTl1UEo1Yi12b0hZRXVoWWRUcVA0M2F4YzZWNEZDbVZEVTFUMGhxYWprSEhHdjlGT3NrNHlfYVQ4d2RLVEYxR3puY3EtNzVIT3VMU0RlMzhr?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "Bluejay buy drives Mirum (Nasdaq: MIRM) to $790M Q1 net loss - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGNBRHlEYk8xNWd3SXdqd2Y3dGk1VmhlN2d6ODNwZEhPNTdqZTFMbHdjRWlpd0VzazZhRTQxR00tOVZ0RVlLTV9jVmJlXzd3ZXFkTWM2ajJzWEc2VzBoZXdXX083QTR6NDFhM3R2c0FhQnd0WWVaa3hmcHRZTFlaUmt3bkhhblFQcUZUYmN4ZFFBYm9NV2lmb2R3VmJ3aWVMM0FodVhDdTNxZ1NrdWNjUDBWWG42UVZFS1E?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "Mirum adds rare-disease drug rights as FDA sets Sept. 26 decision - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaUZiVVFvZHUta3c2S0k2ZmVVMkZMTU5WRjZobS1LbVFjUVVWUjllZl9TTlY1THo5VFlOUVJad2pmUW4td2xVYmZrRVNVTmE0UjRrZ1pNQXM0M01QNDVRSG9oMURTdEU5THBRVUl5TFB6TWlwMDZ1WmJ6QVdqZnZsOEtfN3g1OU82SnFmTl9XUHpteU1sd1h4TmFzZnhSeUZWMU5iSEIzQWlOZzlfUHJsa1pFcmZxSDYwQy14azVB?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "Why Mirum Pharmaceuticals (MIRM) Is Up 12.6% After Positive Phase 2b Volixibat Itch Data in PSC - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUjRkUWJsRm9wNVVOLXR1dEFrQlo4aGU2SXAzVWx6NDJ1NHdBekVTbkdURllINmtrb3ZaQXFSMldNb05IS2g5VlM1V2NWal9VLWY3V05SNklfSm5fczRjaEZiNU02UlVvRU1tdGlWVVhhaElhTnJWMzRPYW1fa2pfRkFNZ0tqTUdiM2htNnNWdXBKanpnMTNWbmo1bTFhV3poelJ3NnVueHJncEZvcDZSR0s4SW1oMDQwdnlhWTM4b3RGdG81ZGNuSzB2Q2hxa0pfUTNTT2QwZWktYWgwMXZscE12LU9TM0ZpZ1RZ0gHwAUFVX3lxTE1rZVpQT0hUQUhJa2RkeEdfdXQ1Y3ctLWJvOVkzNkp2NkI4ZTc4b25SOUptbkVDNDFmdkxrWHo3SElOS2t0OWhGWUp5Q3l0TFA1bVN2Q25uM0hEanZ6RUVieXJJU3ktaXhZQjdhQkFvX0ZFZlc2cmtsbHhOUUJNOXRRUjNMYXo4SjhOQnJjS3FRVHlnekNQejVYMkpLUVdGVXFSbWN6NldtMFlSdjFZOUxhY2ZDeXNJdmtoVnBNWk92eDl3WjkwWnF5S1YzUXRiemxDUjc5U0lIbXdVYTJzY0JMUnNvVzI1MUszSURLMTl0eQ?oc=5",
+   "published_on": "2026-05-06",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "MIRM stock clocks best day in 4.5 months on liver disease trial data: Retail eyes buyout at a premium - MSN",
+   "source": "MSN",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN1FHeDExNE1iRVg0ZG0yaTBMOG1XNmRGUmhEeF80UFlRRTBmQUFORHpaY05kM1hzVW54WWlRTk41X0VKQ0dTMURvZGVxYUFTa3hxSF9sRzVpYUpkRHpMTHNQN0JxdVl0VWFHX1FGZ3N1Nk5oNWxmanlRazlrRDVUWXVWYkcyclYwVENBbnRhU0FHbXBOU2FMRUxxbG5nbGNpTlNzdGE5cC1SbTVPdE12TDM2RGNlbzVSdUV3S1VuMnJlWEpPZTZtTUs5aDdmZTVxQWc4Q2ZHLU9FaFZ3Y2NtVmsyNVA?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "MIRM Stock Clocks Best Day In 4.5 Months On Liver Disease Trial Data: Retail Eyes Buyout At A Premium - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVTlGdThNQXZ3LWstN0s2d09UVUNqRTJmQ3A4Y01rQXNuUERua2RTU2dMZ01fZ3dRVy1sZ3E3QWtLOGxZREtfM2k0WDRPSWVVZFhGS1J6SmtEVjQ3dWQ4R05MeGFxNWZRRzFvZm1MTzhuN0V0S09jc2QzaDFpV2RmSURfMFl4d2xUTm9XYk1jOTRNT1djRkxhRHlWZl9SNlQ4R25ndXpnVVdpSlRMc1NFeVUyN2RZMFI0V1hZWWNBRXg5SWppWXIzMVFGbk5IN2x6TzdadA?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  },
+  {
+   "title": "MIRM SEC Filings - Mirum Pharmaceuticals 10-K, 10-Q, 8-K Forms - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vR2FQbXFnMmM4RVlQYTY2OWF3Yi1mSlVjZ1FBZVhIY3BUY1dIZUY3ZjUxcTFsRkhjOUZEUDd3NmNGTmNLWkVXV0RucmYzRzIzcEI2cFN3aXZnMTc0MU42V0dwSDkwdw?oc=5",
+   "published_on": "2026-05-04",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Mirum Pharmaceuticals reported a Q1 revenue beat and raised guidance, despite a large IPR&D charge from the Bluejay acquisition. Positive Phase 2b data for volixibat in PSC and strong analyst ratings with significant upside potential reinforce a bullish outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": "$6.45B",
+  "pe_ratio": null,
+  "forward_pe": -12092.571,
+  "revenue_growth": 49.8,
+  "eps_growth": null,
+  "beta": 0.519,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 138.18182,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 60.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

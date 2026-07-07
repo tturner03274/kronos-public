@@ -1,7 +1,7 @@
 {
  "ticker": "AGX",
  "company": "AGX",
- "as_of": "2026-07-06T06:32:32.275048Z",
+ "as_of": "2026-07-07T07:35:39.455782Z",
  "score": {
   "composite": 72.63,
   "band": "high",
@@ -20,10 +20,10 @@
   "scored_on": "2026-06-06",
   "score_then": 72.63,
   "ret_7d_pct": 11.11,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "vs_spy_7d_pct": 9.0,
+  "risk_adjusted_7d_pct": 7.88,
+  "ret_30d_pct": 16.98,
+  "vs_spy_30d_pct": 15.35
  },
  "news": [
   {
@@ -116,6 +116,15 @@
   "captured_on": "2026-06-05"
  },
  "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 694.72,
+  "stop_price": 659.984,
+  "target_price": 930.5079,
+  "exit_price": 659.984,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-06-08"
+ },
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

@@ -46,12 +46,13 @@ function renderRace(feed) {
     if (canvas) canvas.parentElement.style.display = "none";
     return;
   }
-  const bK = pts.find(p => p.kronos_return_pct != null),
-        bS = pts.find(p => p.sp500_return_pct != null);
+  // The feed already ships cumulative proof-account and S&P returns from the
+  // same Track Record source. Do not rebase again in the browser; that creates
+  // a second set of growth percentages that no longer matches Kronos.
   const reb = pts.map(p => ({
     d: p.date,
-    k: p.kronos_return_pct != null && bK ? p.kronos_return_pct - bK.kronos_return_pct : null,
-    s: p.sp500_return_pct != null && bS ? p.sp500_return_pct - bS.sp500_return_pct : null,
+    k: p.kronos_return_pct,
+    s: p.sp500_return_pct,
   }));
   const lastK = [...reb].reverse().find(p => p.k != null) || {},
         lastS = [...reb].reverse().find(p => p.s != null) || {};

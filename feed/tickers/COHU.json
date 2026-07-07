@@ -1,0 +1,130 @@
+{
+ "ticker": "COHU",
+ "company": "COHU",
+ "as_of": "2026-07-07T07:35:45.204860Z",
+ "score": {
+  "composite": 65.06,
+  "band": "medium",
+  "scored_at": "2026-06-05T23:08:29.436407",
+  "explanation": "COHU (COHU): MEDIUM evidence quality (composite 65/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 77.0,
+   "catalyst": 62.92,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 62.4
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-05",
+  "score_then": 65.06,
+  "ret_7d_pct": 23.13,
+  "vs_spy_7d_pct": 22.56,
+  "risk_adjusted_7d_pct": 21.42,
+  "ret_30d_pct": 17.85,
+  "vs_spy_30d_pct": 15.99
+ },
+ "news": [
+  {
+   "title": "Here is Why Cohu, Inc. (COHU) is a Buzzing AI Semiconductor Stock to Buy in 2026 - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMW1kNjJzOEFwRkswbFJ2N2JWanF6YlROcDNfRTc5U3pWd2ZvVWxtWDRhUEZIVnFGNVdxRHBFUGk5aVhaaVdxM25DeUZob01tZkVYVXZ3azRodHhMelBvcnhmVld3YWdERnZseGF5VUFZMTJxanI0OVdCeEt5b2JCeGlZYVRxU3ZPYTJGeWQtWncxdjR6Q0JETEJ3?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "Here is Why Cohu, Inc. (COHU) is a Buzzing AI Semiconductor Stock to Buy in 2026",
+   "source": "Yahoo Entertainment",
+   "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0501f46e-eeaf-408a-bc54-67569509046c",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "Cohu stock hits 52-week high at 52.55 USD By Investing.com - Investing.com South Africa",
+   "source": "Investing.com South Africa",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDRqbDRieEdiOGdhR2lTakpJTkNDXzFkenVvWktTbVdrdE1vS1dRcWQ2Rkd6dVdQeFZvX2xBQWRZcVpiRVBrbFBzRkVrc3dWeG44UG55azFBZjF5N1VYUEVMaHhuSThucDV4WElIaTBHdWtrTi16aG5kc1BEZW1pNEVTWjZQUzk1X0VQaDhnc2p4UGtYYVdoc0UtTQ?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "COHU Stock Climbs As AI Orders And Targets Jump - StocksToTrade",
+   "source": "StocksToTrade",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmR2ZuWDA4UXRPZXlTYXZ3WXlockdOOXJpNFd1N3EyV1E5NXJweWhzSEQxbGtDb1dJaG9sOTYxN2Z0c2ZaYV9ZN3c3M1NrM3hkVXAxMW9VQ3dGeEFHZVM0SU42WGhiR2RVMHVDaXdR?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "Cohu stock hits 52-week high at 52.55 USD By Investing.com - Investing.com India",
+   "source": "Investing.com India",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmlIbnpfWjV0WV9WOWp2cWEtRHRNSDVzWndOZFkzbDczME9DTS1ybjRPSGN5ZEZTSXVyUm45N3lTek1GVF9TZnhFcWJQT0NMOUQ5dXdhbDFZUUlpcVBVWGt4clNmMVFMT3hHVWlDZlZHUXlTT3R6Nm5qNl92ak91VGt3clYyT3F1dENlVVJ4TjJuak5HYUk3T2ptdw?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "1 Under-the-Radar AI Semiconductor Stock to Buy Hand Over Fist, According to Wall Street - The Motley Fool",
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzlCSUFJNDc2X0dHVXlMZXlUVWhtM1VxMU9WdnlrOHRGZU1KbDY3NUJTelY4bVhDaTkzb2Q0Sks4bU1VTUZkUlNaRGY2OFVZXzRBQ1pDb1dxOEFUWlpqVzczNXNvdi1xT2EwQUQwakQyNWZBWUN6UkJNQW1jdl8ybFVxRUNkQ2hPX2xuMnpSd2NiTldnc0dscw?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "1 Under-the-Radar AI Semiconductor Stock to Buy Hand Over Fist, According to Wall Street - The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRUQxS2MyNS1fVnI2UmEta2tiVGNsblU3dWl1Vk5DSHlKSktDbkpoSkxBeEYxRzcydEZkOTZrNk9PSGRHNFAtQXlndWpOYmdHV3V3UlVzQ1lMck4xVjkxTnY1STZnY0lZdTVZbURNYWg2NW10YzdnRW0xMy10ZmRUeEdfeWc4eFdvbVRnSHhSOS12Z3NGNGd3MENIX19qUHpMbl9mcmlxMEhITmplV2w0M01PX25NeFQxZEhpVURnRDFFR3VsekEwaVV6R2VtSHVpNVBQRzFPekl2UFlkd2lRZGZxQUxuUXNHSHFmcUZTdDVoV3JfQ1Y0enZB?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  },
+  {
+   "title": "1 Under-the-Radar AI Semiconductor Stock to Buy Hand Over Fist, According to Wall Street - The Globe and Mail",
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcmtzQU9EcHF2ZGVIZWRENTdjb2J3TkdqWUZlbEFTVDltZkt4WDE0S0pIUzYzVjdPQXh0Rl9MX1RyMkY2X3h6WG1jQ3hBd0pDZlRUSU5yUVZFNjhqbjRhTkRpTGR6MGNweXY0Q1ZLYXBGYnpDWWxHS1NDeS1aWGNXbUZoZzU1ME9QUzhZZ2x6OHU1ZmJnQ2ZBV29zQnE0bHY4SVA3TTEzNE53RjBxZmJpUS1SZUd0ellvMEVMOWI1OUFtSGlNbFUwV0V3alNONExBWGtleUJTQ1BGVEVpX2RHSV9xbjFQQm00VklycjJPY1lCcHJDVEdaWXpJZ2dxU2UzU0E?oc=5",
+   "published_on": "2026-05-27",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "Cohu is benefiting from strong AI-driven demand for its HPC test platforms, with multiple analyst upgrades and a raised 2026 revenue outlook. However, significant insider selling and a recent stock decline temper the positive sentiment."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-27"
+ },
+ "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 49.81,
+  "stop_price": 57.7796,
+  "target_price": 66.8948,
+  "exit_price": 66.7945,
+  "exit_reason": "target_hit",
+  "closed_on": "2026-06-18"
+ },
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

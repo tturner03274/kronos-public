@@ -1,7 +1,7 @@
 {
  "ticker": "KMT",
  "company": "KMT",
- "as_of": "2026-07-06T06:32:32.029165Z",
+ "as_of": "2026-07-07T07:35:37.798763Z",
  "score": {
   "composite": 74.79,
   "band": "high",
@@ -108,6 +108,7 @@
   "captured_on": "2026-05-07"
  },
  "social": null,
+ "premium_levels": null,
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

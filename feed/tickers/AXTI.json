@@ -1,0 +1,130 @@
+{
+ "ticker": "AXTI",
+ "company": "AXT, Inc.",
+ "as_of": "2026-07-07T07:35:42.686543Z",
+ "score": {
+  "composite": 74.01,
+  "band": "high",
+  "scored_at": "2026-06-06T04:01:38.853347",
+  "explanation": "AXTI (AXT, Inc.): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.0,
+   "catalyst": 65.8,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 75.5,
+   "asymmetry": 84.0
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 74.01,
+  "ret_7d_pct": 21.99,
+  "vs_spy_7d_pct": 19.88,
+  "risk_adjusted_7d_pct": 15.66,
+  "ret_30d_pct": -30.03,
+  "vs_spy_30d_pct": -31.66
+ },
+ "news": [
+  {
+   "title": "AXTI stock rallies even higher after earnings beat \u2014 will the momentum sustain? - MSN",
+   "source": "MSN",
+   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOQ1lWQkxJRUVTWlpZVVJ0Nm5fOU40NkhmUkNVbmNCZmxXM3liUEpVV2NienFScjF1bDFlWVBfc3hNWmJJdE1pRUo2SDVsMDVNeFl5RmtRbkVqbnA2ZXhjdUhnT0ZpVE9PSko5MjdwOE1mQ2k5Nm5waE85S01LZlp1Xy1CRFdhNTNQdzBVZnhrdG1jS2xucnBRZ3M0YzBGMHZQbjJXcnJrQTYtVXJXdkx1enh4RVBOaVAzMXN1M0xjcFdJbGpJbVRkcWJJRzZ6a0R1czViSVpyelpRUTM4SFk5aHcyc18yX1lBaTJNbFBtcm1OZmdGbXluMXFVeFctZ0p0b3BBNzU3Z2JhYUcxN1FNY2pYc09wSHZfdk9Ha2g5MndwTnp1bi1XYk9kcDIxd2o3UUZuUF9yc3pNVTJGX1U2NEIwbGRJOFJlcng1N3lrMVJRZFg0Vi1JRFNCdy1mQ1RQTF9IWWVaNjcxR2c5TjNWNUU0SkNvTTNvX2MwVk1xUUk5SjQ?oc=5",
+   "published_on": "2026-05-17",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "AXTI Stock Prediction: 1.6T AI Interconnect Boom Or Major Sell-Off? (E9UmQAmTqV) - fathomjournal.org",
+   "source": "fathomjournal.org",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pOVNwY2REN2Rla0lSWGxlRGtCczQ4OGdyaFlMa3RMbFB6MDQxN0tvRlIxQ3docUhvWnFBWllpNDlQc0xSNVhZQUhTY01IYm1lbHJvVVlJWWZGblpfeDA1R2tpY3VfaGYyTF9Hb1c5NzBzakllU1E?oc=5",
+   "published_on": "2026-05-16",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "AXT Inc. (AXTI) Soars 7.6% on Bargain-Hunting",
+   "source": "Yahoo Entertainment",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-soars-7-014732271.html",
+   "published_on": "2026-05-16",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "AXTI Stock Prediction: 1.6T AI Interconnect Boom Or Major Sell-Off? (9UmQAmTqVf) - fathomjournal.org",
+   "source": "fathomjournal.org",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2OVk2SjRnajFiV1dPR1otYkNyM3dXQXFPUzBkbnhNQ3p3YnA5NloyMzhONXNKRHZWYzdTdzlITlNBZHJ1eHpRYUVLYzA4TlJKNG5XZm5NeDBFZktkVnYybXpZVUJyR1g1TVM2RUNsVE4?oc=5",
+   "published_on": "2026-05-16",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "AXT Inc (AXTI) Stock Price, Quote, News & History - Benzinga",
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0ybkgzdE1Xd3BGaWg1S283NmRpd210VUVzbXhDWXh3aWF4M0VlOXRuYWdjbVR2Z3VXZXhrbzZ0d1F1eDh6MUJhVWNmcw?oc=5",
+   "published_on": "2026-05-15",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "Optical stocks are booming. Here\u2019s how to invest in one of the most explosive areas of tech.",
+   "source": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/optical-stocks-are-booming-heres-how-to-invest-in-one-of-the-most-explosive-areas-of-tech-13374178",
+   "published_on": "2026-05-15",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "AXTI Stock Rockets On AI Demand, Fresh Targets, And Volatile Offering - StocksToTrade",
+   "source": "StocksToTrade",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TZWYxMzlWQU1VVzdlN2dWTnJmdmhfZXNJVzRJNGg2MGJxTmZxS0ZUbjlqSlFFZFZfdF8wbWV4eEZQbVJOU0dCMXJYelk2SGotU2Zmb25MMlhLWThtU3R2Q2pUUWdPMWFVdHJHeXFGMA?oc=5",
+   "published_on": "2026-05-15",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  },
+  {
+   "title": "AXTI Stock Rallies As AI Demand Fuels Bold Expansion - timothysykes.com",
+   "source": "timothysykes.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HVVRoc1Z5MVNsdkp1cW1ZRDJUQUhEdHJaTGNhQ3p4Ukdmc3dmdl9wOGRYbzd4WFhmTmhzRXhCWkhGWUpuT0dJSWRmMV9VLXJZMjNRZE5LTWZFOGctcDhVYXlqMXVLMHlTbnZlWmo4Z00?oc=5",
+   "published_on": "2026-05-15",
+   "sentiment": "bullish",
+   "catalyst_type": "expansion",
+   "summary": "AXTI is surging on AI-driven demand for photonics and indium phosphide, with a record backlog and a massive equity raise to fund expansion. The stock has gained over 600% YTD, though volatility persists from the dilutive offering."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "market_cap": "$7.04B",
+  "pe_ratio": null,
+  "forward_pe": 143.01863,
+  "revenue_growth": 39.1,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": "Buy",
+  "price_target": 87.75,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 92.2482,
+  "stop_price": 77.4885,
+  "target_price": 113.576,
+  "exit_price": 77.3723,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-07-07"
+ },
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

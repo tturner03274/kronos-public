@@ -1,0 +1,122 @@
+{
+ "ticker": "INTC",
+ "company": "INTEL CORPORATION CORP",
+ "as_of": "2026-07-07T07:35:45.330594Z",
+ "score": {
+  "composite": 69.59,
+  "band": "medium",
+  "scored_at": "2026-06-06T00:09:55.684155",
+  "explanation": "INTC (INTEL CORPORATION CORP): MEDIUM evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 6 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 92.5,
+   "catalyst": 55.25,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 83.0,
+   "asymmetry": 71.85
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 69.59,
+  "ret_7d_pct": 15.95,
+  "vs_spy_7d_pct": 13.84,
+  "risk_adjusted_7d_pct": 9.62,
+  "ret_30d_pct": 10.82,
+  "vs_spy_30d_pct": 9.19
+ },
+ "news": [
+  {
+   "title": "AMD Jumps 8% to a Record High, NVIDIA Climbs 4%, Intel Rises 3% in a Risk-On Chip Surge",
+   "source": "alpha_vantage",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amd-jumps-8-record-high-162242216.html",
+   "published_on": "2026-06-15",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Advanced Micro Devices (AMD) shares surged 8% to a record high, pushing its market cap above $900 billion, while NVIDIA and Intel also saw significant gains. This rally in chip stocks is attributed to"
+  },
+  {
+   "title": "4 stocks to watch on Thursday: INTC, BABA, SMCI, ASML - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXdKdWRFdjd2am1WUWJnQ3NESU5pY01tdjkzNnBHSDBxa05LMDkxTTN1MFpVeENnODhiTlE1RDNvanlrSmNjTGJEOXNDQTFRLXBNQUVNSDRFTmQ3d1AxTTU1cTY1eXhFWmhqSGtFd3p0bUpCU1V4b1NrUjNiTHpENF9rTWV5VURoSWhNZ0tHNlM?oc=5",
+   "published_on": "2026-06-11",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  },
+  {
+   "title": "AMD, ARM, INTC, NVDA Get A Fresh AI Tailwind - BofA Sees Agentic AI Expanding Server CPU Market To $170B - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2NjZEo0SWpESjdHa0d3RDdQLUJyQmJBSkFib0lwREtfS1ZJM0xzMExWTEJ0TG01ZklCZmFJMUpoUmdBRFU2NGZHSzJycjcwOU1QZmROdVlWQmdNMDFrS2dkS3lNUXpsZjhUaEpGb0pRQXdGVnFUNWlYazJ1MWxTYnlyZzZEOXZnLUNXcWt5blRnTTlIVlBHVmJ1U1Zzdzd1eWRuR25KSnhwbjZOdnBvenZnUEYwSVp6bTBLeGI0aHN5b3Z4c0E?oc=5",
+   "published_on": "2026-06-11",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  },
+  {
+   "title": "INTC Stock Gains As Tesla Plans To Use 14A Chips In Terafab Project; Earnings Due Thursday - Stocktwits",
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM25pRGFzR012N0RIQTlPT1NMRWc3VGJINHJ3NU00MDhiUHRKTFZ4blNxWlJBdldhX05SRHRva2ltXzFOR3I5N2RHR2VMcEItcGw1M1A4ZTNPdVp3SjA2T2xPbkx6dzcxdC1aWFJGRjFubXl2YXBmLU5uZy1sQ3hBTDBhanZlaFRoV3NzeERNV3ZsOGxNb3M1SjV6RUdzRmJmZ0JtaERzM0d0QmhCLXVRNVdCVWlvT1Naa2ZSX1dMUWhZWnF6UFQtWjVLXzc2REFyWXlPSXIzcnFpemJMYmpQTVQwYktFa1F0ZFE?oc=5",
+   "published_on": "2026-06-11",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  },
+  {
+   "title": "Intel Is the Market's Most Mispriced AI Hedge - MarketBeat",
+   "source": "MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFNsaURhcndURmVWRDlnWEpTSTI4NGVFcElEUEx0NDZ5V294TExfZXc4TkxGTm55Q1dEc3dqM3IzYmhLel80bE9Ld2Q5UWpuYlNVOTZZUjlMQ24xSHhlbUlBUmR0dGpIRWxCeTZ1R3dveG8zR3I1R2h1MDlQRVoyejVNOFdNaGNIanc?oc=5",
+   "published_on": "2026-06-10",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  },
+  {
+   "title": "Intel Corporation (INTC) Up More than 140% Over the Past 6 Months, Is It An Unstoppable Growth Stock? - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlJ3eUZ6bVRra2J0UVdmUHRJVkxXcTFzcUVZQzVQTjJaVFJnWTFaYzJUUk9Zb2dUek04dGdMU2ZTbkRWc0VkbHdkQ3FrdlBkMjFNMmhLSnFFc0Z2bkF3UjRUVGJwTzhwbHN2a0xhVnFMZGpRQXQtRkgyc0M1bHdjOHlsVURtaDRSOHJCM014MlBDREQ3NlBWMEJ3YUk?oc=5",
+   "published_on": "2026-06-10",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  },
+  {
+   "title": "1 Intel Insider Just Sold Nearly 10% of His INTC Stock - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFhqZXFORDZfN1AyVEpiMG9xcjYyTFcwTTI4VFFuWFliWFVDZlJTQ0p5VDBscW52SXk5VnhXZDV0SnlWbzItZk5udE8ySmMzVTVEdXVUZkx1Q2tJMXRwYTY2SDdxblpDQzI5MU4tOUh0cUZLRHdvdHVMR0tHTXZxQ0x2alJ5aVJBaVRiSjY2SU84X0R1?oc=5",
+   "published_on": "2026-06-10",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  },
+  {
+   "title": "This May Be the Next Big Catalyst for Intel Stock - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWFZMGtRSUZ2b0l0MjFzckFEckExbEhaSm5Mc1c1YWhJb000c3M1ZnlWMTJpZmh0a2wwUlNwdV8yLU44Rnk1V2RtS0FxNDlYck9fNE1BbTVHSzB4YUE0UHBBSHp5aXk3YllPSWNLdkM3QzUzZ09aME5UY2JnYnlFNkNZcWxYRFN5THJBcnRqTnNMNE8zbVRz?oc=5",
+   "published_on": "2026-06-10",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Intel secured major AI chip contracts with Google and Foxconn, and is benefiting from AI tailwinds expanding the server CPU market. Despite insider selling and recent volatility, the strong partnership momentum and AI growth narrative are driving positive sentiment."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Information Technology",
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-05-20"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

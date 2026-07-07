@@ -1,1801 +1,1818 @@
 {
  "feed_version": 1,
- "generated_at": "2026-07-05T14:27:15.227150Z",
+ "generated_at": "2026-07-07T07:35:37.099950Z",
  "verdict": {
   "label": "Real edge \u2014 beats the market risk-adjusted",
-  "headline": "Our top-band picks beat the market on a risk-matched basis (beating what their beta predicts) 65.5% of the time \u2014 well above the 50% luck line \u2014 by an average of +2.86% each over 7 days, across 852 picks. That's a real, if early, edge that survives stripping out the market.",
+  "state": "edge",
+  "headline": "Our top-band picks beat the market on a risk-matched basis (beating what their beta predicts) 81.1% of the time \u2014 well above the 50% luck line \u2014 by an average of +6.24% each over 7 days, across 355 picks. That's a real, if early, edge that survives stripping out the market.",
   "high_band": {
-   "beat_market_rate_pct": 65.5,
-   "avg_alpha_7d_pct": 2.86,
-   "sample_size": 852
+   "beat_market_rate_pct": 81.1,
+   "avg_alpha_7d_pct": 6.24,
+   "sample_size": 355
+  },
+  "trend": {
+   "early_pct": 72.3,
+   "recent_pct": 78.7,
+   "direction": "improving"
   }
  },
  "track_record": {
   "bands": {
    "medium": {
-    "n": 15396,
-    "beat_spy_rate_pct": 56.7,
-    "avg_excess_7d_pct": 1.46
+    "n": 672,
+    "beat_spy_rate_pct": 57.7,
+    "avg_excess_7d_pct": 1.18,
+    "beat_risk_adjusted_pct": 57.1,
+    "avg_alpha_7d_pct": 0.87,
+    "beat_spy_30d_pct": 41.0,
+    "avg_excess_30d_pct": -1.32
    },
    "high": {
-    "n": 852,
-    "beat_spy_rate_pct": 65.5,
-    "avg_excess_7d_pct": 2.86
+    "n": 355,
+    "beat_spy_rate_pct": 75.5,
+    "avg_excess_7d_pct": 6.17,
+    "beat_risk_adjusted_pct": 81.1,
+    "avg_alpha_7d_pct": 6.24,
+    "beat_spy_30d_pct": 48.4,
+    "avg_excess_30d_pct": 1.41
    },
    "low": {
-    "n": 2339,
-    "beat_spy_rate_pct": 49.5,
-    "avg_excess_7d_pct": 0.65
+    "n": 29,
+    "beat_spy_rate_pct": 100.0,
+    "avg_excess_7d_pct": 5.3,
+    "beat_risk_adjusted_pct": 100.0,
+    "avg_alpha_7d_pct": 3.35,
+    "beat_spy_30d_pct": 100.0,
+    "avg_excess_30d_pct": 5.59
    }
   },
   "recent_picks": [
    {
-    "ticker": "DLTH",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 2.53,
-    "vs_spy_7d_pct": 1.1,
-    "risk_adjusted_alpha_7d_pct": 1.1
-   },
-   {
-    "ticker": "TOON",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -9.46,
-    "vs_spy_7d_pct": -10.89,
-    "risk_adjusted_alpha_7d_pct": -10.89
-   },
-   {
-    "ticker": "OCC",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -12.66,
-    "vs_spy_7d_pct": -14.09,
-    "risk_adjusted_alpha_7d_pct": -14.09
-   },
-   {
-    "ticker": "RFL",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 16.24,
-    "vs_spy_7d_pct": 14.81,
-    "risk_adjusted_alpha_7d_pct": 14.81
-   },
-   {
-    "ticker": "CHAI",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -5.51,
-    "vs_spy_7d_pct": -6.94,
-    "risk_adjusted_alpha_7d_pct": -6.94
-   },
-   {
-    "ticker": "CPOP",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -20.75,
-    "vs_spy_7d_pct": -22.18,
-    "risk_adjusted_alpha_7d_pct": -22.18
-   },
-   {
-    "ticker": "GLW",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -13.69,
-    "vs_spy_7d_pct": -15.12,
-    "risk_adjusted_alpha_7d_pct": -15.12
-   },
-   {
-    "ticker": "LPRO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -0.32,
-    "vs_spy_7d_pct": -1.75,
-    "risk_adjusted_alpha_7d_pct": -1.75
-   },
-   {
-    "ticker": "MRNA",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 33.49,
-    "vs_spy_7d_pct": 32.06,
-    "risk_adjusted_alpha_7d_pct": 32.06
-   },
-   {
-    "ticker": "JBL",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -8.9,
-    "vs_spy_7d_pct": -10.33,
-    "risk_adjusted_alpha_7d_pct": -10.33
-   },
-   {
-    "ticker": "XLO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 2.92,
-    "vs_spy_7d_pct": 1.49,
-    "risk_adjusted_alpha_7d_pct": 1.49
-   },
-   {
-    "ticker": "IMOS",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 8.54,
-    "vs_spy_7d_pct": 7.11,
-    "risk_adjusted_alpha_7d_pct": 7.11
-   },
-   {
-    "ticker": "IMOS",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 8.54,
-    "vs_spy_7d_pct": 7.11,
-    "risk_adjusted_alpha_7d_pct": 7.11
-   },
-   {
-    "ticker": "BLZE",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 16.39,
-    "vs_spy_7d_pct": 14.96,
-    "risk_adjusted_alpha_7d_pct": 14.96
-   },
-   {
-    "ticker": "TLX",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 9.3,
-    "vs_spy_7d_pct": 7.87,
-    "risk_adjusted_alpha_7d_pct": 7.87
-   },
-   {
-    "ticker": "BLZE",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 16.39,
-    "vs_spy_7d_pct": 14.96,
-    "risk_adjusted_alpha_7d_pct": 14.96
-   },
-   {
-    "ticker": "TLX",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 9.3,
-    "vs_spy_7d_pct": 7.87,
-    "risk_adjusted_alpha_7d_pct": 7.87
-   },
-   {
-    "ticker": "SYNA",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -4.86,
-    "vs_spy_7d_pct": -6.29,
-    "risk_adjusted_alpha_7d_pct": -6.29
-   },
-   {
-    "ticker": "MANE",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 8.69,
-    "vs_spy_7d_pct": 7.26,
-    "risk_adjusted_alpha_7d_pct": 7.26
-   },
-   {
-    "ticker": "CPRX",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 0.1,
-    "vs_spy_7d_pct": -1.33,
-    "risk_adjusted_alpha_7d_pct": -1.33
-   },
-   {
-    "ticker": "SANM",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -13.33,
-    "vs_spy_7d_pct": -14.76,
-    "risk_adjusted_alpha_7d_pct": -14.76
-   },
-   {
-    "ticker": "CECO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -13.61,
-    "vs_spy_7d_pct": -15.04,
-    "risk_adjusted_alpha_7d_pct": -15.04
-   },
-   {
-    "ticker": "SIMO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -7.55,
-    "vs_spy_7d_pct": -8.98,
-    "risk_adjusted_alpha_7d_pct": -8.98
-   },
-   {
-    "ticker": "COCO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -19.85,
-    "vs_spy_7d_pct": -21.28,
-    "risk_adjusted_alpha_7d_pct": -21.28
-   },
-   {
-    "ticker": "TEVA",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 3.03,
-    "vs_spy_7d_pct": 1.6,
-    "risk_adjusted_alpha_7d_pct": 1.6
-   },
-   {
-    "ticker": "RSI",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 4.35,
-    "vs_spy_7d_pct": 2.92,
-    "risk_adjusted_alpha_7d_pct": 2.92
-   },
-   {
-    "ticker": "EAT",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 2.48,
-    "vs_spy_7d_pct": 1.05,
-    "risk_adjusted_alpha_7d_pct": 1.05
-   },
-   {
-    "ticker": "CHEF",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 1.34,
-    "vs_spy_7d_pct": -0.09,
-    "risk_adjusted_alpha_7d_pct": -0.09
-   },
-   {
-    "ticker": "SOFI",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 5.43,
-    "vs_spy_7d_pct": 4.0,
-    "risk_adjusted_alpha_7d_pct": 4.0
-   },
-   {
-    "ticker": "BHE",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -11.38,
-    "vs_spy_7d_pct": -12.81,
-    "risk_adjusted_alpha_7d_pct": -12.81
-   },
-   {
-    "ticker": "AXSM",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 2.94,
-    "vs_spy_7d_pct": 1.51,
-    "risk_adjusted_alpha_7d_pct": 1.51
-   },
-   {
-    "ticker": "RIOT",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -20.35,
-    "vs_spy_7d_pct": -21.78,
-    "risk_adjusted_alpha_7d_pct": -21.78
-   },
-   {
-    "ticker": "BTSG",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -0.96,
-    "vs_spy_7d_pct": -2.39,
-    "risk_adjusted_alpha_7d_pct": -2.39
-   },
-   {
-    "ticker": "GBTG",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 0.11,
-    "vs_spy_7d_pct": -1.32,
-    "risk_adjusted_alpha_7d_pct": -1.32
-   },
-   {
-    "ticker": "KRYS",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 4.21,
-    "vs_spy_7d_pct": 2.78,
-    "risk_adjusted_alpha_7d_pct": 2.78
-   },
-   {
-    "ticker": "AGRO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 3.66,
-    "vs_spy_7d_pct": 2.23,
-    "risk_adjusted_alpha_7d_pct": 2.23
-   },
-   {
-    "ticker": "DOCN",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -10.47,
-    "vs_spy_7d_pct": -11.9,
-    "risk_adjusted_alpha_7d_pct": -11.9
-   },
-   {
-    "ticker": "OPLN",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 2.42,
-    "vs_spy_7d_pct": 0.99,
-    "risk_adjusted_alpha_7d_pct": 0.99
-   },
-   {
-    "ticker": "KMT",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -8.32,
-    "vs_spy_7d_pct": -9.75,
-    "risk_adjusted_alpha_7d_pct": -9.75
-   },
-   {
-    "ticker": "GEO",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 3.14,
-    "vs_spy_7d_pct": 1.71,
-    "risk_adjusted_alpha_7d_pct": 1.71
-   },
-   {
-    "ticker": "NBTX",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 11.53,
-    "vs_spy_7d_pct": 10.1,
-    "risk_adjusted_alpha_7d_pct": 10.1
-   },
-   {
-    "ticker": "ALKS",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": 3.31,
-    "vs_spy_7d_pct": 1.88,
-    "risk_adjusted_alpha_7d_pct": 1.88
-   },
-   {
-    "ticker": "NBIS",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -15.98,
-    "vs_spy_7d_pct": -17.41,
-    "risk_adjusted_alpha_7d_pct": -17.41
-   },
-   {
-    "ticker": "BCRX",
-    "scored_on": "2026-06-25",
-    "band": "high",
-    "return_7d_pct": -0.61,
-    "vs_spy_7d_pct": -2.04,
-    "risk_adjusted_alpha_7d_pct": -2.04
-   },
-   {
-    "ticker": "LNTH",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.92,
-    "vs_spy_7d_pct": 2.21,
-    "risk_adjusted_alpha_7d_pct": 2.21
-   },
-   {
-    "ticker": "ESLT",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 1.21,
-    "vs_spy_7d_pct": -0.5,
-    "risk_adjusted_alpha_7d_pct": -0.5
-   },
-   {
-    "ticker": "ASX",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.99,
-    "vs_spy_7d_pct": 2.28,
-    "risk_adjusted_alpha_7d_pct": 2.28
-   },
-   {
-    "ticker": "DY",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -2.68,
-    "vs_spy_7d_pct": -4.39,
-    "risk_adjusted_alpha_7d_pct": -4.39
-   },
-   {
     "ticker": "LOGI",
-    "scored_on": "2026-06-24",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": -7.55,
-    "vs_spy_7d_pct": -9.26,
-    "risk_adjusted_alpha_7d_pct": -9.26
+    "return_7d_pct": -2.19,
+    "vs_spy_7d_pct": -4.3,
+    "risk_adjusted_alpha_7d_pct": -5.21
    },
    {
     "ticker": "PS",
-    "scored_on": "2026-06-24",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 6.8,
-    "vs_spy_7d_pct": 5.09,
-    "risk_adjusted_alpha_7d_pct": 5.09
+    "return_7d_pct": 4.83,
+    "vs_spy_7d_pct": 2.72,
+    "risk_adjusted_alpha_7d_pct": 0.8
    },
    {
-    "ticker": "AGX",
-    "scored_on": "2026-06-24",
+    "ticker": "ARCB",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 4.41,
-    "vs_spy_7d_pct": 2.7,
-    "risk_adjusted_alpha_7d_pct": 2.7
-   },
-   {
-    "ticker": "SQM",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -1.8,
-    "vs_spy_7d_pct": -3.51,
-    "risk_adjusted_alpha_7d_pct": -3.51
-   },
-   {
-    "ticker": "DLTH",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 7.71,
-    "vs_spy_7d_pct": 6.0,
-    "risk_adjusted_alpha_7d_pct": 6.0
-   },
-   {
-    "ticker": "OCC",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -5.1,
-    "vs_spy_7d_pct": -6.81,
-    "risk_adjusted_alpha_7d_pct": -6.81
-   },
-   {
-    "ticker": "RFL",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 35.48,
-    "vs_spy_7d_pct": 33.77,
-    "risk_adjusted_alpha_7d_pct": 33.77
-   },
-   {
-    "ticker": "TOON",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -7.89,
-    "vs_spy_7d_pct": -9.6,
-    "risk_adjusted_alpha_7d_pct": -9.6
-   },
-   {
-    "ticker": "CHAI",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -0.42,
-    "vs_spy_7d_pct": -2.13,
-    "risk_adjusted_alpha_7d_pct": -2.13
-   },
-   {
-    "ticker": "CPOP",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -15.32,
-    "vs_spy_7d_pct": -17.03,
-    "risk_adjusted_alpha_7d_pct": -17.03
-   },
-   {
-    "ticker": "STX",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -7.86,
-    "vs_spy_7d_pct": -9.57,
-    "risk_adjusted_alpha_7d_pct": -9.57
-   },
-   {
-    "ticker": "LPRO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -0.64,
-    "vs_spy_7d_pct": -2.35,
-    "risk_adjusted_alpha_7d_pct": -2.35
-   },
-   {
-    "ticker": "MRNA",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 19.99,
-    "vs_spy_7d_pct": 18.28,
-    "risk_adjusted_alpha_7d_pct": 18.28
-   },
-   {
-    "ticker": "JBL",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 0.95,
-    "vs_spy_7d_pct": -0.76,
-    "risk_adjusted_alpha_7d_pct": -0.76
-   },
-   {
-    "ticker": "XLO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 2.33,
-    "vs_spy_7d_pct": 0.62,
-    "risk_adjusted_alpha_7d_pct": 0.62
-   },
-   {
-    "ticker": "IMOS",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.2,
-    "vs_spy_7d_pct": 1.49,
-    "risk_adjusted_alpha_7d_pct": 1.49
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.07,
-    "vs_spy_7d_pct": 1.36,
-    "risk_adjusted_alpha_7d_pct": 1.36
-   },
-   {
-    "ticker": "BLZE",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 36.68,
-    "vs_spy_7d_pct": 34.97,
-    "risk_adjusted_alpha_7d_pct": 34.97
-   },
-   {
-    "ticker": "SYNA",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -2.64,
-    "vs_spy_7d_pct": -4.35,
-    "risk_adjusted_alpha_7d_pct": -4.35
-   },
-   {
-    "ticker": "MANE",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 9.54,
-    "vs_spy_7d_pct": 7.83,
-    "risk_adjusted_alpha_7d_pct": 7.83
-   },
-   {
-    "ticker": "CPRX",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 0.06,
-    "vs_spy_7d_pct": -1.65,
-    "risk_adjusted_alpha_7d_pct": -1.65
-   },
-   {
-    "ticker": "SANM",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -0.97,
-    "vs_spy_7d_pct": -2.68,
-    "risk_adjusted_alpha_7d_pct": -2.68
-   },
-   {
-    "ticker": "CECO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -10.32,
-    "vs_spy_7d_pct": -12.03,
-    "risk_adjusted_alpha_7d_pct": -12.03
-   },
-   {
-    "ticker": "SIMO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -1.45,
-    "vs_spy_7d_pct": -3.16,
-    "risk_adjusted_alpha_7d_pct": -3.16
-   },
-   {
-    "ticker": "COCO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -16.68,
-    "vs_spy_7d_pct": -18.39,
-    "risk_adjusted_alpha_7d_pct": -18.39
-   },
-   {
-    "ticker": "EXTR",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 1.62,
-    "vs_spy_7d_pct": -0.09,
-    "risk_adjusted_alpha_7d_pct": -0.09
-   },
-   {
-    "ticker": "TEVA",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -2.28,
-    "vs_spy_7d_pct": -3.99,
-    "risk_adjusted_alpha_7d_pct": -3.99
-   },
-   {
-    "ticker": "RSI",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 4.79,
-    "vs_spy_7d_pct": 3.08,
-    "risk_adjusted_alpha_7d_pct": 3.08
-   },
-   {
-    "ticker": "EAT",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 1.3,
-    "vs_spy_7d_pct": -0.41,
-    "risk_adjusted_alpha_7d_pct": -0.41
-   },
-   {
-    "ticker": "CHEF",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -0.28,
-    "vs_spy_7d_pct": -1.99,
-    "risk_adjusted_alpha_7d_pct": -1.99
-   },
-   {
-    "ticker": "SOFI",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 6.53,
-    "vs_spy_7d_pct": 4.82,
-    "risk_adjusted_alpha_7d_pct": 4.82
-   },
-   {
-    "ticker": "BHE",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.41,
-    "vs_spy_7d_pct": 1.7,
-    "risk_adjusted_alpha_7d_pct": 1.7
-   },
-   {
-    "ticker": "AXSM",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 1.15,
-    "vs_spy_7d_pct": -0.56,
-    "risk_adjusted_alpha_7d_pct": -0.56
-   },
-   {
-    "ticker": "RIOT",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -12.62,
-    "vs_spy_7d_pct": -14.33,
-    "risk_adjusted_alpha_7d_pct": -14.33
-   },
-   {
-    "ticker": "BTSG",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.31,
-    "vs_spy_7d_pct": 1.6,
-    "risk_adjusted_alpha_7d_pct": 1.6
-   },
-   {
-    "ticker": "KRYS",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 6.89,
-    "vs_spy_7d_pct": 5.18,
-    "risk_adjusted_alpha_7d_pct": 5.18
-   },
-   {
-    "ticker": "AGRO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 4.06,
-    "vs_spy_7d_pct": 2.35,
-    "risk_adjusted_alpha_7d_pct": 2.35
-   },
-   {
-    "ticker": "DOCN",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -2.7,
-    "vs_spy_7d_pct": -4.41,
-    "risk_adjusted_alpha_7d_pct": -4.41
-   },
-   {
-    "ticker": "OPLN",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 2.0,
-    "vs_spy_7d_pct": 0.29,
-    "risk_adjusted_alpha_7d_pct": 0.29
-   },
-   {
-    "ticker": "VVX",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -5.41,
-    "vs_spy_7d_pct": -7.12,
-    "risk_adjusted_alpha_7d_pct": -7.12
-   },
-   {
-    "ticker": "KMT",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -2.41,
-    "vs_spy_7d_pct": -4.12,
-    "risk_adjusted_alpha_7d_pct": -4.12
-   },
-   {
-    "ticker": "GEO",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 3.23,
-    "vs_spy_7d_pct": 1.52,
-    "risk_adjusted_alpha_7d_pct": 1.52
-   },
-   {
-    "ticker": "NBTX",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 14.93,
-    "vs_spy_7d_pct": 13.22,
-    "risk_adjusted_alpha_7d_pct": 13.22
-   },
-   {
-    "ticker": "ALKS",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": 2.52,
-    "vs_spy_7d_pct": 0.81,
-    "risk_adjusted_alpha_7d_pct": 0.81
-   },
-   {
-    "ticker": "NBIS",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -11.74,
-    "vs_spy_7d_pct": -13.45,
-    "risk_adjusted_alpha_7d_pct": -13.45
-   },
-   {
-    "ticker": "KC",
-    "scored_on": "2026-06-24",
-    "band": "high",
-    "return_7d_pct": -0.65,
-    "vs_spy_7d_pct": -2.36,
-    "risk_adjusted_alpha_7d_pct": -2.36
-   },
-   {
-    "ticker": "LNTH",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 4.63,
-    "vs_spy_7d_pct": 2.83,
-    "risk_adjusted_alpha_7d_pct": 2.83
-   },
-   {
-    "ticker": "ESLT",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -1.78,
-    "vs_spy_7d_pct": -3.58,
-    "risk_adjusted_alpha_7d_pct": -3.58
-   },
-   {
-    "ticker": "ASX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 13.45,
-    "vs_spy_7d_pct": 11.65,
-    "risk_adjusted_alpha_7d_pct": 11.65
-   },
-   {
-    "ticker": "DY",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 8.81,
-    "vs_spy_7d_pct": 7.01,
-    "risk_adjusted_alpha_7d_pct": 7.01
-   },
-   {
-    "ticker": "LOGI",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -9.91,
-    "vs_spy_7d_pct": -11.71,
-    "risk_adjusted_alpha_7d_pct": -11.71
-   },
-   {
-    "ticker": "PS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 0.64,
-    "vs_spy_7d_pct": -1.16,
-    "risk_adjusted_alpha_7d_pct": -1.16
-   },
-   {
-    "ticker": "SQM",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -3.22,
-    "vs_spy_7d_pct": -5.02,
-    "risk_adjusted_alpha_7d_pct": -5.02
-   },
-   {
-    "ticker": "DLTH",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 8.21,
-    "vs_spy_7d_pct": 6.41,
-    "risk_adjusted_alpha_7d_pct": 6.41
-   },
-   {
-    "ticker": "OCC",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 5.91,
-    "vs_spy_7d_pct": 4.11,
-    "risk_adjusted_alpha_7d_pct": 4.11
-   },
-   {
-    "ticker": "RFL",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 22.85,
-    "vs_spy_7d_pct": 21.05,
-    "risk_adjusted_alpha_7d_pct": 21.05
-   },
-   {
-    "ticker": "TOON",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -11.25,
-    "vs_spy_7d_pct": -13.05,
-    "risk_adjusted_alpha_7d_pct": -13.05
-   },
-   {
-    "ticker": "CHAI",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -9.62,
-    "vs_spy_7d_pct": -11.42,
-    "risk_adjusted_alpha_7d_pct": -11.42
-   },
-   {
-    "ticker": "CPOP",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -23.61,
-    "vs_spy_7d_pct": -25.41,
-    "risk_adjusted_alpha_7d_pct": -25.41
-   },
-   {
-    "ticker": "CPOP",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -23.61,
-    "vs_spy_7d_pct": -25.41,
-    "risk_adjusted_alpha_7d_pct": -25.41
-   },
-   {
-    "ticker": "STX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -7.09,
-    "vs_spy_7d_pct": -8.89,
-    "risk_adjusted_alpha_7d_pct": -8.89
-   },
-   {
-    "ticker": "ENTG",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 6.92,
-    "vs_spy_7d_pct": 5.12,
-    "risk_adjusted_alpha_7d_pct": 5.12
-   },
-   {
-    "ticker": "LPRO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -0.32,
-    "vs_spy_7d_pct": -2.12,
-    "risk_adjusted_alpha_7d_pct": -2.12
-   },
-   {
-    "ticker": "MRNA",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 14.8,
-    "vs_spy_7d_pct": 13.0,
-    "risk_adjusted_alpha_7d_pct": 13.0
-   },
-   {
-    "ticker": "JBL",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 3.35,
-    "vs_spy_7d_pct": 1.55,
-    "risk_adjusted_alpha_7d_pct": 1.55
-   },
-   {
-    "ticker": "XLO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 7.64,
-    "vs_spy_7d_pct": 5.84,
-    "risk_adjusted_alpha_7d_pct": 5.84
-   },
-   {
-    "ticker": "IMOS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -1.67,
-    "vs_spy_7d_pct": -3.47,
-    "risk_adjusted_alpha_7d_pct": -3.47
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -8.52,
-    "vs_spy_7d_pct": -10.32,
-    "risk_adjusted_alpha_7d_pct": -10.32
-   },
-   {
-    "ticker": "SYNA",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -7.57,
-    "vs_spy_7d_pct": -9.37,
-    "risk_adjusted_alpha_7d_pct": -9.37
-   },
-   {
-    "ticker": "MANE",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 18.67,
-    "vs_spy_7d_pct": 16.87,
-    "risk_adjusted_alpha_7d_pct": 16.87
-   },
-   {
-    "ticker": "CPRX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 0.1,
-    "vs_spy_7d_pct": -1.7,
-    "risk_adjusted_alpha_7d_pct": -1.7
-   },
-   {
-    "ticker": "SANM",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 2.44,
-    "vs_spy_7d_pct": 0.64,
-    "risk_adjusted_alpha_7d_pct": 0.64
-   },
-   {
-    "ticker": "CECO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -6.13,
-    "vs_spy_7d_pct": -7.93,
-    "risk_adjusted_alpha_7d_pct": -7.93
-   },
-   {
-    "ticker": "SIMO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 4.49,
-    "vs_spy_7d_pct": 2.69,
-    "risk_adjusted_alpha_7d_pct": 2.69
-   },
-   {
-    "ticker": "COCO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -20.06,
-    "vs_spy_7d_pct": -21.86,
-    "risk_adjusted_alpha_7d_pct": -21.86
-   },
-   {
-    "ticker": "TEVA",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 2.02,
-    "vs_spy_7d_pct": 0.22,
-    "risk_adjusted_alpha_7d_pct": 0.22
-   },
-   {
-    "ticker": "RSI",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 0.78,
-    "vs_spy_7d_pct": -1.02,
-    "risk_adjusted_alpha_7d_pct": -1.02
-   },
-   {
-    "ticker": "EAT",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 2.28,
-    "vs_spy_7d_pct": 0.48,
-    "risk_adjusted_alpha_7d_pct": 0.48
-   },
-   {
-    "ticker": "CHEF",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 2.04,
-    "vs_spy_7d_pct": 0.24,
-    "risk_adjusted_alpha_7d_pct": 0.24
-   },
-   {
-    "ticker": "SOFI",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 3.7,
-    "vs_spy_7d_pct": 1.9,
-    "risk_adjusted_alpha_7d_pct": 1.9
-   },
-   {
-    "ticker": "BHE",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 8.56,
-    "vs_spy_7d_pct": 6.76,
-    "risk_adjusted_alpha_7d_pct": 6.76
-   },
-   {
-    "ticker": "RIOT",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -4.57,
-    "vs_spy_7d_pct": -6.37,
-    "risk_adjusted_alpha_7d_pct": -6.37
-   },
-   {
-    "ticker": "BTSG",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 4.34,
-    "vs_spy_7d_pct": 2.54,
-    "risk_adjusted_alpha_7d_pct": 2.54
-   },
-   {
-    "ticker": "GBTG",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 0.11,
-    "vs_spy_7d_pct": -1.69,
-    "risk_adjusted_alpha_7d_pct": -1.69
-   },
-   {
-    "ticker": "KRYS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 9.25,
-    "vs_spy_7d_pct": 7.45,
-    "risk_adjusted_alpha_7d_pct": 7.45
-   },
-   {
-    "ticker": "AGRO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 1.92,
-    "vs_spy_7d_pct": 0.12,
-    "risk_adjusted_alpha_7d_pct": 0.12
-   },
-   {
-    "ticker": "DOCN",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -0.1,
-    "vs_spy_7d_pct": -1.9,
+    "return_7d_pct": -1.28,
+    "vs_spy_7d_pct": -3.39,
     "risk_adjusted_alpha_7d_pct": -1.9
    },
    {
-    "ticker": "OPLN",
-    "scored_on": "2026-06-23",
+    "ticker": "AGX",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 7.12,
-    "vs_spy_7d_pct": 5.32,
-    "risk_adjusted_alpha_7d_pct": 5.32
-   },
-   {
-    "ticker": "VVX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -10.48,
-    "vs_spy_7d_pct": -12.28,
-    "risk_adjusted_alpha_7d_pct": -12.28
-   },
-   {
-    "ticker": "KMT",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -0.14,
-    "vs_spy_7d_pct": -1.94,
-    "risk_adjusted_alpha_7d_pct": -1.94
-   },
-   {
-    "ticker": "GEO",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -1.37,
-    "vs_spy_7d_pct": -3.17,
-    "risk_adjusted_alpha_7d_pct": -3.17
-   },
-   {
-    "ticker": "NAMS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 7.93,
-    "vs_spy_7d_pct": 6.13,
-    "risk_adjusted_alpha_7d_pct": 6.13
-   },
-   {
-    "ticker": "NBTX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 3.01,
-    "vs_spy_7d_pct": 1.21,
-    "risk_adjusted_alpha_7d_pct": 1.21
-   },
-   {
-    "ticker": "ALKS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 9.01,
-    "vs_spy_7d_pct": 7.21,
-    "risk_adjusted_alpha_7d_pct": 7.21
-   },
-   {
-    "ticker": "ALKS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 9.01,
-    "vs_spy_7d_pct": 7.21,
-    "risk_adjusted_alpha_7d_pct": 7.21
-   },
-   {
-    "ticker": "NBIS",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 0.33,
-    "vs_spy_7d_pct": -1.47,
-    "risk_adjusted_alpha_7d_pct": -1.47
-   },
-   {
-    "ticker": "KC",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -6.02,
-    "vs_spy_7d_pct": -7.82,
-    "risk_adjusted_alpha_7d_pct": -7.82
-   },
-   {
-    "ticker": "BCRX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 7.41,
-    "vs_spy_7d_pct": 5.61,
-    "risk_adjusted_alpha_7d_pct": 5.61
-   },
-   {
-    "ticker": "NVMI",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 2.85,
-    "vs_spy_7d_pct": 1.05,
-    "risk_adjusted_alpha_7d_pct": 1.05
-   },
-   {
-    "ticker": "LNTH",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 4.63,
-    "vs_spy_7d_pct": 2.83,
-    "risk_adjusted_alpha_7d_pct": 2.83
-   },
-   {
-    "ticker": "ESLT",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -1.78,
-    "vs_spy_7d_pct": -3.58,
-    "risk_adjusted_alpha_7d_pct": -3.58
-   },
-   {
-    "ticker": "ASX",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 13.45,
-    "vs_spy_7d_pct": 11.65,
-    "risk_adjusted_alpha_7d_pct": 11.65
-   },
-   {
-    "ticker": "DY",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": 8.81,
-    "vs_spy_7d_pct": 7.01,
-    "risk_adjusted_alpha_7d_pct": 7.01
-   },
-   {
-    "ticker": "LOGI",
-    "scored_on": "2026-06-23",
-    "band": "high",
-    "return_7d_pct": -9.91,
-    "vs_spy_7d_pct": -11.71,
-    "risk_adjusted_alpha_7d_pct": -11.71
-   },
-   {
-    "ticker": "PS",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -0.57,
-    "vs_spy_7d_pct": -0.11,
-    "risk_adjusted_alpha_7d_pct": -0.11
-   },
-   {
-    "ticker": "SQM",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -11.18,
-    "vs_spy_7d_pct": -10.72,
-    "risk_adjusted_alpha_7d_pct": -10.72
-   },
-   {
-    "ticker": "DLTH",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": 15.96,
-    "vs_spy_7d_pct": 16.42,
-    "risk_adjusted_alpha_7d_pct": 16.42
-   },
-   {
-    "ticker": "TOON",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -14.99,
-    "vs_spy_7d_pct": -14.53,
-    "risk_adjusted_alpha_7d_pct": -14.53
-   },
-   {
-    "ticker": "OCC",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -9.4,
-    "vs_spy_7d_pct": -8.94,
-    "risk_adjusted_alpha_7d_pct": -8.94
-   },
-   {
-    "ticker": "RFL",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": 14.91,
-    "vs_spy_7d_pct": 15.37,
-    "risk_adjusted_alpha_7d_pct": 15.37
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -10.13,
-    "vs_spy_7d_pct": -9.67,
-    "risk_adjusted_alpha_7d_pct": -9.67
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -10.13,
-    "vs_spy_7d_pct": -9.67,
-    "risk_adjusted_alpha_7d_pct": -9.67
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -10.13,
-    "vs_spy_7d_pct": -9.67,
-    "risk_adjusted_alpha_7d_pct": -9.67
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -10.13,
-    "vs_spy_7d_pct": -9.67,
-    "risk_adjusted_alpha_7d_pct": -9.67
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -10.13,
-    "vs_spy_7d_pct": -9.67,
-    "risk_adjusted_alpha_7d_pct": -9.67
-   },
-   {
-    "ticker": "SYRE",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -10.13,
-    "vs_spy_7d_pct": -9.67,
-    "risk_adjusted_alpha_7d_pct": -9.67
-   },
-   {
-    "ticker": "CHAI",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -21.3,
-    "vs_spy_7d_pct": -20.84,
-    "risk_adjusted_alpha_7d_pct": -20.84
-   },
-   {
-    "ticker": "CPOP",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -13.79,
-    "vs_spy_7d_pct": -13.33,
-    "risk_adjusted_alpha_7d_pct": -13.33
-   },
-   {
-    "ticker": "ACA",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -0.19,
-    "vs_spy_7d_pct": 0.27,
-    "risk_adjusted_alpha_7d_pct": 0.27
-   },
-   {
-    "ticker": "STX",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -11.47,
-    "vs_spy_7d_pct": -11.01,
-    "risk_adjusted_alpha_7d_pct": -11.01
-   },
-   {
-    "ticker": "ENTG",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -7.04,
-    "vs_spy_7d_pct": -6.58,
-    "risk_adjusted_alpha_7d_pct": -6.58
-   },
-   {
-    "ticker": "LPRO",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -0.32,
-    "vs_spy_7d_pct": 0.14,
-    "risk_adjusted_alpha_7d_pct": 0.14
-   },
-   {
-    "ticker": "MRNA",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": 17.45,
-    "vs_spy_7d_pct": 17.91,
-    "risk_adjusted_alpha_7d_pct": 17.91
-   },
-   {
-    "ticker": "JBL",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -0.97,
-    "vs_spy_7d_pct": -0.51,
-    "risk_adjusted_alpha_7d_pct": -0.51
-   },
-   {
-    "ticker": "XLO",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": 3.69,
-    "vs_spy_7d_pct": 4.15,
-    "risk_adjusted_alpha_7d_pct": 4.15
-   },
-   {
-    "ticker": "IMOS",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -17.06,
-    "vs_spy_7d_pct": -16.6,
-    "risk_adjusted_alpha_7d_pct": -16.6
+    "return_7d_pct": 11.11,
+    "vs_spy_7d_pct": 9.0,
+    "risk_adjusted_alpha_7d_pct": 7.88
    },
    {
     "ticker": "CPRX",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 0.25,
-    "vs_spy_7d_pct": 0.71,
-    "risk_adjusted_alpha_7d_pct": 0.71
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -1.82,
+    "risk_adjusted_alpha_7d_pct": -0.13
    },
    {
     "ticker": "MANE",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 20.23,
-    "vs_spy_7d_pct": 20.69,
-    "risk_adjusted_alpha_7d_pct": 20.69
-   },
-   {
-    "ticker": "SANM",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -5.14,
-    "vs_spy_7d_pct": -4.68,
-    "risk_adjusted_alpha_7d_pct": -4.68
-   },
-   {
-    "ticker": "CECO",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -9.63,
-    "vs_spy_7d_pct": -9.17,
-    "risk_adjusted_alpha_7d_pct": -9.17
-   },
-   {
-    "ticker": "SIMO",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -1.47,
-    "vs_spy_7d_pct": -1.01,
-    "risk_adjusted_alpha_7d_pct": -1.01
-   },
-   {
-    "ticker": "EXTR",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": 0.41,
-    "vs_spy_7d_pct": 0.87,
-    "risk_adjusted_alpha_7d_pct": 0.87
-   },
-   {
-    "ticker": "COCO",
-    "scored_on": "2026-06-22",
-    "band": "high",
-    "return_7d_pct": -12.49,
-    "vs_spy_7d_pct": -12.03,
-    "risk_adjusted_alpha_7d_pct": -12.03
+    "return_7d_pct": 6.59,
+    "vs_spy_7d_pct": 4.48,
+    "risk_adjusted_alpha_7d_pct": 5.1
    },
    {
     "ticker": "TEVA",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 3.45,
-    "vs_spy_7d_pct": 3.91,
-    "risk_adjusted_alpha_7d_pct": 3.91
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": -0.82,
+    "risk_adjusted_alpha_7d_pct": 0.87
    },
    {
     "ticker": "RSI",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 2.62,
-    "vs_spy_7d_pct": 3.08,
-    "risk_adjusted_alpha_7d_pct": 3.08
+    "return_7d_pct": 15.23,
+    "vs_spy_7d_pct": 13.12,
+    "risk_adjusted_alpha_7d_pct": 14.81
    },
    {
     "ticker": "EAT",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 1.93,
-    "vs_spy_7d_pct": 2.39,
-    "risk_adjusted_alpha_7d_pct": 2.39
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 4.8,
+    "risk_adjusted_alpha_7d_pct": 6.49
    },
    {
-    "ticker": "RSI",
-    "scored_on": "2026-06-22",
+    "ticker": "TTMI",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 2.62,
-    "vs_spy_7d_pct": 3.08,
-    "risk_adjusted_alpha_7d_pct": 3.08
+    "return_7d_pct": 15.85,
+    "vs_spy_7d_pct": 13.74,
+    "risk_adjusted_alpha_7d_pct": 10.67
    },
    {
-    "ticker": "CHEF",
-    "scored_on": "2026-06-22",
+    "ticker": "VIAV",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 1.6,
-    "vs_spy_7d_pct": 2.06,
-    "risk_adjusted_alpha_7d_pct": 2.06
+    "return_7d_pct": 10.87,
+    "vs_spy_7d_pct": 8.76,
+    "risk_adjusted_alpha_7d_pct": 5.48
    },
    {
-    "ticker": "SOFI",
-    "scored_on": "2026-06-22",
+    "ticker": "GTX",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 6.37,
-    "vs_spy_7d_pct": 6.83,
-    "risk_adjusted_alpha_7d_pct": 6.83
+    "return_7d_pct": 5.83,
+    "vs_spy_7d_pct": 3.72,
+    "risk_adjusted_alpha_7d_pct": 2.86
    },
    {
     "ticker": "BHE",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 1.6,
-    "vs_spy_7d_pct": 2.06,
-    "risk_adjusted_alpha_7d_pct": 2.06
+    "return_7d_pct": 6.01,
+    "vs_spy_7d_pct": 3.9,
+    "risk_adjusted_alpha_7d_pct": 1.47
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-06",
+    "band": "high",
+    "return_7d_pct": 21.99,
+    "vs_spy_7d_pct": 19.88,
+    "risk_adjusted_alpha_7d_pct": 15.66
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-06",
+    "band": "high",
+    "return_7d_pct": 7.92,
+    "vs_spy_7d_pct": 5.81,
+    "risk_adjusted_alpha_7d_pct": 7.5
    },
    {
     "ticker": "KRYS",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 10.11,
-    "vs_spy_7d_pct": 10.57,
-    "risk_adjusted_alpha_7d_pct": 10.57
+    "return_7d_pct": 7.62,
+    "vs_spy_7d_pct": 5.51,
+    "risk_adjusted_alpha_7d_pct": 7.08
    },
    {
     "ticker": "AGRO",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 5.57,
-    "vs_spy_7d_pct": 6.03,
-    "risk_adjusted_alpha_7d_pct": 6.03
+    "return_7d_pct": -4.39,
+    "vs_spy_7d_pct": -6.5,
+    "risk_adjusted_alpha_7d_pct": -5.56
    },
    {
     "ticker": "DOCN",
-    "scored_on": "2026-06-22",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": -9.85,
-    "vs_spy_7d_pct": -9.39,
-    "risk_adjusted_alpha_7d_pct": -9.39
+    "return_7d_pct": 7.07,
+    "vs_spy_7d_pct": 4.96,
+    "risk_adjusted_alpha_7d_pct": 2.52
    },
    {
-    "ticker": "OPLN",
-    "scored_on": "2026-06-22",
+    "ticker": "VVX",
+    "scored_on": "2026-06-06",
     "band": "high",
-    "return_7d_pct": 7.78,
-    "vs_spy_7d_pct": 8.24,
-    "risk_adjusted_alpha_7d_pct": 8.24
+    "return_7d_pct": 3.39,
+    "vs_spy_7d_pct": 1.28,
+    "risk_adjusted_alpha_7d_pct": 2.97
    },
    {
-    "ticker": "KMT",
-    "scored_on": "2026-06-22",
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": -1.75,
-    "vs_spy_7d_pct": -1.29,
-    "risk_adjusted_alpha_7d_pct": -1.29
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
    },
    {
-    "ticker": "GEO",
-    "scored_on": "2026-06-22",
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": -0.71,
-    "vs_spy_7d_pct": -0.25,
-    "risk_adjusted_alpha_7d_pct": -0.25
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
    },
    {
-    "ticker": "SITM",
-    "scored_on": "2026-06-22",
+    "ticker": "ESLT",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": -5.66,
-    "vs_spy_7d_pct": -5.2,
-    "risk_adjusted_alpha_7d_pct": -5.2
+    "return_7d_pct": 3.73,
+    "vs_spy_7d_pct": 3.16,
+    "risk_adjusted_alpha_7d_pct": 3.22
    },
    {
-    "ticker": "NAMS",
-    "scored_on": "2026-06-22",
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": 9.9,
-    "vs_spy_7d_pct": 10.36,
-    "risk_adjusted_alpha_7d_pct": 10.36
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
    },
    {
-    "ticker": "NBTX",
-    "scored_on": "2026-06-22",
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": 2.07,
-    "vs_spy_7d_pct": 2.53,
-    "risk_adjusted_alpha_7d_pct": 2.53
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
    },
    {
-    "ticker": "ALKS",
-    "scored_on": "2026-06-22",
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": 14.15,
-    "vs_spy_7d_pct": 14.61,
-    "risk_adjusted_alpha_7d_pct": 14.61
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
    },
    {
-    "ticker": "NBIS",
-    "scored_on": "2026-06-22",
+    "ticker": "PS",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": -7.92,
-    "vs_spy_7d_pct": -7.46,
-    "risk_adjusted_alpha_7d_pct": -7.46
+    "return_7d_pct": -6.15,
+    "vs_spy_7d_pct": -6.72,
+    "risk_adjusted_alpha_7d_pct": -7.24
    },
    {
-    "ticker": "STX",
-    "scored_on": "2026-06-21",
+    "ticker": "ARCB",
+    "scored_on": "2026-06-05",
     "band": "high",
-    "return_7d_pct": -11.47,
-    "vs_spy_7d_pct": -11.01,
-    "risk_adjusted_alpha_7d_pct": -11.01
+    "return_7d_pct": 11.57,
+    "vs_spy_7d_pct": 11.0,
+    "risk_adjusted_alpha_7d_pct": 11.4
+   },
+   {
+    "ticker": "AGX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -7.63,
+    "vs_spy_7d_pct": -8.2,
+    "risk_adjusted_alpha_7d_pct": -8.5
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "ESLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.73,
+    "vs_spy_7d_pct": 3.16,
+    "risk_adjusted_alpha_7d_pct": 3.22
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "PS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -6.15,
+    "vs_spy_7d_pct": -6.72,
+    "risk_adjusted_alpha_7d_pct": -7.24
+   },
+   {
+    "ticker": "ARCB",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 11.57,
+    "vs_spy_7d_pct": 11.0,
+    "risk_adjusted_alpha_7d_pct": 11.4
+   },
+   {
+    "ticker": "AGX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -7.63,
+    "vs_spy_7d_pct": -8.2,
+    "risk_adjusted_alpha_7d_pct": -8.5
+   },
+   {
+    "ticker": "ARCB",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 11.57,
+    "vs_spy_7d_pct": 11.0,
+    "risk_adjusted_alpha_7d_pct": 11.4
+   },
+   {
+    "ticker": "AGX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -7.63,
+    "vs_spy_7d_pct": -8.2,
+    "risk_adjusted_alpha_7d_pct": -8.5
+   },
+   {
+    "ticker": "PS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -6.15,
+    "vs_spy_7d_pct": -6.72,
+    "risk_adjusted_alpha_7d_pct": -7.24
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "PS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -6.15,
+    "vs_spy_7d_pct": -6.72,
+    "risk_adjusted_alpha_7d_pct": -7.24
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
+   },
+   {
+    "ticker": "VIAV",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.41,
+    "vs_spy_7d_pct": 11.84,
+    "risk_adjusted_alpha_7d_pct": 10.95
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.24,
+    "vs_spy_7d_pct": 12.67,
+    "risk_adjusted_alpha_7d_pct": 13.13
+   },
+   {
+    "ticker": "TTMI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 15.77,
+    "vs_spy_7d_pct": 15.2,
+    "risk_adjusted_alpha_7d_pct": 14.37
+   },
+   {
+    "ticker": "TEVA",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": 0.72,
+    "risk_adjusted_alpha_7d_pct": 1.18
+   },
+   {
+    "ticker": "DOCN",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.34,
+    "vs_spy_7d_pct": -0.23,
+    "risk_adjusted_alpha_7d_pct": -0.89
+   },
+   {
+    "ticker": "VVX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 6.34,
+    "risk_adjusted_alpha_7d_pct": 6.8
+   },
+   {
+    "ticker": "ICHR",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 37.97,
+    "vs_spy_7d_pct": 37.4,
+    "risk_adjusted_alpha_7d_pct": 36.26
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.01,
+    "vs_spy_7d_pct": 4.44,
+    "risk_adjusted_alpha_7d_pct": 4.21
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
+   },
+   {
+    "ticker": "VIAV",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.41,
+    "vs_spy_7d_pct": 11.84,
+    "risk_adjusted_alpha_7d_pct": 10.95
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.24,
+    "vs_spy_7d_pct": 12.67,
+    "risk_adjusted_alpha_7d_pct": 13.13
+   },
+   {
+    "ticker": "TTMI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 15.77,
+    "vs_spy_7d_pct": 15.2,
+    "risk_adjusted_alpha_7d_pct": 14.37
+   },
+   {
+    "ticker": "TEVA",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": 0.72,
+    "risk_adjusted_alpha_7d_pct": 1.18
+   },
+   {
+    "ticker": "DOCN",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.34,
+    "vs_spy_7d_pct": -0.23,
+    "risk_adjusted_alpha_7d_pct": -0.89
+   },
+   {
+    "ticker": "VVX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 6.34,
+    "risk_adjusted_alpha_7d_pct": 6.8
+   },
+   {
+    "ticker": "ICHR",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 37.97,
+    "vs_spy_7d_pct": 37.4,
+    "risk_adjusted_alpha_7d_pct": 36.26
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.01,
+    "vs_spy_7d_pct": 4.44,
+    "risk_adjusted_alpha_7d_pct": 4.21
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
+   },
+   {
+    "ticker": "VIAV",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.41,
+    "vs_spy_7d_pct": 11.84,
+    "risk_adjusted_alpha_7d_pct": 10.95
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.24,
+    "vs_spy_7d_pct": 12.67,
+    "risk_adjusted_alpha_7d_pct": 13.13
+   },
+   {
+    "ticker": "TTMI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 15.77,
+    "vs_spy_7d_pct": 15.2,
+    "risk_adjusted_alpha_7d_pct": 14.37
+   },
+   {
+    "ticker": "TEVA",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": 0.72,
+    "risk_adjusted_alpha_7d_pct": 1.18
+   },
+   {
+    "ticker": "DOCN",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.34,
+    "vs_spy_7d_pct": -0.23,
+    "risk_adjusted_alpha_7d_pct": -0.89
+   },
+   {
+    "ticker": "VVX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 6.34,
+    "risk_adjusted_alpha_7d_pct": 6.8
+   },
+   {
+    "ticker": "ICHR",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 37.97,
+    "vs_spy_7d_pct": 37.4,
+    "risk_adjusted_alpha_7d_pct": 36.26
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.01,
+    "vs_spy_7d_pct": 4.44,
+    "risk_adjusted_alpha_7d_pct": 4.21
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "INTC",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 25.61,
+    "vs_spy_7d_pct": 25.04,
+    "risk_adjusted_alpha_7d_pct": 23.9
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
+   },
+   {
+    "ticker": "VIAV",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.41,
+    "vs_spy_7d_pct": 11.84,
+    "risk_adjusted_alpha_7d_pct": 10.95
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.24,
+    "vs_spy_7d_pct": 12.67,
+    "risk_adjusted_alpha_7d_pct": 13.13
+   },
+   {
+    "ticker": "TTMI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 15.77,
+    "vs_spy_7d_pct": 15.2,
+    "risk_adjusted_alpha_7d_pct": 14.37
+   },
+   {
+    "ticker": "TEVA",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": 0.72,
+    "risk_adjusted_alpha_7d_pct": 1.18
+   },
+   {
+    "ticker": "DOCN",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.34,
+    "vs_spy_7d_pct": -0.23,
+    "risk_adjusted_alpha_7d_pct": -0.89
+   },
+   {
+    "ticker": "VVX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 6.34,
+    "risk_adjusted_alpha_7d_pct": 6.8
+   },
+   {
+    "ticker": "ICHR",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 37.97,
+    "vs_spy_7d_pct": 37.4,
+    "risk_adjusted_alpha_7d_pct": 36.26
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.01,
+    "vs_spy_7d_pct": 4.44,
+    "risk_adjusted_alpha_7d_pct": 4.21
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "INTC",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 25.61,
+    "vs_spy_7d_pct": 25.04,
+    "risk_adjusted_alpha_7d_pct": 23.9
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
+   },
+   {
+    "ticker": "VIAV",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.41,
+    "vs_spy_7d_pct": 11.84,
+    "risk_adjusted_alpha_7d_pct": 10.95
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.24,
+    "vs_spy_7d_pct": 12.67,
+    "risk_adjusted_alpha_7d_pct": 13.13
+   },
+   {
+    "ticker": "TTMI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 15.77,
+    "vs_spy_7d_pct": 15.2,
+    "risk_adjusted_alpha_7d_pct": 14.37
+   },
+   {
+    "ticker": "TEVA",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": 0.72,
+    "risk_adjusted_alpha_7d_pct": 1.18
+   },
+   {
+    "ticker": "DOCN",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.34,
+    "vs_spy_7d_pct": -0.23,
+    "risk_adjusted_alpha_7d_pct": -0.89
+   },
+   {
+    "ticker": "VVX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 6.34,
+    "risk_adjusted_alpha_7d_pct": 6.8
+   },
+   {
+    "ticker": "ICHR",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 37.97,
+    "vs_spy_7d_pct": 37.4,
+    "risk_adjusted_alpha_7d_pct": 36.26
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.01,
+    "vs_spy_7d_pct": 4.44,
+    "risk_adjusted_alpha_7d_pct": 4.21
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "INTC",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 25.61,
+    "vs_spy_7d_pct": 25.04,
+    "risk_adjusted_alpha_7d_pct": 23.9
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
+   },
+   {
+    "ticker": "VIAV",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.41,
+    "vs_spy_7d_pct": 11.84,
+    "risk_adjusted_alpha_7d_pct": 10.95
+   },
+   {
+    "ticker": "RSI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.24,
+    "vs_spy_7d_pct": 12.67,
+    "risk_adjusted_alpha_7d_pct": 13.13
+   },
+   {
+    "ticker": "TTMI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 15.77,
+    "vs_spy_7d_pct": 15.2,
+    "risk_adjusted_alpha_7d_pct": 14.37
+   },
+   {
+    "ticker": "TEVA",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 1.29,
+    "vs_spy_7d_pct": 0.72,
+    "risk_adjusted_alpha_7d_pct": 1.18
+   },
+   {
+    "ticker": "DOCN",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.34,
+    "vs_spy_7d_pct": -0.23,
+    "risk_adjusted_alpha_7d_pct": -0.89
+   },
+   {
+    "ticker": "VVX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.91,
+    "vs_spy_7d_pct": 6.34,
+    "risk_adjusted_alpha_7d_pct": 6.8
+   },
+   {
+    "ticker": "ICHR",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 37.97,
+    "vs_spy_7d_pct": 37.4,
+    "risk_adjusted_alpha_7d_pct": 36.26
+   },
+   {
+    "ticker": "GTX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.01,
+    "vs_spy_7d_pct": 4.44,
+    "risk_adjusted_alpha_7d_pct": 4.21
+   },
+   {
+    "ticker": "ASX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 12.02,
+    "vs_spy_7d_pct": 11.45,
+    "risk_adjusted_alpha_7d_pct": 10.31
+   },
+   {
+    "ticker": "LNTH",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 3.51,
+    "vs_spy_7d_pct": 2.94,
+    "risk_adjusted_alpha_7d_pct": 3.36
+   },
+   {
+    "ticker": "INTC",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 25.61,
+    "vs_spy_7d_pct": 25.04,
+    "risk_adjusted_alpha_7d_pct": 23.9
+   },
+   {
+    "ticker": "CPRX",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 0.29,
+    "vs_spy_7d_pct": -0.28,
+    "risk_adjusted_alpha_7d_pct": 0.18
+   },
+   {
+    "ticker": "COHU",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 23.13,
+    "vs_spy_7d_pct": 22.56,
+    "risk_adjusted_alpha_7d_pct": 21.42
+   },
+   {
+    "ticker": "ENLT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.22,
+    "vs_spy_7d_pct": 4.65,
+    "risk_adjusted_alpha_7d_pct": 3.86
+   },
+   {
+    "ticker": "LWLG",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -5.42,
+    "vs_spy_7d_pct": -5.99,
+    "risk_adjusted_alpha_7d_pct": -7.13
+   },
+   {
+    "ticker": "EAT",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 13.43,
+    "vs_spy_7d_pct": 12.86,
+    "risk_adjusted_alpha_7d_pct": 13.32
+   },
+   {
+    "ticker": "LOGI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": -1.88,
+    "vs_spy_7d_pct": -2.45,
+    "risk_adjusted_alpha_7d_pct": -2.7
+   },
+   {
+    "ticker": "KRYS",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 5.64,
+    "vs_spy_7d_pct": 5.07,
+    "risk_adjusted_alpha_7d_pct": 5.5
+   },
+   {
+    "ticker": "BHE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 7.16,
+    "vs_spy_7d_pct": 6.59,
+    "risk_adjusted_alpha_7d_pct": 5.93
+   },
+   {
+    "ticker": "MIRM",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 6.27,
+    "vs_spy_7d_pct": 5.7,
+    "risk_adjusted_alpha_7d_pct": 6.16
+   },
+   {
+    "ticker": "NOK",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.92,
+    "vs_spy_7d_pct": 2.35,
+    "risk_adjusted_alpha_7d_pct": 1.3
+   },
+   {
+    "ticker": "MANE",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 4.78,
+    "vs_spy_7d_pct": 4.21,
+    "risk_adjusted_alpha_7d_pct": 4.38
+   },
+   {
+    "ticker": "AGRO",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 2.01,
+    "vs_spy_7d_pct": 1.44,
+    "risk_adjusted_alpha_7d_pct": 1.69
+   },
+   {
+    "ticker": "AXTI",
+    "scored_on": "2026-06-05",
+    "band": "high",
+    "return_7d_pct": 9.14,
+    "vs_spy_7d_pct": 8.57,
+    "risk_adjusted_alpha_7d_pct": 7.43
    }
   ]
  },
  "equity_race": [
   {
-   "date": "2026-06-06",
-   "kronos_return_pct": 0.17,
-   "sp500_return_pct": null
-  },
-  {
-   "date": "2026-06-07",
-   "kronos_return_pct": 0.17,
-   "sp500_return_pct": null
-  },
-  {
    "date": "2026-06-08",
-   "kronos_return_pct": 5.37,
+   "kronos_return_pct": 4.58,
    "sp500_return_pct": 0.0
   },
   {
    "date": "2026-06-09",
-   "kronos_return_pct": 8.17,
-   "sp500_return_pct": 0.66
+   "kronos_return_pct": 4.84,
+   "sp500_return_pct": -0.26
   },
   {
    "date": "2026-06-10",
-   "kronos_return_pct": 13.31,
-   "sp500_return_pct": -3.7
+   "kronos_return_pct": 2.01,
+   "sp500_return_pct": -1.87
   },
   {
    "date": "2026-06-11",
-   "kronos_return_pct": 38.89,
-   "sp500_return_pct": -2.08
+   "kronos_return_pct": 18.33,
+   "sp500_return_pct": -0.15
   },
   {
    "date": "2026-06-12",
-   "kronos_return_pct": 41.51,
-   "sp500_return_pct": 0.02
+   "kronos_return_pct": 22.37,
+   "sp500_return_pct": 0.35
   },
   {
    "date": "2026-06-13",
-   "kronos_return_pct": 41.35,
-   "sp500_return_pct": 0.02
+   "kronos_return_pct": 22.37,
+   "sp500_return_pct": 0.35
   },
   {
    "date": "2026-06-14",
-   "kronos_return_pct": 41.28,
-   "sp500_return_pct": 0.02
+   "kronos_return_pct": 22.37,
+   "sp500_return_pct": 0.35
   },
   {
    "date": "2026-06-15",
-   "kronos_return_pct": 45.44,
-   "sp500_return_pct": 1.58
+   "kronos_return_pct": 27.86,
+   "sp500_return_pct": 2.01
   },
   {
    "date": "2026-06-16",
-   "kronos_return_pct": 36.63,
-   "sp500_return_pct": 2.36
+   "kronos_return_pct": 19.14,
+   "sp500_return_pct": 1.43
   },
   {
    "date": "2026-06-17",
-   "kronos_return_pct": 38.31,
-   "sp500_return_pct": 3.52
+   "kronos_return_pct": 22.69,
+   "sp500_return_pct": 0.19
   },
   {
    "date": "2026-06-18",
-   "kronos_return_pct": 51.45,
-   "sp500_return_pct": 9.27
+   "kronos_return_pct": 26.2,
+   "sp500_return_pct": 1.28
   },
   {
    "date": "2026-06-19",
-   "kronos_return_pct": 51.38,
-   "sp500_return_pct": 9.27
+   "kronos_return_pct": 26.2,
+   "sp500_return_pct": 1.28
   },
   {
    "date": "2026-06-20",
-   "kronos_return_pct": 51.61,
-   "sp500_return_pct": 9.27
+   "kronos_return_pct": 26.2,
+   "sp500_return_pct": 1.28
   },
   {
    "date": "2026-06-21",
-   "kronos_return_pct": 52.62,
-   "sp500_return_pct": 9.27
+   "kronos_return_pct": 26.2,
+   "sp500_return_pct": 1.28
   },
   {
    "date": "2026-06-22",
-   "kronos_return_pct": 52.38,
-   "sp500_return_pct": 12.6
+   "kronos_return_pct": 31.8,
+   "sp500_return_pct": 0.91
   },
   {
    "date": "2026-06-23",
-   "kronos_return_pct": 35.42,
-   "sp500_return_pct": 10.36
+   "kronos_return_pct": 23.92,
+   "sp500_return_pct": -0.54
   },
   {
    "date": "2026-06-24",
-   "kronos_return_pct": 37.27,
-   "sp500_return_pct": 14.99
+   "kronos_return_pct": 21.06,
+   "sp500_return_pct": -0.64
   },
   {
    "date": "2026-06-25",
-   "kronos_return_pct": 43.93,
-   "sp500_return_pct": 20.21
+   "kronos_return_pct": 23.41,
+   "sp500_return_pct": -0.65
   },
   {
    "date": "2026-06-26",
-   "kronos_return_pct": 47.17,
-   "sp500_return_pct": 18.91
+   "kronos_return_pct": 20.72,
+   "sp500_return_pct": -0.7
   },
   {
    "date": "2026-06-27",
-   "kronos_return_pct": 47.1,
-   "sp500_return_pct": 18.91
+   "kronos_return_pct": 20.72,
+   "sp500_return_pct": -0.7
   },
   {
    "date": "2026-06-28",
-   "kronos_return_pct": 48.17,
-   "sp500_return_pct": 18.91
+   "kronos_return_pct": 20.72,
+   "sp500_return_pct": -0.7
   },
   {
    "date": "2026-06-29",
-   "kronos_return_pct": 55.04,
-   "sp500_return_pct": 18.48
+   "kronos_return_pct": 21.92,
+   "sp500_return_pct": 0.47
   },
   {
    "date": "2026-06-30",
-   "kronos_return_pct": 61.05,
-   "sp500_return_pct": 19.14
+   "kronos_return_pct": 25.1,
+   "sp500_return_pct": 1.26
   },
   {
    "date": "2026-07-01",
-   "kronos_return_pct": 55.87,
-   "sp500_return_pct": 17.06
+   "kronos_return_pct": 19.42,
+   "sp500_return_pct": 1.05
   },
   {
    "date": "2026-07-02",
-   "kronos_return_pct": 53.42,
-   "sp500_return_pct": 12.07
+   "kronos_return_pct": 13.07,
+   "sp500_return_pct": 1.05
   },
   {
    "date": "2026-07-03",
-   "kronos_return_pct": 53.35,
-   "sp500_return_pct": 12.07
+   "kronos_return_pct": 13.07,
+   "sp500_return_pct": 1.05
   },
   {
    "date": "2026-07-04",
-   "kronos_return_pct": 53.27,
-   "sp500_return_pct": 12.07
+   "kronos_return_pct": 13.07,
+   "sp500_return_pct": 1.05
   },
   {
    "date": "2026-07-05",
-   "kronos_return_pct": 53.2,
-   "sp500_return_pct": 12.07
+   "kronos_return_pct": 13.07,
+   "sp500_return_pct": 1.05
+  },
+  {
+   "date": "2026-07-06",
+   "kronos_return_pct": 16.01,
+   "sp500_return_pct": 1.78
+  },
+  {
+   "date": "2026-07-07",
+   "kronos_return_pct": 16.01,
+   "sp500_return_pct": 1.78
   }
  ],
- "disclaimer": "Information and education only \u2014 not personal investment advice. Every figure above is measured against the S&P 500 and published including losers. Past performance does not guarantee future results. Capital at risk.",
  "picks_today": {
-  "count": 25,
+  "count": 19,
   "preview": [
    {
-    "ticker": "PFD",
-    "score": 71.75,
-    "entered_on": "2026-06-06"
+    "ticker": "KMT",
+    "score": 74.79,
+    "entered_on": "2026-06-08"
    },
    {
-    "ticker": "EAT",
-    "score": 71.82,
-    "entered_on": "2026-06-06"
+    "ticker": "GTX",
+    "score": 74.72,
+    "entered_on": "2026-06-08"
    }
   ],
   "note": "The full live list with entry, target and stop is members only."
@@ -1858,5 +1875,6 @@
    "name": "Stockopedia",
    "role": "fundamental quality ranks"
   }
- ]
+ ],
+ "disclaimer": "Information and education only. Not personal investment advice. Every figure above is measured against the S&P 500 and published including losers. Past performance does not guarantee future results. Capital at risk."
 }

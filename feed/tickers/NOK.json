@@ -1,0 +1,122 @@
+{
+ "ticker": "NOK",
+ "company": "Nokia Oyj",
+ "as_of": "2026-07-07T07:35:45.268473Z",
+ "score": {
+  "composite": 64.61,
+  "band": "medium",
+  "scored_at": "2026-06-06T04:48:05.297143",
+  "explanation": "NOK (Nokia Oyj): MEDIUM evidence quality (composite 65/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 83.0,
+   "catalyst": 63.88,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 58.1,
+   "asymmetry": 62.64
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 64.61,
+  "ret_7d_pct": 1.58,
+  "vs_spy_7d_pct": -0.53,
+  "risk_adjusted_7d_pct": -4.41,
+  "ret_30d_pct": -14.26,
+  "vs_spy_30d_pct": -15.89
+ },
+ "news": [
+  {
+   "title": "NOK 260605 13.50P (NOK260605P13500) Stock Options Chain | Quotes & News - Moomoo",
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxR0hjRTdHUUNIbmtpb3RfODh1TmczcnFLYmlITmhzcV9KQWVQazgyZ3ZhS1UxYUx0dXNNVW4td2NmSnpRby1IcWdZWU4taktxWFNFR29rbGI2OEE?oc=5",
+   "published_on": "2026-06-06",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "[NOK Stock] Nokia Q4 2020 Earnings Call (2/4/21) (IXq6UICwmA) - Fathom Journal",
+   "source": "Fathom Journal",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsVUJMM1BMY2s3U21VUHJKZlZIdlBNMG1ObTNLUS1DU0FLelpHdmJrX24zdENDNlBPY3NRUGg5d3hpaDVIVWtmbVJvMDV3dm1mYjIycGFib2lrNHR3YnpWUndIb1FDZXExNExGRHI2Vmk?oc=5",
+   "published_on": "2026-06-06",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "Nokia's $151B Defense Deal Is NOK Stock A Buy Now | Stock Market Today (PQheaXky2g) - Fathom Journal",
+   "source": "Fathom Journal",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aWmtTems0SzI0Z0xad1ZyRGluT2JSam9tRERNWjhadU5XTWhwMWhic2M5R3NSWmowR3ozOE9PYU8tSFU4SFB0RmpKRnRhQjB3cWFoOFo2S1FnT2lpYkZ0Mk8wMzlpYVFPV2hhUDdRdGxaMG9RMmc?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "NOK Stock Alert: Nokia Hits 16-Year High! (Price Prediction 2026) (ABsO9vBYpI) - Fathom Journal",
+   "source": "Fathom Journal",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwQktOWWpRajgweWFtYXJLMTU1dnBuNXoxVWJmdi1wT0JEaXlhck15MXRLUWlTTTc2NXI2Vk9Ndnp5dDNKTDJHZXJYUUhmbXdDSlYzcV9wbko3Zm9KeTNKbGc5N1JTSEpZUE5laXpUU2Q?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "Nokia's Best Report In Years! Recovery Time? $NOK Stock (LuvPTJmg3A) - Fathom Journal",
+   "source": "Fathom Journal",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUDRZLVZqUW9WNEJscFBubXlMMWphRjNOZU83WExqZW9fUXRqaDNjUEkxLUhzYWladnVpUlY3NGttTE1jUGxvME50YVg1cDJoaWp2SjkwOEZpNnlEYkJxXy1UOXZKdzZCQWRVZm1qNk0?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "Nokia Stock Slides As Volatility And Social Buzz Collide - StocksToTrade",
+   "source": "StocksToTrade",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUEyZHNJQnZ4YVp6RUJEdE1Tc0dtRThvdkRMeVRadXJ3dVFzdmtpZE55c2NQUlRYOTdNMHI1OUFZX3JpOWEyMDcwdVhiN2h3czBLYno4UUpOWkJjal95U01kd2NrbnJHNXhXOTN1QVhrc2RDNTZfTjNOeWhuaFhONVJRcVhjUQ?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "NOK STOCK ABOUT TO BREAK OUT? - UPDATE & ANALYSIS! (Dl0Pggw8P0) - Fathom Journal",
+   "source": "Fathom Journal",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMHFvQWtvaUtBb1lIRUppMWNwSlMzcmNTQ2RLbURxU1J3MTRCMHFCMDI1R2xPSGJfVGM0alUwRU1Ld0VlTk53eElvX0MzVEZ6eVYtTGFnaVVlR0dPcVVqU0pwWmwwLXdkaVRWRzFEbkNMRUtDVlE?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  },
+  {
+   "title": "Why Is Nokia Stock Falling Friday? - Nokia (NYSE:NOK) - Benzinga",
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTG0zUlRRZ2lJT0FoRlNEbkp3TTlqUWVJUG9NSGdvR0RXYmV6ZFRkQUNEUzlLMHZLLURTRFpma1R1UlBrdUhEWU9xWmJ0R1ZKSm03ajlyZ3VUd3QtUWNUMzE0TmtvS3c1c0k0ZElqREtYcEo4ekNvd0M4YmUyNlJyUVBfd0VSX1R4b1h6ekVkR3pQMlQ0WXV2UFF3?oc=5",
+   "published_on": "2026-06-05",
+   "sentiment": "bullish",
+   "catalyst_type": "contract",
+   "summary": "Nokia shares surged 8.45% on robust 5G and AI growth prospects, with a reported $151B defense deal fueling the rally. Profit-taking caused a 6.15% dip, but the overall momentum remains strong."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "market_cap": "$74.92B",
+  "pe_ratio": 83.875,
+  "forward_pe": 27.663828,
+  "revenue_growth": 2.4,
+  "eps_growth": null,
+  "beta": 0.765,
+  "analyst_consensus": "Buy",
+  "price_target": 12.51111,
+  "profitability_score": 20.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,7 +1,7 @@
 {
  "ticker": "ASX",
  "company": "ASX",
- "as_of": "2026-07-06T06:32:32.196218Z",
+ "as_of": "2026-07-07T07:35:45.140854Z",
  "score": {
   "composite": 72.7,
   "band": "high",
@@ -20,10 +20,10 @@
   "scored_on": "2026-06-05",
   "score_then": 72.7,
   "ret_7d_pct": 12.02,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "vs_spy_7d_pct": 11.45,
+  "risk_adjusted_7d_pct": 10.31,
+  "ret_30d_pct": 27.3,
+  "vs_spy_30d_pct": 25.44
  },
  "news": [
   {
@@ -116,6 +116,7 @@
   "captured_on": "2026-05-27"
  },
  "social": null,
+ "premium_levels": null,
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

@@ -1,0 +1,122 @@
+{
+ "ticker": "ICHR",
+ "company": "Ichor Holdings, Ltd.",
+ "as_of": "2026-07-07T07:35:45.306486Z",
+ "score": {
+  "composite": 68.71,
+  "band": "medium",
+  "scored_at": "2026-06-06T03:46:19.105218",
+  "explanation": "ICHR (Ichor Holdings, Ltd.): MEDIUM evidence quality (composite 69/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.5,
+   "catalyst": 56.28,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 56.0,
+   "asymmetry": 76.14
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 68.71,
+  "ret_7d_pct": 34.04,
+  "vs_spy_7d_pct": 31.93,
+  "risk_adjusted_7d_pct": 27.71,
+  "ret_30d_pct": 43.33,
+  "vs_spy_30d_pct": 41.7
+ },
+ "news": [
+  {
+   "title": "Ichor\u2019s Stock Jumped, Even As Profits Stayed Elusive - Finimize",
+   "source": "Finimize",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05R2NuQXVHQlNoeVAtaHQ5aGJIazlqTHNkV0pKWE1yVHlYSDlIRm11Zl9oeC1iajU2UWRGU0Nhd0Z4VGZLdzRuV3pnOFg3VDhkTHYwVm1OQkVjX0pw?oc=5",
+   "published_on": "2026-06-03",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "ICHR (NASDAQ) Form 144: Brokered notice to resell 20,000 restricted shares - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFU5M1drdXhtXzkyXzdSQUk3bUU1MFNEOXZCM3R4SVQydTJmRHFTWUJvclJDLU1zbzZIRGtPQkRBVnJpT3BKT0JicFZpS2loY0Mxb3ZFeVlfS0xyY1dMbzA4bFEzYm5NVTVRUER0VGNNTklKaUNnaW5UaVc1cWJOVVVTaHNoMEN3VXVUOERPdWlzRWJNTVdRRkRZNA?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "Ichor Holdings (ICHR) CFO has 1,081 shares withheld for RSU taxes - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnRiRnMtZjlNM21JQnRjQjVWNUdQdUZzczhCUXE0TjJJaXNzM003MUk4emNjV3dnOGJ5SFVXdmhtTFo3RzdvcENtRDZjdmRtYjdXRjJoT3U1Z3RMc3h4MnByOVlHRFZpV2FTLXlfcGxOZzJXeEFuYUZUNUkzMzF2bWhmZlU4WnZhcmZLbHRoWjRPVXVNeDVEREllSWJvMHYwNjdUeUNWWkRlYzJYalBrOGR3?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "Ichor Holdings (ICHR) director sells 20,000 shares in open-market trade - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVhIYkNmTHppQW5wRG9fS1gtSnI3QmtDM0dZN3JTVVFIY1k4XzdaWWJpTGg3ZzlOaVo5MUljZDhJM2w1SktpZVZHTkg0Rks4bTQ3cUx1d1lOT01ULXJfU0RpaGNZeldwYlpDbEtGUlFTaEtBeGlWTHVKR3JZQm03T21paHpzZ3lFR2M4SXNRbFFuY2RvVTFWLTlYbXhudHdaVmlWVVJBZmVsa01Gbi05bmNn?oc=5",
+   "published_on": "2026-06-02",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "Ichor Holdings (ICHR) Q1 Loss Per Share Narrows Challenging Bearish Earnings Narratives - Sahm",
+   "source": "Sahm",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSzVfV1NsQ0p0ZEtRSHd2TDZNa05GRXV5MkV2ejB5R1hqUEp3ajBFVlJseV8wTnI4THdzd0hqa05jUDNkai1BbjdXa1RldEt3ZGhWMnlicFYtTkc2VG1CT29XRmJsSXlYMHplX25KZ05yeTNIekc3dTBTNldEWDU3bi1nRHV2Q0R6d0RMcHAtN3hjWkdiNkdQdGo5Qk9fLUhhMVBsYUJHazZwZklJX0dkR1VMbmYzWXhIYmptUE1OMUQ5TjhTMDRTVWZZS0NUeVR3M0xj?oc=5",
+   "published_on": "2026-06-01",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "serenity-chokepoint added to PyPI",
+   "source": "Pypi.org",
+   "url": "https://pypi.org/project/serenity-chokepoint/",
+   "published_on": "2026-05-31",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "A Look At Ichor Holdings (ICHR) Valuation As New Shelf Registration And US$200 Million ATM Offering Announced - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXlMUUd3UGhVRWp2ZExpX2pMRzlJbnpYQkxfblByMElqSU52N2hKdXFPM1hBODdRbEQ4eWM2dTh4MUpvT3hQRkJSaE1xUGVpVTZLbVpZS3BQS1ZlMzROT1ZINmpYMExYRDRCYVo0N25ySVNNblVOeWpwbDFsVTU3R0tOa0YxQmZ0cE1YdGo4WGxQWlYzc1l1cHB2YWpBTTFxVnpIWW01WmhaZktrQ1pxTzRHcm9odWVBQ3lzX3lOT2lBdm0wS1ZSUDdFOWh3VHhsQUpsM0h30gHbAUFVX3lxTE5Uak1URlpad19zVXBMY2pyNUd6RkpubDVYT1FTdjVMWXFyZ1ZCdzBlX0UzNTZOZWhMX2JCZGlkWVhYQWk3cWR5YjNlSzZ1N3FEMlczQW8yMFZMSlQtWXYtTGFvVkh2bUJGeWcycDZqUU1sRDhHMEZKN3lMSHQ3NkdqbmZmclRqSVg0Y3NkeUhIV0F1U2tmVXVKeGpZbTVCaDYzcUpIUVp0Sm1qNlBuUW1rVEF1LWxodjdENHIxd3ZaRkJSSWdWVWJjX1BjN19OalJqc1l3ZHlCTE1aWQ?oc=5",
+   "published_on": "2026-05-30",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  },
+  {
+   "title": "Ichor Holdings (ICHR) CFO sells 19,662 shares under Rule 10b5-1 plan - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlpHcnlNby15cFZSelFZaEg2V19EN1dza1g3bGdpdE5uTlpZOUZpNmRiNW9CZ2hfRWJ4ZjhINkwxZ2ZUMjdtNVRiblNDSDZjTHdTSmttRDdzV3lmcVZ2bU01NGs4V0E5ZXFhaGdiWWFqVkRnUEgyT0lNZThvS3Z2cWdqdk82UVl5c3Y4X0dhb2M3TjJtT3pHU3B4R1FCZ3l3T2NDd0c1YVEtNTRxSmE2SGtR?oc=5",
+   "published_on": "2026-05-29",
+   "sentiment": "neutral",
+   "catalyst_type": "earnings",
+   "summary": "Ichor Holdings reported mixed Q1 results with a narrowed loss but strong Q2 outlook, while insider selling and a $200M ATM offering temper enthusiasm. The stock has surged 336.8% over the past year, prompting valuation concerns."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "market_cap": "$2.35B",
+  "pe_ratio": null,
+  "forward_pe": 29.810892,
+  "revenue_growth": 4.7,
+  "eps_growth": null,
+  "beta": 1.879,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 72.57143,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 100.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

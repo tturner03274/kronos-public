@@ -1,7 +1,7 @@
 {
  "ticker": "VVX",
  "company": "V2X, Inc.",
- "as_of": "2026-07-06T06:32:32.370610Z",
+ "as_of": "2026-07-07T07:35:44.418531Z",
  "score": {
   "composite": 73.5,
   "band": "high",
@@ -17,13 +17,13 @@
   }
  },
  "outcome": {
-  "scored_on": "2026-06-05",
-  "score_then": 66.37,
-  "ret_7d_pct": 6.91,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "scored_on": "2026-06-06",
+  "score_then": 73.5,
+  "ret_7d_pct": 3.39,
+  "vs_spy_7d_pct": 1.28,
+  "risk_adjusted_7d_pct": 2.97,
+  "ret_30d_pct": -9.2,
+  "vs_spy_30d_pct": -10.83
  },
  "news": [
   {
@@ -116,6 +116,15 @@
   "captured_on": "2026-05-06"
  },
  "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 84.94,
+  "stop_price": 80.693,
+  "target_price": 114.2987,
+  "exit_price": 80.572,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-07-07"
+ },
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

@@ -1,0 +1,130 @@
+{
+ "ticker": "TTMI",
+ "company": "TTM Technologies, Inc.",
+ "as_of": "2026-07-07T07:35:41.527886Z",
+ "score": {
+  "composite": 74.27,
+  "band": "high",
+  "scored_at": "2026-06-06T04:32:35.742713",
+  "explanation": "TTMI (TTM Technologies, Inc.): HIGH evidence quality (composite 74/100). Evidence strength: strong. Confidence: high. 18 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.5,
+   "catalyst": 65.88,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 75.5,
+   "asymmetry": 84.6
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 74.27,
+  "ret_7d_pct": 15.85,
+  "vs_spy_7d_pct": 13.74,
+  "risk_adjusted_7d_pct": 10.67,
+  "ret_30d_pct": -16.25,
+  "vs_spy_30d_pct": -17.88
+ },
+ "news": [
+  {
+   "title": "TTM Technologies (TTMI): 12 Best Multibagger Stocks to Buy in 2026 - Insider Monkey",
+   "source": "Insider Monkey",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2paUTNoSWRWYkd0SXRCWFc2aW55QVllNjhYWlh6NVk2ZEFWTDNlQmJPVFpfODlaUG5FTjd5ajY1Q0lYLU54OTlTOTZ1a0xoZDBSdm92Zlg5ZFRRZUtYclk4ZU5TZnpXV210VGRuMno0cmJjV0tuTkZvQXFWc1FSSTZraFJDdzRfNllQb0pzYUpVN0U0OC1VeGdvNW4xeTZwZjJTU0xRRFNNY2PSAbMBQVVfeXFMT0tUR0N1eXRuaWpMSlFpbGdhQnBoOS1SeHllbUdCZ3gwT2NxVXRub2pwVXpVQjBlODdyeGZzMmVJWUJxWnJKWGhVcG1QZTRDMUdzakVlVTdPRjRKZDZQd2Rubzl1WVpTb19Qb3NPOHNRcDdmTlRTeE43a1EzTnBibkFpNjBUQjNOLUpJamdaR0RhdDJ0UFpSR0tiV2pEYm9yV0N0TE9hVzYydTB3TEJJbkU4Tkk?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "TTM Technologies (TTMI): 12 Best Multibagger Stocks to Buy in 2026 - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3d6aTRaTDlWb1VnenFUWlo5Mzd6dGR1UWZLQlNPVVRGQlNId2djOEpGRDlzeDk3RVRieVEwRnNkdkVkSUdYa291SkZsNzQxRGVsM2ZCd3YxRkQxVFVjazYzeE5WRHRtOWdwZko3RzB4TlZvSzd3ckctM2JqLUk0RjY3VWl1WlRKajRqdW5qZGpDSDdaUm1uSExn?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "Is TTM (TTMI) a solid growth stock? 3 reasons to think yes - MSN",
+   "source": "MSN",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajdBdE8xUW41N1psSFY0Y2lVSENfeHJ6T2FYVGo4MGgwUVlWRVY3c2tGb013VHBpeDFqaWNFMVFLaHBEZ3lObXV4WEl4VUUxN3pVRV9vN0FCNzh6TE1ySXNPR242MEdjclZCcEhiZlVYV3c3d011c2FrZE0yR2ZXdmdsNEU5SEVXTnBjTjcybVVNN243WjV6Y21jZVRuUUdGaGJHcVF2dHY2ekRnUUE?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "TTM Technologies surges 8% as bullish 2026 outlook regains attention ahead of Investor Day - Quiver Quantitative",
+   "source": "Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemYxSmFZbEgwZHFVd2UyVDJ4Ti1sdkJPcXJTMXVrLW02QWlxWnBaWThCVU1LVFVSdHBZd29lYjUtQndsbDV3dlQwM3Jpck9Bb2xxbmJkdm15VEJzZ2pkUC1XV3NuMzN3aW4xdzJHWWlnUzZ6VGNBMHdGT1dPUVdESzdVZ1dGcWtaczg3VHk1TFdOYlJIRDNDUVZKQzhtbTFIanoxUHVzam5ubWFOcFJIVTBEV2dXeFg3MU9STTYtaDBocXc?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "Is TTM (TTMI) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance Singapore",
+   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlRsbU9lUEtkSTFLRGJxay1zYTlfRF91US1pRnlwcVpxTFVoc1g4LXg0aGxCbkw3TDlPdHR3SjRlbVZpc0FnV0pHbnN6NlhVMmNaT2djcmpUSWtyRjhnZ1huRnhkNlhnRkJwOEM4Y052ZUdiakZDaFN4YTI3eU4xVE1n?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "Is TTM Technologies Inc (TTMI) Overvalued After 3.1% Rally? GF V - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlhfSGlDdUd3YVVlcnYzNjY4cnFDNWtiYjJtaXVTdHdnLUs5M3RxQ09ySXcyQXJ2YzFzaVZQLWNuQUtVS25HdjZOTUN0S2lJeWhFQWc1RzlEZm1CMUZVN3pFaFpqQjBBbW9hSUppYUZKdWlMbEhjQ2ZQOXVHeWdkbl81Z1JTUDVpQW54YUNDSXdVNngyWDZRTHprUk5DYnFoczRSeTZUT1kzbkVtWUp2ZXU2MzF6bW5YOGVWTG90MHgwYTEtME1qaHNB?oc=5",
+   "published_on": "2026-05-22",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "Here's Why TTM Technologies (TTMI) is a Strong Growth Stock - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUNQYWlFckNLcl95SDVFY3hGVndlaEtxWlRSc3RueWE1ZndfOWthZklHSE9vZkpXRzlURWRPemRjMXJLbDFiYk1YUTRPazJfbThiX0Rqd0ZXWkdJMEoyVzlFNXJmaTJtclU3XzBJWFNwWGdrSEpvcmFmWVVzOHNXUHNOUmFDZGg4OE9XZEJ5QmdmbWZQN2xmSVItRXM?oc=5",
+   "published_on": "2026-05-21",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  },
+  {
+   "title": "TTMI Stock Price, Quote & Chart | TTM TECHNOLOGIES (NASDAQ:TTMI) - ChartMill",
+   "source": "ChartMill",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91S1VLZWRIVUZuWXVKRkF6NV9xVVBBRzF1ZU01a2NwbEpDVk0xUmxCTHlEeEJMY3d2eUFlRUlPdU1KZnVhTXUzOXJfb05rYXlaYjBBc0gxNWR0V21rU1hR?oc=5",
+   "published_on": "2026-05-21",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "TTMI surged after an AI-driven earnings beat and raised guidance, with a bullish 2026 revenue goal of $4B. Strong demand in AI and defense sectors, along with positive analyst coverage, supports the growth narrative."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "market_cap": "$16.57B",
+  "pe_ratio": 86.728264,
+  "forward_pe": 31.709887,
+  "revenue_growth": 30.4,
+  "eps_growth": 51.6,
+  "beta": 2.112,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 170.0,
+  "profitability_score": 60.0,
+  "balance_sheet_score": 80.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 167.62,
+  "stop_price": 181.0296,
+  "target_price": 226.9239,
+  "exit_price": 180.7581,
+  "exit_reason": "trailing_stop",
+  "closed_on": "2026-07-07"
+ },
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

@@ -1,7 +1,7 @@
 {
  "ticker": "LOGI",
  "company": "Logitech International S.A.",
- "as_of": "2026-07-06T06:32:32.237238Z",
+ "as_of": "2026-07-07T07:35:38.280429Z",
  "score": {
   "composite": 73.72,
   "band": "high",
@@ -17,13 +17,13 @@
   }
  },
  "outcome": {
-  "scored_on": "2026-06-05",
+  "scored_on": "2026-06-06",
   "score_then": 73.72,
-  "ret_7d_pct": -1.88,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "ret_7d_pct": -2.19,
+  "vs_spy_7d_pct": -4.3,
+  "risk_adjusted_7d_pct": -5.21,
+  "ret_30d_pct": -14.07,
+  "vs_spy_30d_pct": -15.7
  },
  "news": [
   {
@@ -116,6 +116,15 @@
   "captured_on": "2026-05-29"
  },
  "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 107.0604,
+  "stop_price": 98.103,
+  "target_price": 131.3503,
+  "exit_price": 97.9558,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-07-07"
+ },
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

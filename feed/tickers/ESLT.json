@@ -1,7 +1,7 @@
 {
  "ticker": "ESLT",
  "company": "ESLT",
- "as_of": "2026-07-06T06:32:32.174712Z",
+ "as_of": "2026-07-07T07:35:45.163854Z",
  "score": {
   "composite": 73.7,
   "band": "high",
@@ -20,8 +20,8 @@
   "scored_on": "2026-06-05",
   "score_then": 73.7,
   "ret_7d_pct": 3.73,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
+  "vs_spy_7d_pct": 3.16,
+  "risk_adjusted_7d_pct": 3.22,
   "ret_30d_pct": null,
   "vs_spy_30d_pct": null
  },
@@ -116,6 +116,15 @@
   "captured_on": "2026-05-27"
  },
  "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 823.36,
+  "stop_price": 823.36,
+  "target_price": 1104.0681,
+  "exit_price": 822.125,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-06-15"
+ },
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

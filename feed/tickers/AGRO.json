@@ -1,7 +1,7 @@
 {
  "ticker": "AGRO",
  "company": "Adecoagro S.A.",
- "as_of": "2026-07-06T06:32:31.963513Z",
+ "as_of": "2026-07-07T07:35:43.745269Z",
  "score": {
   "composite": 72.44,
   "band": "high",
@@ -17,13 +17,13 @@
   }
  },
  "outcome": {
-  "scored_on": "2026-06-05",
+  "scored_on": "2026-06-06",
   "score_then": 72.44,
-  "ret_7d_pct": 2.01,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "ret_7d_pct": -4.39,
+  "vs_spy_7d_pct": -6.5,
+  "risk_adjusted_7d_pct": -5.56,
+  "ret_30d_pct": -16.84,
+  "vs_spy_30d_pct": -18.47
  },
  "news": [
   {
@@ -124,6 +124,15 @@
   "captured_on": "2026-05-06"
  },
  "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 11.42,
+  "stop_price": 10.849,
+  "target_price": 15.2476,
+  "exit_price": 10.8327,
+  "exit_reason": "stop_hit",
+  "closed_on": "2026-06-17"
+ },
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

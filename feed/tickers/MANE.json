@@ -1,7 +1,7 @@
 {
  "ticker": "MANE",
  "company": "Veradermics, Incorporated",
- "as_of": "2026-07-06T06:32:31.691494Z",
+ "as_of": "2026-07-07T07:35:40.132674Z",
  "score": {
   "composite": 70.34,
   "band": "high",
@@ -17,13 +17,13 @@
   }
  },
  "outcome": {
-  "scored_on": "2026-06-05",
-  "score_then": 74.38,
-  "ret_7d_pct": 4.78,
-  "vs_spy_7d_pct": null,
-  "risk_adjusted_7d_pct": null,
-  "ret_30d_pct": null,
-  "vs_spy_30d_pct": null
+  "scored_on": "2026-06-06",
+  "score_then": 70.34,
+  "ret_7d_pct": 6.59,
+  "vs_spy_7d_pct": 4.48,
+  "risk_adjusted_7d_pct": 5.1,
+  "ret_30d_pct": 35.15,
+  "vs_spy_30d_pct": 33.52
  },
  "news": [
   {
@@ -116,6 +116,7 @@
   "captured_on": "2026-05-05"
  },
  "social": null,
+ "premium_levels": null,
  "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
  "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
 }

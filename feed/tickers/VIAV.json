@@ -1,0 +1,130 @@
+{
+ "ticker": "VIAV",
+ "company": "Viavi Solutions Inc.",
+ "as_of": "2026-07-07T07:35:41.861306Z",
+ "score": {
+  "composite": 72.92,
+  "band": "high",
+  "scored_at": "2026-06-06T04:32:35.742713",
+  "explanation": "VIAV (Viavi Solutions Inc.): HIGH evidence quality (composite 73/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 5 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 95.0,
+   "catalyst": 62.75,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 79.35
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 72.92,
+  "ret_7d_pct": 10.87,
+  "vs_spy_7d_pct": 8.76,
+  "risk_adjusted_7d_pct": 5.48,
+  "ret_30d_pct": -12.98,
+  "vs_spy_30d_pct": -14.61
+ },
+ "news": [
+  {
+   "title": "Viavi Solutions (VIAV) launches $500M common-stock offering with $75M option",
+   "source": "alpha_vantage",
+   "url": "https://www.stocktitan.net/sec-filings/VIAV/424b5-viavi-solutions-inc-prospectus-supplement-debt-securities-57b578c43997.html",
+   "published_on": "2026-05-19",
+   "sentiment": null,
+   "catalyst_type": null,
+   "summary": "Viavi Solutions (VIAV) has launched a preliminary common stock offering seeking to raise $500 million, with an additional $75 million available through an underwriters' option, to primarily repay its"
+  },
+  {
+   "title": "Viavi Solutions: Too Much Data Center Hype, Not Enough Growth In Profitability (VIAV) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTlqZGM0dm1rbUNIQzk0RjM3b3ZGcHktQnpQeV8xX2ZtdHhaVWFnYkV6aFI0cHlNaGd2N2VQamFCRWpseVFIMlhqazlpVXpacm8zb08tbkNDQ1E3TTRSOUQ4b29sMVlDdmpJaTY3OXM4TXZodl9TYl9uTkVLNUtRTTRKWUtWNmw1Z2EwbEM5VmFIQnJBZW1xWVlYM3pXMXhjMklvM1N5NUcxd3F6S1BsOU13cmNOcTV4?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  },
+  {
+   "title": "[144] VIAVI SOLUTIONS INC. SEC Filing - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTJfeHJ1VUtINlZxT0ZnSVBrUkhVclFMNUhxUEYyTW44aEZRb3ZybjcwN0NHQ3VlZU81THBoaXltd0hGQ3F1WG5ERmVIT2VqRk5wU3pqMFpXTDdsNl9HY1M2V1YxOUxraFF2TVFjM1hiWk0yZHllenRfZ2pOLXlIa2RkOUluZ09HREthZmRGbmVzd1dMWnJSVGptWnQ?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  },
+  {
+   "title": "Proposed insider sales at Viavi (NASDAQ: VIAV) total 206,583 shares - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1VLY1NXWnA1RUExb2NnRS1KZHRVMG5WbVhIcnRPb3ZSaDkxdy0xOV9YTndtOTBCaWFkUHZsNW5QQ205LXpPcDlDV3BOWFF2TGxUbS10N21Xd296YlRtdGkyeWxPekRHalFFRndtcEN0a0x0V1MwOTJoa3VBeEZzeVlQZ1VLWXhJcHFUaE5nbi13bl9uQkRQdVhydjI?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  },
+  {
+   "title": "VIAV (NASDAQ: VIAV) affiliate files Form 144 to resell 2,727 shares - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWV0RDFKMWE3dXI4cHNtYXFlWk4zUC1SY1MwcjlOQUVtbUhfSm1qWEFxcjIxdS1obWkxVV9ZZlY2cDVxNDloV2F1TjdEMU1POE9tekVIT0xwams1UTJSTkFEbHlVV1l6cFpOMm9seTcxTjdhS3BTSUlGXzdfYUFPdlZGYnk1dmxuSTZSQTRRUUpKSWNXY2pTVG9OYUs?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  },
+  {
+   "title": "VIAV (NASDAQ: VIAV) trusts and an individual report multiple common-share sales - Stock Titan",
+   "source": "Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmxzTFFqMl9qNlhfYmZteHlHY3pLV0NpSU1WdFM3Y3RVV3VRUXFYUG5wakd3NE1Tclptb3B2MzlONGhuQkhNYXp3MjlMSFpnT0JPa0tvY3c3ZG1CWnNVNlBBRklkRmJSSTdLWVV6MDZTaGhqZU56Ni1tZkNhYmxjTEJueHgxZ2stdUI4TFBib2tQa1BrUGt3c1o5cmI?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  },
+  {
+   "title": "Why Viavi Solutions (VIAV) Stock Is Up Today - TradingView",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckNpQnFqekVUb2dhekViMFMtOExkR2wwbmZYQ0VTSjIwQ1ZWNFpMZVQ4d0dxb1p5d19XVkthMmhmYzhPek9RdkFIeWVaMUwyU3V3VHpLUnhpVWJ3enlBeFN1REtBSUNTMlhPOVlMNkxiMG8tR2xMWkREckVWRVlpU2QtcUltUE1jd1Q5OVNQNVdNMThGTldjWWp1T284dVQ3eDdhSXNR?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  },
+  {
+   "title": "Why Viavi Solutions (VIAV) Is Up 16.9% After Mixed Q3 Results And Strong Q4 Revenue Outlook - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUtRZFY3MWl2amZaTmlVUmZoMjlIMEk5ZGlwRExTX2F5bGNRMDNldEYxeEt4M1AzZG84UFpKSGMzczFNSjdLN2x5T3ducmNFbm1XVG56NzJiM2JHX3c2em9LRVNUeTRqYzZadkVYd2dmejdsdU5aX2pJOEdQX3J4RFJfdXhoWjNuZ1Y3bHNIWUN2Mld1X243dWowNVBFR1k4NmxQSkt0Q0JpTUNtcUZ4azd0UUtwb184a2Y1UWdNNkt1dm8wanQ0MHFB0gHPAUFVX3lxTFBBRkVFWlBGOGh5RG8yT0l1Q1RReC1fYVdFT3VlRGxCeHI1cHk0UWhuVU5HN2JkY3hIbTFCM085ckxDWlBSU2h4cjlrOWtXb1FpTnpSZW9Ed05MUjFCOHVpMk5EemtobC1iaVNBcGxjc0s2WE8wc3lWcVMtQ1dVQjRmOUF5Q0ZFdGUzZ2xNQzMzb3JWai1uWTlOMUc5Sko5V3J2TGNOWEtFV09sZkRZSmMtbmVOdXh5MW9adW9yUmExMGtSang4UDVNbUpvRjh4VQ?oc=5",
+   "published_on": "2026-05-05",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "Viavi Solutions reported strong Q3 2026 earnings, beating estimates with revenue surging on data center and defense demand, driving shares up 15-17%. Despite insider selling, the positive earnings surprise and robust guidance signal continued momentum."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "market_cap": "$12.62B",
+  "pe_ratio": null,
+  "forward_pe": 42.320118,
+  "revenue_growth": 42.8,
+  "eps_growth": -68.5,
+  "beta": 1.233,
+  "analyst_consensus": "Strong Buy",
+  "price_target": 64.42857,
+  "profitability_score": 0.0,
+  "balance_sheet_score": 60.0,
+  "captured_on": "2026-05-06"
+ },
+ "social": null,
+ "premium_levels": {
+  "direction": "long",
+  "entry_price": 47.56,
+  "stop_price": 48.5112,
+  "target_price": 63.6377,
+  "exit_price": 48.4384,
+  "exit_reason": "trailing_stop",
+  "closed_on": "2026-07-07"
+ },
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}

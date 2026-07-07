@@ -1,0 +1,122 @@
+{
+ "ticker": "ARCB",
+ "company": "ArcBest Corporation",
+ "as_of": "2026-07-07T07:35:38.953772Z",
+ "score": {
+  "composite": 70.02,
+  "band": "high",
+  "scored_at": "2026-06-06T06:21:02.218301",
+  "explanation": "ARCB (ArcBest Corporation): HIGH evidence quality (composite 70/100). Evidence strength: strong. Confidence: high. 16 reference(s) across 4 source category(ies). Catalyst-class reference detected (earnings/analyst/catalyst). Registration is recent (0 days ago). Soft warnings: mixed_source_quality. Scoring is advisory only. Score band is an evidence-quality descriptor and does not constitute a trading recommendation.",
+  "dimensions": {
+   "evidence": 86.5,
+   "catalyst": 64.44,
+   "quality": 85.0,
+   "risk": 0.0,
+   "timing": 80.0,
+   "asymmetry": 73.8
+  }
+ },
+ "outcome": {
+  "scored_on": "2026-06-06",
+  "score_then": 70.02,
+  "ret_7d_pct": -1.28,
+  "vs_spy_7d_pct": -3.39,
+  "risk_adjusted_7d_pct": -1.9,
+  "ret_30d_pct": -14.35,
+  "vs_spy_30d_pct": -15.98
+ },
+ "news": [
+  {
+   "title": "ArcBest Corp (ARCB) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aYW4tN25OazFHTlgwZkVtUWY2cG1WenhMeFdPdXhrbl9saVBsRlBvZXo5QTFPbWFpcWhtREpjMmdIbTR4QlRCSnZrZzQxSmVsZG05RXY2OTdCU1IxQ0JhUUhFMTIwb0hfcHhXUmtGRTdta0RGbEE2aw?oc=5",
+   "published_on": "2026-06-18",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "ArcBest Corp (ARCB) Institutional Confidence",
+   "source": "TradingKey",
+   "url": "https://www.tradingkey.com/markets/stocks/nasdaq-arcb/sentiment",
+   "published_on": "2026-06-17",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "ARCB Maintained by Citigroup -- Price Target Raised to $202 - GuruFocus",
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1hDNnFtLWZWa25WN0pGVm9DWEpfZDB4MXU4cmJINXJnX1hlTGRHWDd4T2hTMzczMC1UV3IyMnAzVVlSNGZZcXh5VDdTOE1vOFpodWFlUWx4VEhUaXhkdjdqLXFEci1EZ0lYck90T0hINTI5ajdFU0djN01GWkZMLXNybTBBYnBQTVVhOTRQNXBEbE41elI5a0RrZzU4WTNMRElYMFJlWUZzQQ?oc=5",
+   "published_on": "2026-06-16",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "ArcBest Corporation Stock 12\u2011Month Price Target Raised to $153.36, Implies 11% Downside",
+   "source": "TradingView",
+   "url": "https://www.tradingview.com/news/tradingview:0373f555071ed:0-arcbest-corporation-stock-12-month-price-target-raised-to-153-36-implies-11-downside/",
+   "published_on": "2026-06-15",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "ARCB Maintained by Citigroup -- Price Target Raised to $202",
+   "source": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/8916829/arcb-maintained-by-citigroup-price-target-raised-to-202",
+   "published_on": "2026-06-15",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "Is ArcBest\u2019s (ARCB) Tesla Semi Expansion a Meaningful Edge or Just Careful Fleet Experimentation? - simplywall.st",
+   "source": "simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW0zSi1mTGE2a2RLT0xSN3FYZC1fU0dKcnB1YTVGUWN3WUs4b3hxY3hCaEQ2YmNwdmhTY3RFRWQwckZ2U0E0NG8tQWdELTdnZDNxbkhJNVFFcEJLcURXRXZzc096MUladlFyQldjbThIZ19PNGZOQmMxcFdGUDlKXzRwdmxDVlY5cVFwanNMMlBOUUtCQnRNUnV6YmxodnhBX3RPdVE0bnd4ZVNja2RKN2M4OXFDZGlaQWdiMDVtcXI5ZXVfa3dIRlZPc2fSAdIBQVVfeXFMT2FIUjFfU25NZ2ZyMFNLWEpHWWQ0UTRkRktlcU90ektYbXpMXzFpems3QTA2cFFvSlRuX0xGUWRCSXFXdWVVR1QxbEFVODQ4QTRuTlVWUXFlV1NBRUw2dm1sTzFmWVMtWmVZanRnQTRORjUzVDZtelduRGNULTZ1TzhMR2RpNnZEdGpjWFpXbXgxU2VrZHE0MmgxaWhnemZuSlRRMUlobFV3T05NcjVVSkVDd1JWdDdkZTh2bGdEWlV1aVMtQ0RjcFpUTDNMdFdsSG1B?oc=5",
+   "published_on": "2026-06-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "Fort Smith Metro News Briefs: ArcBest goes electric, Baptist Health nurse receives national award",
+   "source": "Talk Business & Politics",
+   "url": "https://talkbusiness.net/2026/06/fort-smith-metro-news-briefs-arcbest-goes-electric-baptist-health-nurse-receives-national-award/",
+   "published_on": "2026-06-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  },
+  {
+   "title": "How (ARCB) Movements Inform Risk Allocation Models - Stock Traders Daily",
+   "source": "Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeElod3dPT0UtZDRtVWQwZWlmQi1Kc3lubllmNnJZUjdJNklmbjczblR3dlQtWGE1SnV2SHRVVzFlcmhJcnQzODNlWk9FdFRhQlBPTzliSl9GcV84MERQemg4aDQwTERqd0tPTFBCa0NmTkQ5eUF3UjgtSXN4TC0xa3NqeU1NSjR3MnoxeGxyb05sSGdsTEtGbmxhb0tQWVVxS21pd2pMOENPZXF0NUpFMUtOUXJZekJJd1VJZ3ktSXBjellrUVRwTw?oc=5",
+   "published_on": "2026-06-13",
+   "sentiment": "bullish",
+   "catalyst_type": "earnings",
+   "summary": "ArcBest raised Q2 guidance and announced a 5.9% rate increase, driving strong price momentum and record highs. Multiple analyst upgrades and institutional confidence reinforce the bullish outlook."
+  }
+ ],
+ "catalysts": [],
+ "fundamentals": {
+  "sector": null,
+  "industry": null,
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "revenue_growth": null,
+  "eps_growth": null,
+  "beta": null,
+  "analyst_consensus": null,
+  "price_target": null,
+  "profitability_score": null,
+  "balance_sheet_score": null,
+  "captured_on": "2026-06-05"
+ },
+ "social": null,
+ "premium_levels": null,
+ "research_prompt": "This page is a research starting point, not a recommendation. The engine flagged this stock and here is everything it read to reach its score: the articles, the events, the numbers. Follow the links, read the sources, and make your own decision.",
+ "disclaimer": "Information and education only. Not personal investment advice. Capital at risk."
+}
