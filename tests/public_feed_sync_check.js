@@ -11,7 +11,9 @@ const siteJs = fs.readFileSync(path.join(root, "js", "site.js"), "utf8");
 const indexHtml = fs.readFileSync(path.join(root, "index.html"), "utf8");
 
 function lastRacePoint(feed) {
-  const race = feed.equity_race || [];
+  const race = Array.isArray(feed.equity_race)
+    ? feed.equity_race
+    : ((feed.equity_race || {}).points || []);
   return race[race.length - 1] || null;
 }
 
@@ -46,8 +48,8 @@ assert.doesNotMatch(
   /p\.kronos_return_pct - /,
   "race chart must not subtract a second frontend baseline from Track Record data",
 );
-assert.match(indexHtml, /js\/site\.js\?v=7/, "site.js cache-buster must be bumped");
-assert.match(indexHtml, /css\/site\.css\?v=7/, "site.css cache-buster must be bumped");
+assert.match(indexHtml, /js\/site\.js\?v=8/, "site.js cache-buster must be bumped");
+assert.match(indexHtml, /css\/site\.css\?v=8/, "site.css cache-buster must be bumped");
 assert.match(indexHtml, /id="stake-kronos"/, "retail £10k Kronos value must be rendered near the race chart");
 assert.match(indexHtml, /id="stake-sp"/, "retail £10k S&P value must be rendered near the race chart");
 assert.match(indexHtml, /id="stake-delta"/, "retail £10k value gap must be rendered near the race chart");

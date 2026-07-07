@@ -16,6 +16,9 @@ async function loadFeed() {
 
 const sign = v => v == null ? "n/a" : (v >= 0 ? "+" : "") + Number(v).toFixed(2) + "%";
 const money = v => v == null ? "n/a" : "£" + Math.round(Number(v)).toLocaleString("en-GB");
+const racePoints = feed => Array.isArray(feed.equity_race)
+  ? feed.equity_race
+  : ((feed.equity_race || {}).points || []);
 
 function renderStakeRace(reb) {
   const box = document.getElementById("stake-race");
@@ -34,6 +37,8 @@ function renderStakeRace(reb) {
   const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
   set("stake-kronos", money(kValue));
   set("stake-sp", money(sValue));
+  set("cv-kronos", money(kValue));
+  set("cv-sp", money(sValue));
   set("stake-delta", (delta >= 0 ? "+" : "-") + money(Math.abs(delta)));
   set("stake-kronos-gain", `${sign(lastK.k)} on the published proof account`);
   set("stake-sp-gain", `${sign(lastS.s)} over the same window`);
@@ -62,7 +67,7 @@ function renderHero(feed) {
 }
 
 function renderRace(feed) {
-  const pts = feed.equity_race || [];
+  const pts = racePoints(feed);
   const canvas = document.getElementById("race-chart");
   const head = document.getElementById("race-verdict");
   if (!canvas || pts.length < 2) {

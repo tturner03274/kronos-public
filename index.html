@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>KRONOS: the stock scorer that publishes its misses</title>
-  <meta name="description" content="An autonomous engine that scores thousands of stocks nightly and publishes every outcome, winners and losers, benchmarked against the S&P 500.">
+  <title>KRONOS: daily stock picks with a public track record</title>
+  <meta name="description" content="Kronos scores thousands of stocks, publishes every result, and shows retail investors the top-rated picks with a live track record against the S&P 500.">
   <meta name="theme-color" content="#07090c">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/site.css?v=7">
+  <link rel="stylesheet" href="css/site.css?v=8">
 </head>
 <body>
   <header class="nav">
@@ -28,14 +28,18 @@
   <section class="hero">
     <div class="wrap hero-grid">
       <div class="hero-copy">
-        <p class="kicker">AUTONOMOUS STOCK SCORING · EVERY OUTCOME PUBLISHED</p>
-        <h1>Most stock tips hide their misses.<br><em>We publish ours every night.</em></h1>
-        <p class="sub">Kronos is a machine that scores thousands of stocks around the clock, then
-          measures every single call against the S&amp;P 500, showing you the losers next to the winners.
-          No cherry-picking. No memory-holed bad calls. Just the ledger.</p>
+        <p class="kicker">DAILY STOCK INTELLIGENCE · PUBLIC TRACK RECORD</p>
+        <h1>Wake up to the stocks Kronos ranks highest today.<br><em>Then check the proof.</em></h1>
+        <p class="sub">Kronos scans thousands of stocks, filters them through a risk-adjusted scoring
+          engine, and publishes the record against the S&amp;P 500. Members get the live shortlist,
+          reference levels and the reason behind each pick. Everyone sees the receipts.</p>
         <div class="hero-cta-row">
-          <a href="#join" class="btn-primary">Get the picks</a>
-          <a href="#record" class="btn-ghost">See the track record</a>
+          <a href="#join" class="btn-primary">Reserve the live picks</a>
+          <a href="#race" class="btn-ghost">Show me the money proof</a>
+        </div>
+        <div class="hero-proofline">
+          <span><b>No hidden losers.</b> The ledger publishes winners and misses.</span>
+          <span><b>No vague tips.</b> Members see ticker, thesis, entry zone, target and risk level.</span>
         </div>
       </div>
       <div class="hero-entity">
@@ -59,6 +63,20 @@
       </div>
       <p class="asof mono" id="hero-trend" style="display:none"></p>
       <p class="asof mono" id="as-of">...</p>
+      <div class="conversion-strip" id="conversion-strip">
+        <div class="conversion-copy">
+          <span class="eyebrow">THE SHORT VERSION</span>
+          <h2>If you want an edge, stop guessing what to research.</h2>
+          <p>Kronos turns the market into a ranked morning list: strongest setups first,
+            weakest ignored, every result measured later. The free page proves the engine.
+            Membership gives you the live list before it becomes old news.</p>
+        </div>
+        <div class="conversion-cards">
+          <div class="conversion-card"><span>Proof pot</span><b id="cv-kronos">...</b><small>Kronos from a £10k start</small></div>
+          <div class="conversion-card"><span>Market pot</span><b id="cv-sp">...</b><small>S&amp;P 500 over the same window</small></div>
+          <div class="conversion-card hot"><span>What you get</span><b>Live picks</b><small>reference entry, target, stop and thesis</small></div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -92,6 +110,14 @@
       </div>
       <p class="note">Both lines use the same cumulative return source as the main Track Record. Proof account trades a fixed
         stake per pick with realistic costs. This is research performance, not a managed fund.</p>
+      <div class="cta-panel">
+        <div>
+          <span class="eyebrow">WHY THIS MATTERS</span>
+          <h3>If the proof account keeps beating the S&amp;P, the live shortlist is the product.</h3>
+          <p>The public chart shows the outcome. Members get the input: the names Kronos currently rates highest, before their results are known.</p>
+        </div>
+        <a href="#join" class="btn-primary">Get on the founding list</a>
+      </div>
       <div class="readout" id="real-trades-stats" style="display:none">
         <div class="readout-cell"><b id="rt-win">...</b><span>of closed top-tier trades were winners</span></div>
         <div class="readout-div"></div>
@@ -111,6 +137,12 @@
         identical window, reds left in. This table is regenerated from the raw ledger every night;
         yesterday's version can't be quietly edited.<span id="wall-30d-caveat"></span></p>
       <div class="bands-row" id="bands-row"></div>
+      <div class="joe-box">
+        <h3>Plain English: what should you take from this?</h3>
+        <p>If Kronos were guessing, the high, middle and low bands would all behave roughly the same.
+          They do not. The top band is where the edge has shown up. That is exactly what members pay for:
+          the highest-conviction list, not the noise.</p>
+      </div>
       <div class="table-scroll">
         <table class="wall" id="wall">
           <thead><tr><th>Pick</th><th>Scored on</th><th>7-day return</th><th>vs S&amp;P</th><th>Risk-adjusted edge</th></tr></thead>
@@ -226,15 +258,28 @@
       <h2>Today's top-rated picks</h2>
       <p class="lede">Members see the live list: every stock currently holding the engine's highest
         conviction grade, with reference levels. Below is a delayed preview.</p>
+      <div class="member-product">
+        <div class="member-copy">
+          <p class="eyebrow">THE MEMBER PRODUCT</p>
+          <h3>Open the app. See the shortlist. Know what to research first.</h3>
+          <p>No scrolling through thousands of tickers. Kronos shows the stocks that cleared the bar today,
+            why they cleared it, and the levels that define the idea.</p>
+        </div>
+        <div class="member-grid">
+          <div><b>1</b><span>Today's top-rated names</span></div>
+          <div><b>2</b><span>Why the machine picked them</span></div>
+          <div><b>3</b><span>Entry zone, target and risk level</span></div>
+          <div><b>4</b><span>Track record updates every night</span></div>
+        </div>
+      </div>
       <div class="picks-grid" id="picks-grid"></div>
 
       <!-- PRICING (transparent, before we ever charge) -->
       <div class="pricing" id="pricing">
         <p class="eyebrow">HONEST PRICING, BEFORE WE CHARGE A PENNY</p>
         <h3 class="pricing-h">Exactly what it costs, and what you get</h3>
-        <p class="pricing-note">We will not switch on payments until the track record has proven
-          itself in public for months. When it opens, founding members lock the launch price for life.
-          No hidden tiers, no surprise upsells.</p>
+        <p class="pricing-note">The proof stays public. The live shortlist is what members pay for.
+          Founding members lock the launch price for life. No hidden tiers, no surprise upsells.</p>
         <div class="tiers">
           <div class="tier">
             <div class="tier-name">FREE</div>
@@ -257,6 +302,7 @@
               <li>Everything in Free, plus:</li>
               <li>The live top-rated picks, before the market opens</li>
               <li>Reference entry, target and stop for every pick</li>
+              <li>The thesis in plain English: why this name, why now</li>
               <li>The morning brief in your inbox</li>
               <li>Cancel anytime. Founding rate locked for life.</li>
             </ul>
@@ -267,9 +313,9 @@
 
       <!-- CREATE ACCOUNT / EARLY ACCESS -->
       <div class="paywall" id="join">
-        <h3>Create your early-access account</h3>
-        <p>Claim your spot now. We'll set up your account and email you the moment the live picks
-          open, with your founding price locked in. One email, that's it.</p>
+        <h3>Get the live picks when access opens</h3>
+        <p>If the public proof makes sense to you, reserve your account. We'll email when the live
+          shortlist opens and lock your founding price.</p>
         <form class="waitlist" id="wl-form" onsubmit="return joinWaitlist(event)">
           <input type="email" id="wl-email" placeholder="you@email.com" required autocomplete="email">
           <input type="checkbox" name="botcheck" tabindex="-1" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0">
@@ -307,7 +353,12 @@
     </div>
   </footer>
 
-  <script src="js/site.js?v=7"></script>
+  <div class="sticky-cta">
+    <span><b>Want tomorrow's highest-rated names?</b> Reserve founding access.</span>
+    <a href="#join">Get the picks</a>
+  </div>
+
+  <script src="js/site.js?v=8"></script>
   <script src="js/entity.js?v=1"></script>
   <script src="js/engine-room.js?v=2"></script>
 </body>
