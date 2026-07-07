@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/site.css?v=6">
+  <link rel="stylesheet" href="css/site.css?v=7">
 </head>
 <body>
   <header class="nav">
@@ -68,6 +68,24 @@
       <h2>The race, in one picture</h2>
       <p class="lede">Kronos' proof account against the S&amp;P 500: same start, same window,
         marked to market daily. When the green line is above the amber one, the machine is winning.</p>
+      <div class="stake-race" id="stake-race" aria-label="Ten thousand pound portfolio comparison">
+        <div class="stake-card stake-kronos">
+          <span class="stake-label">£10,000 tracking Kronos</span>
+          <b id="stake-kronos">...</b>
+          <small id="stake-kronos-gain">...</small>
+        </div>
+        <div class="stake-card stake-sp">
+          <span class="stake-label">£10,000 tracking the S&amp;P 500</span>
+          <b id="stake-sp">...</b>
+          <small id="stake-sp-gain">...</small>
+        </div>
+        <div class="stake-card stake-delta">
+          <span class="stake-label">Extra value shown by the proof account</span>
+          <b id="stake-delta">...</b>
+          <small id="stake-window">same live window</small>
+        </div>
+      </div>
+      <p class="stake-copy" id="stake-copy">A plain-money view for new investors: if £10,000 tracked each line over the published proof window, this is what each pot would be worth today.</p>
       <div class="race-head mono" id="race-verdict">...</div>
       <div class="chart-card">
         <canvas id="race-chart" height="340"></canvas>
@@ -289,7 +307,7 @@
     </div>
   </footer>
 
-  <script src="js/site.js?v=6"></script>
+  <script src="js/site.js?v=7"></script>
   <script src="js/entity.js?v=1"></script>
   <script src="js/engine-room.js?v=2"></script>
 </body>

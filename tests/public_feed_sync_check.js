@@ -46,7 +46,13 @@ assert.doesNotMatch(
   /p\.kronos_return_pct - /,
   "race chart must not subtract a second frontend baseline from Track Record data",
 );
-assert.match(indexHtml, /js\/site\.js\?v=6/, "site.js cache-buster must be bumped");
+assert.match(indexHtml, /js\/site\.js\?v=7/, "site.js cache-buster must be bumped");
+assert.match(indexHtml, /css\/site\.css\?v=7/, "site.css cache-buster must be bumped");
+assert.match(indexHtml, /id="stake-kronos"/, "retail £10k Kronos value must be rendered near the race chart");
+assert.match(indexHtml, /id="stake-sp"/, "retail £10k S&P value must be rendered near the race chart");
+assert.match(indexHtml, /id="stake-delta"/, "retail £10k value gap must be rendered near the race chart");
+assert.match(siteJs, /const stake = 10000;/, "retail money race must use a £10,000 starting stake");
+assert.match(siteJs, /renderStakeRace\(reb\)/, "race render must populate the retail money cards from the feed");
 
 console.log("public feed sync check passed", {
   generated_at: publicFeed.generated_at,

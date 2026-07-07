@@ -15,6 +15,30 @@ async function loadFeed() {
 }
 
 const sign = v => v == null ? "n/a" : (v >= 0 ? "+" : "") + Number(v).toFixed(2) + "%";
+const money = v => v == null ? "n/a" : "£" + Math.round(Number(v)).toLocaleString("en-GB");
+
+function renderStakeRace(reb) {
+  const box = document.getElementById("stake-race");
+  if (!box || !reb || !reb.length) return;
+  const lastK = [...reb].reverse().find(p => p.k != null) || {};
+  const lastS = [...reb].reverse().find(p => p.s != null) || {};
+  if (lastK.k == null || lastS.s == null) {
+    box.style.display = "none";
+    return;
+  }
+  const stake = 10000;
+  const kValue = stake * (1 + Number(lastK.k) / 100);
+  const sValue = stake * (1 + Number(lastS.s) / 100);
+  const delta = kValue - sValue;
+  const start = reb.find(p => p.k != null || p.s != null) || {};
+  const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  set("stake-kronos", money(kValue));
+  set("stake-sp", money(sValue));
+  set("stake-delta", (delta >= 0 ? "+" : "-") + money(Math.abs(delta)));
+  set("stake-kronos-gain", `${sign(lastK.k)} on the published proof account`);
+  set("stake-sp-gain", `${sign(lastS.s)} over the same window`);
+  set("stake-window", start.d && lastK.d ? `${start.d} → ${lastK.d}` : "same live window");
+}
 
 function renderHero(feed) {
   const hb = (feed.verdict || {}).high_band || {};
@@ -54,6 +78,7 @@ function renderRace(feed) {
     k: p.kronos_return_pct,
     s: p.sp500_return_pct,
   }));
+  renderStakeRace(reb);
   const lastK = [...reb].reverse().find(p => p.k != null) || {},
         lastS = [...reb].reverse().find(p => p.s != null) || {};
   if (head && lastK.k != null) {
